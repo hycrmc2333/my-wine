@@ -120,3 +120,26 @@ test('art and real-photo views share a centered frame without cover cropping', a
     assert.equal(computed.height, '100%');
   }
 });
+
+test('inventory families support select-all, partial state, search and persistence', async t => {
+  const w=await boot(t,{optional:async()=>response(innovations)}), d=w.document;
+  const whisky=d.querySelector('[data-pantry-bulk="spirits:whisky"]');
+  const whiskyItems=[...d.querySelectorAll('[data-pantry-family="spirits:whisky"] [data-pantry-item]')];
+  assert.ok(whiskyItems.length>3);
+  whisky.click();
+  assert.ok(whiskyItems.every(i=>i.checked));
+  assert.equal(d.querySelector('[data-pantry-bulk="spirits:all"]').indeterminate,true);
+  assert.equal(d.querySelector('[data-pantry-bulk="liqueurs:all"]').checked,false);
+  whiskyItems[0].click();
+  assert.equal(whisky.indeterminate,true);
+  whisky.click();assert.ok(whiskyItems.every(i=>i.checked));
+  const search=d.querySelector('#pantry-search');search.value='波本';search.dispatchEvent(new w.Event('input',{bubbles:true}));
+  whisky.click();assert.ok(whiskyItems.every(i=>!i.checked),'clear includes hidden members');
+  const liqueurs=d.querySelector('[data-pantry-bulk="liqueurs:all"]');liqueurs.click();
+  assert.ok([...d.querySelectorAll('[data-pantry-group="liqueurs"] [data-pantry-item]')].every(i=>i.checked));
+  assert.equal(whisky.checked,false);
+  const stored=JSON.parse(w.localStorage.getItem('my-wine-pantry'));assert.ok(stored.items.includes('甜红味美思'));
+  d.querySelector('[data-pantry-clear]').click();
+  assert.equal(d.querySelectorAll('[data-pantry-item]:checked').length,0);
+  assert.equal(liqueurs.indeterminate,false);
+});

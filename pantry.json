@@ -1,9 +1,114 @@
 {
+  "families": {
+    "spirits": [
+      {
+        "id": "whisky",
+        "label": "威士忌"
+      },
+      {
+        "id": "brandy",
+        "label": "白兰地"
+      },
+      {
+        "id": "gin",
+        "label": "金酒"
+      },
+      {
+        "id": "rum",
+        "label": "朗姆酒"
+      },
+      {
+        "id": "vodka",
+        "label": "伏特加"
+      },
+      {
+        "id": "agave",
+        "label": "龙舌兰与梅斯卡尔"
+      },
+      {
+        "id": "wine",
+        "label": "葡萄酒与起泡酒"
+      },
+      {
+        "id": "fortified",
+        "label": "雪莉与波特酒"
+      },
+      {
+        "id": "other-spirit",
+        "label": "其他蒸馏酒"
+      }
+    ],
+    "liqueurs": [
+      {
+        "id": "vermouth",
+        "label": "味美思"
+      },
+      {
+        "id": "aperitif",
+        "label": "开胃酒与阿玛罗"
+      },
+      {
+        "id": "orange",
+        "label": "橙味利口酒"
+      },
+      {
+        "id": "fruit",
+        "label": "水果利口酒"
+      },
+      {
+        "id": "herbal",
+        "label": "草本与香料酒"
+      },
+      {
+        "id": "coffee-cocoa",
+        "label": "咖啡与可可利口酒"
+      },
+      {
+        "id": "nut",
+        "label": "坚果利口酒"
+      },
+      {
+        "id": "bitters",
+        "label": "苦精"
+      }
+    ],
+    "mixers": [
+      {
+        "id": "juice",
+        "label": "果汁与果泥"
+      },
+      {
+        "id": "produce",
+        "label": "水果与香草"
+      },
+      {
+        "id": "syrup",
+        "label": "糖浆与甜味料"
+      },
+      {
+        "id": "soda",
+        "label": "汽水与饮料"
+      },
+      {
+        "id": "dairy",
+        "label": "乳制品与蛋"
+      },
+      {
+        "id": "tea-coffee",
+        "label": "茶与咖啡"
+      },
+      {
+        "id": "seasoning",
+        "label": "调味料与其他"
+      }
+    ]
+  },
   "items": [
     {
       "id": "柠檬汁",
       "label": "柠檬汁",
       "group": "mixers",
+      "subgroup": "juice",
       "aliases": [
         "新鲜柠檬汁",
         "柠檬汁",
@@ -17,6 +122,7 @@
       "id": "青柠汁",
       "label": "青柠汁",
       "group": "mixers",
+      "subgroup": "juice",
       "aliases": [
         "新鲜青柠汁",
         "青柠汁",
@@ -29,6 +135,7 @@
       "id": "普通糖浆（1:1）",
       "label": "普通糖浆（1:1）",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "1:1 糖浆",
         "单糖浆",
@@ -46,6 +153,7 @@
       "id": "金酒",
       "label": "金酒",
       "group": "spirits",
+      "subgroup": "gin",
       "aliases": [
         "白朗姆／金酒／卡莎萨",
         "金酒"
@@ -57,6 +165,7 @@
       "id": "伏特加",
       "label": "伏特加",
       "group": "spirits",
+      "subgroup": "vodka",
       "aliases": [
         "伏特加"
       ],
@@ -67,6 +176,7 @@
       "id": "安格仕芳香苦精",
       "label": "安格仕芳香苦精",
       "group": "liqueurs",
+      "subgroup": "bitters",
       "aliases": [
         "Angostura 芳香苦精",
         "安格仕苦精"
@@ -80,6 +190,7 @@
       "id": "波本威士忌",
       "label": "波本威士忌",
       "group": "spirits",
+      "subgroup": "whisky",
       "aliases": [
         "波本威士忌",
         "波本或黑麦威士忌",
@@ -94,6 +205,7 @@
       "id": "甜红味美思",
       "label": "甜红味美思",
       "group": "liqueurs",
+      "subgroup": "vermouth",
       "aliases": [
         "仙山露红甜味美思（Cinzano Rosso）",
         "甜味美思",
@@ -106,6 +218,7 @@
       "id": "菠萝汁",
       "label": "菠萝汁",
       "group": "mixers",
+      "subgroup": "juice",
       "aliases": [
         "新鲜菠萝汁",
         "菠萝汁",
@@ -118,6 +231,7 @@
       "id": "金巴利 Campari",
       "label": "金巴利 Campari",
       "group": "liqueurs",
+      "subgroup": "aperitif",
       "aliases": [
         "Campari",
         "Campari 类意式红苦酒",
@@ -132,6 +246,7 @@
       "id": "干邑白兰地",
       "label": "干邑白兰地",
       "group": "spirits",
+      "subgroup": "brandy",
       "aliases": [
         "干邑",
         "干邑白兰地"
@@ -145,6 +260,7 @@
       "id": "马拉斯奇诺樱桃利口酒",
       "label": "马拉斯奇诺樱桃利口酒",
       "group": "liqueurs",
+      "subgroup": "fruit",
       "aliases": [
         "Luxardo 马拉斯奇诺樱桃利口酒",
         "卢萨多马拉斯奇诺樱桃利口酒"
@@ -156,6 +272,7 @@
       "id": "橙汁",
       "label": "橙汁",
       "group": "mixers",
+      "subgroup": "juice",
       "aliases": [
         "新鲜橙汁",
         "鲜榨橙汁",
@@ -168,6 +285,7 @@
       "id": "苏打水",
       "label": "苏打水",
       "group": "mixers",
+      "subgroup": "soda",
       "aliases": [
         "冰镇苏打水",
         "苏打水"
@@ -179,6 +297,7 @@
       "id": "黑麦威士忌",
       "label": "黑麦威士忌",
       "group": "spirits",
+      "subgroup": "whisky",
       "aliases": [
         "波本或黑麦威士忌",
         "黑麦威士忌",
@@ -193,6 +312,7 @@
       "id": "薄荷",
       "label": "薄荷",
       "group": "mixers",
+      "subgroup": "produce",
       "aliases": [
         "新鲜薄荷枝",
         "薄荷叶"
@@ -204,6 +324,7 @@
       "id": "白朗姆酒",
       "label": "白朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "白朗姆酒",
         "白朗姆／金酒／卡莎萨"
@@ -217,6 +338,7 @@
       "id": "蜂蜜糖浆",
       "label": "蜂蜜糖浆",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "莫林蜂蜜糖浆",
         "蜂蜜糖浆"
@@ -228,6 +350,7 @@
       "id": "橙味苦精",
       "label": "橙味苦精",
       "group": "liqueurs",
+      "subgroup": "bitters",
       "aliases": [
         "橙味苦精"
       ],
@@ -238,6 +361,7 @@
       "id": "蛋清",
       "label": "蛋清",
       "group": "mixers",
+      "subgroup": "dairy",
       "aliases": [
         "生蛋清",
         "蛋清",
@@ -250,6 +374,7 @@
       "id": "苦艾酒 Absinthe",
       "label": "苦艾酒 Absinthe",
       "group": "liqueurs",
+      "subgroup": "herbal",
       "aliases": [
         "苦艾酒",
         "苦艾酒 Absinthe"
@@ -261,6 +386,7 @@
       "id": "伦敦干金酒",
       "label": "伦敦干金酒",
       "group": "spirits",
+      "subgroup": "gin",
       "aliases": [
         "伦敦干金酒"
       ],
@@ -274,6 +400,7 @@
       "id": "白砂糖",
       "label": "白砂糖",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "特细砂糖或普通砂糖",
         "白蔗糖",
@@ -287,6 +414,7 @@
       "id": "橙味利口酒 Triple Sec",
       "label": "橙味利口酒 Triple Sec",
       "group": "liqueurs",
+      "subgroup": "orange",
       "aliases": [
         "橙味利口酒 Triple Sec",
         "橙味利口酒（Triple Sec）"
@@ -298,6 +426,7 @@
       "id": "君度橙酒 Cointreau",
       "label": "君度橙酒 Cointreau",
       "group": "liqueurs",
+      "subgroup": "orange",
       "aliases": [
         "Cointreau 君度橙酒",
         "君度橙酒 Cointreau",
@@ -312,6 +441,7 @@
       "id": "石榴糖浆",
       "label": "石榴糖浆",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "石榴糖浆"
       ],
@@ -322,6 +452,7 @@
       "id": "接骨木花利口酒",
       "label": "接骨木花利口酒",
       "group": "liqueurs",
+      "subgroup": "herbal",
       "aliases": [
         "接骨木花利口酒",
         "接骨木花利口酒（如 St-Germain）"
@@ -333,6 +464,7 @@
       "id": "100% 龙舌兰酒",
       "label": "100% 龙舌兰酒",
       "group": "spirits",
+      "subgroup": "agave",
       "aliases": [
         "100% 龙舌兰酒"
       ],
@@ -345,6 +477,7 @@
       "id": "鲜奶油",
       "label": "鲜奶油",
       "group": "mixers",
+      "subgroup": "dairy",
       "aliases": [
         "冷藏鲜奶油",
         "奶油",
@@ -357,6 +490,7 @@
       "id": "普罗塞克起泡酒",
       "label": "普罗塞克起泡酒",
       "group": "spirits",
+      "subgroup": "wine",
       "aliases": [
         "Brut 干型香槟或普罗塞克起泡酒",
         "普罗塞克起泡酒"
@@ -370,6 +504,7 @@
       "id": "白兰地",
       "label": "白兰地",
       "group": "spirits",
+      "subgroup": "brandy",
       "aliases": [
         "干邑或其他白兰地",
         "白兰地"
@@ -381,6 +516,7 @@
       "id": "法勒南糖酒 Falernum",
       "label": "法勒南糖酒 Falernum",
       "group": "liqueurs",
+      "subgroup": "herbal",
       "aliases": [
         "法勒南糖酒 Falernum",
         "法勒纳姆（Falernum）"
@@ -392,6 +528,7 @@
       "id": "爱尔兰威士忌",
       "label": "爱尔兰威士忌",
       "group": "spirits",
+      "subgroup": "whisky",
       "aliases": [
         "爱尔兰威士忌"
       ],
@@ -402,6 +539,7 @@
       "id": "Aperol 开胃酒",
       "label": "Aperol 开胃酒",
       "group": "liqueurs",
+      "subgroup": "aperitif",
       "aliases": [
         "Aperol 开胃酒",
         "Aperol 类橙色开胃酒"
@@ -413,6 +551,7 @@
       "id": "浓糖浆（2:1）",
       "label": "浓糖浆（2:1）",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "浓糖浆",
         "浓糖浆（2:1）"
@@ -424,6 +563,7 @@
       "id": "全脂牛奶",
       "label": "全脂牛奶",
       "group": "mixers",
+      "subgroup": "dairy",
       "aliases": [
         "全脂牛奶"
       ],
@@ -434,6 +574,7 @@
       "id": "方糖",
       "label": "方糖",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "方糖"
       ],
@@ -444,6 +585,7 @@
       "id": "干味美思",
       "label": "干味美思",
       "group": "liqueurs",
+      "subgroup": "vermouth",
       "aliases": [
         "干味美思"
       ],
@@ -454,6 +596,7 @@
       "id": "蔓越莓汁",
       "label": "蔓越莓汁",
       "group": "mixers",
+      "subgroup": "juice",
       "aliases": [
         "蔓越莓汁"
       ],
@@ -464,6 +607,7 @@
       "id": "姜汁啤酒 Ginger Beer",
       "label": "姜汁啤酒 Ginger Beer",
       "group": "mixers",
+      "subgroup": "soda",
       "aliases": [
         "姜汁啤酒 Ginger Beer",
         "姜汁啤酒（Ginger Beer）"
@@ -475,6 +619,7 @@
       "id": "干金酒",
       "label": "干金酒",
       "group": "spirits",
+      "subgroup": "gin",
       "aliases": [
         "干金酒"
       ],
@@ -487,6 +632,7 @@
       "id": "卡莎萨 Cachaça",
       "label": "卡莎萨 Cachaça",
       "group": "spirits",
+      "subgroup": "other-spirit",
       "aliases": [
         "卡莎萨甘蔗蒸馏酒 Cachaça",
         "卡莎萨（Cachaça）",
@@ -499,6 +645,7 @@
       "id": "蜂蜜",
       "label": "蜂蜜",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "原蜜",
         "蜂蜜"
@@ -510,6 +657,7 @@
       "id": "香槟",
       "label": "香槟",
       "group": "spirits",
+      "subgroup": "wine",
       "aliases": [
         "冰镇香槟",
         "香槟"
@@ -523,6 +671,7 @@
       "id": "绿查特利口酒 Green Chartreuse",
       "label": "绿查特利口酒 Green Chartreuse",
       "group": "liqueurs",
+      "subgroup": "herbal",
       "aliases": [
         "绿查特利口酒 Green Chartreuse",
         "绿色 Chartreuse 草本利口酒"
@@ -534,6 +683,7 @@
       "id": "可乐",
       "label": "可乐",
       "group": "mixers",
+      "subgroup": "soda",
       "aliases": [
         "可乐"
       ],
@@ -544,6 +694,7 @@
       "id": "百香果糖浆",
       "label": "百香果糖浆",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "百香果糖浆"
       ],
@@ -554,6 +705,7 @@
       "id": "杏仁糖浆 Orgeat",
       "label": "杏仁糖浆 Orgeat",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "杏仁糖浆 Orgeat",
         "杏仁糖浆（Orgeat）"
@@ -565,6 +717,7 @@
       "id": "皮斯科 Pisco",
       "label": "皮斯科 Pisco",
       "group": "spirits",
+      "subgroup": "other-spirit",
       "aliases": [
         "皮斯科",
         "皮斯科（Pisco）"
@@ -576,6 +729,7 @@
       "id": "牙买加朗姆酒",
       "label": "牙买加朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "牙买加朗姆酒"
       ],
@@ -586,6 +740,7 @@
       "id": "黄瓜",
       "label": "黄瓜",
       "group": "mixers",
+      "subgroup": "produce",
       "aliases": [
         "黄瓜",
         "黄瓜轮片"
@@ -597,6 +752,7 @@
       "id": "古巴白朗姆酒",
       "label": "古巴白朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "古巴白朗姆酒"
       ],
@@ -611,6 +767,7 @@
       "id": "浓缩咖啡",
       "label": "浓缩咖啡",
       "group": "mixers",
+      "subgroup": "tea-coffee",
       "aliases": [
         "意式浓缩咖啡",
         "浓缩咖啡 Espresso"
@@ -622,6 +779,7 @@
       "id": "卡尔瓦多斯苹果白兰地",
       "label": "卡尔瓦多斯苹果白兰地",
       "group": "spirits",
+      "subgroup": "brandy",
       "aliases": [
         "Calvados 苹果白兰地",
         "卡尔瓦多斯苹果白兰地"
@@ -633,6 +791,7 @@
       "id": "黑胡椒",
       "label": "黑胡椒",
       "group": "mixers",
+      "subgroup": "seasoning",
       "aliases": [
         "塔巴斯科辣椒汁、芹菜盐与胡椒",
         "盐与黑胡椒"
@@ -644,6 +803,7 @@
       "id": "库拉索橙味利口酒",
       "label": "库拉索橙味利口酒",
       "group": "liqueurs",
+      "subgroup": "orange",
       "aliases": [
         "库拉索橙味利口酒",
         "橙味库拉索利口酒"
@@ -655,6 +815,7 @@
       "id": "青柠（整果）",
       "label": "青柠（整果）",
       "group": "mixers",
+      "subgroup": "produce",
       "aliases": [
         "青柠",
         "青柠块"
@@ -668,6 +829,7 @@
       "id": "老汤姆金酒 Old Tom Gin",
       "label": "老汤姆金酒 Old Tom Gin",
       "group": "spirits",
+      "subgroup": "gin",
       "aliases": [
         "老汤姆金酒 Old Tom Gin",
         "老汤姆金酒（Old Tom Gin）"
@@ -681,6 +843,7 @@
       "id": "丽叶白开胃酒 Lillet Blanc",
       "label": "丽叶白开胃酒 Lillet Blanc",
       "group": "liqueurs",
+      "subgroup": "aperitif",
       "aliases": [
         "丽叶白开胃酒 Lillet Blanc",
         "丽叶白开胃酒（Lillet Blanc）"
@@ -692,6 +855,7 @@
       "id": "阿玛雷托杏仁利口酒",
       "label": "阿玛雷托杏仁利口酒",
       "group": "liqueurs",
+      "subgroup": "nut",
       "aliases": [
         "阿玛雷托杏仁利口酒"
       ],
@@ -702,6 +866,7 @@
       "id": "罗勒",
       "label": "罗勒",
       "group": "mixers",
+      "subgroup": "produce",
       "aliases": [
         "意大利罗勒叶",
         "新鲜罗勒"
@@ -713,6 +878,7 @@
       "id": "西柚汁",
       "label": "西柚汁",
       "group": "mixers",
+      "subgroup": "juice",
       "aliases": [
         "西柚汁"
       ],
@@ -723,6 +889,7 @@
       "id": "百香果果泥",
       "label": "百香果果泥",
       "group": "mixers",
+      "subgroup": "juice",
       "aliases": [
         "百香果果泥"
       ],
@@ -733,6 +900,7 @@
       "id": "生姜",
       "label": "生姜",
       "group": "mixers",
+      "subgroup": "produce",
       "aliases": [
         "新鲜姜片",
         "薄姜片"
@@ -744,6 +912,7 @@
       "id": "干白葡萄酒",
       "label": "干白葡萄酒",
       "group": "spirits",
+      "subgroup": "wine",
       "aliases": [
         "干白葡萄酒"
       ],
@@ -756,6 +925,7 @@
       "id": "黑加仑利口酒 Crème de Cassis",
       "label": "黑加仑利口酒 Crème de Cassis",
       "group": "liqueurs",
+      "subgroup": "fruit",
       "aliases": [
         "黑加仑利口酒 Crème de Cassis",
         "黑醋栗利口酒（Crème de Cassis）"
@@ -767,6 +937,7 @@
       "id": "龙舌兰酒",
       "label": "龙舌兰酒",
       "group": "spirits",
+      "subgroup": "agave",
       "aliases": [
         "龙舌兰酒"
       ],
@@ -777,6 +948,7 @@
       "id": "蜂蜜混合液（Honey Mix）",
       "label": "蜂蜜混合液（Honey Mix）",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "蜂蜜混合液（Honey Mix）"
       ],
@@ -787,6 +959,7 @@
       "id": "梅斯卡尔",
       "label": "梅斯卡尔",
       "group": "spirits",
+      "subgroup": "agave",
       "aliases": [
         "梅斯卡尔",
         "梅斯卡尔（Mezcal）"
@@ -798,6 +971,7 @@
       "id": "干型香槟",
       "label": "干型香槟",
       "group": "spirits",
+      "subgroup": "wine",
       "aliases": [
         "Brut 干型香槟或普罗塞克起泡酒",
         "干型香槟或起泡酒"
@@ -813,6 +987,7 @@
       "id": "盐",
       "label": "盐",
       "group": "mixers",
+      "subgroup": "seasoning",
       "aliases": [
         "盐",
         "盐与黑胡椒"
@@ -824,6 +999,7 @@
       "id": "调和苏格兰威士忌",
       "label": "调和苏格兰威士忌",
       "group": "spirits",
+      "subgroup": "whisky",
       "aliases": [
         "调和苏格兰威士忌"
       ],
@@ -836,6 +1012,7 @@
       "id": "香草伏特加",
       "label": "香草伏特加",
       "group": "spirits",
+      "subgroup": "vodka",
       "aliases": [
         "香草伏特加"
       ],
@@ -846,6 +1023,7 @@
       "id": "Peychaud’s 苦精",
       "label": "Peychaud’s 苦精",
       "group": "liqueurs",
+      "subgroup": "bitters",
       "aliases": [
         "Peychaud’s 苦精"
       ],
@@ -856,6 +1034,7 @@
       "id": "橙子（整果）",
       "label": "橙子（整果）",
       "group": "mixers",
+      "subgroup": "produce",
       "aliases": [
         "圆橙片",
         "橙片"
@@ -869,6 +1048,7 @@
       "id": "柠檬（整果）",
       "label": "柠檬（整果）",
       "group": "mixers",
+      "subgroup": "produce",
       "aliases": [
         "圆柠檬片",
         "柠檬片"
@@ -882,6 +1062,7 @@
       "id": "廊酒 Bénédictine",
       "label": "廊酒 Bénédictine",
       "group": "liqueurs",
+      "subgroup": "herbal",
       "aliases": [
         "DOM 廊酒（Bénédictine）",
         "廊酒（Bénédictine）"
@@ -893,6 +1074,7 @@
       "id": "白龙舌兰酒",
       "label": "白龙舌兰酒",
       "group": "spirits",
+      "subgroup": "agave",
       "aliases": [
         "Blanco 龙舌兰酒",
         "白龙舌兰"
@@ -907,6 +1089,7 @@
       "id": "蜂蜜水（3:1）",
       "label": "蜂蜜水（3:1）",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "蜂蜜水"
       ],
@@ -917,6 +1100,7 @@
       "id": "覆盆子",
       "label": "覆盆子",
       "group": "mixers",
+      "subgroup": "produce",
       "aliases": [
         "新鲜覆盆子",
         "覆盆子"
@@ -928,6 +1112,7 @@
       "id": "Fino 干型雪莉酒",
       "label": "Fino 干型雪莉酒",
       "group": "spirits",
+      "subgroup": "fortified",
       "aliases": [
         "Fino 干型雪莉酒",
         "Fino 干雪莉酒"
@@ -939,6 +1124,7 @@
       "id": "甘露咖啡利口酒 Kahlúa",
       "label": "甘露咖啡利口酒 Kahlúa",
       "group": "liqueurs",
+      "subgroup": "coffee-cocoa",
       "aliases": [
         "甘露咖啡利口酒 Kahlúa"
       ],
@@ -949,6 +1135,7 @@
       "id": "柠檬风味伏特加",
       "label": "柠檬风味伏特加",
       "group": "spirits",
+      "subgroup": "vodka",
       "aliases": [
         "柠檬风味伏特加"
       ],
@@ -959,6 +1146,7 @@
       "id": "椰浆 Coconut Cream",
       "label": "椰浆 Coconut Cream",
       "group": "mixers",
+      "subgroup": "seasoning",
       "aliases": [
         "椰浆 Coconut Cream"
       ],
@@ -969,6 +1157,7 @@
       "id": "斯米诺伏特加",
       "label": "斯米诺伏特加",
       "group": "spirits",
+      "subgroup": "vodka",
       "aliases": [
         "斯米诺伏特加"
       ],
@@ -981,6 +1170,7 @@
       "id": "棕色可可利口酒",
       "label": "棕色可可利口酒",
       "group": "liqueurs",
+      "subgroup": "coffee-cocoa",
       "aliases": [
         "棕色可可利口酒"
       ],
@@ -991,6 +1181,7 @@
       "id": "杏子白兰地利口酒",
       "label": "杏子白兰地利口酒",
       "group": "liqueurs",
+      "subgroup": "fruit",
       "aliases": [
         "杏子白兰地利口酒"
       ],
@@ -1001,6 +1192,7 @@
       "id": "紫罗兰利口酒",
       "label": "紫罗兰利口酒",
       "group": "liqueurs",
+      "subgroup": "herbal",
       "aliases": [
         "紫罗兰利口酒"
       ],
@@ -1011,6 +1203,7 @@
       "id": "白桃果泥",
       "label": "白桃果泥",
       "group": "mixers",
+      "subgroup": "juice",
       "aliases": [
         "白桃果泥"
       ],
@@ -1021,6 +1214,7 @@
       "id": "咖啡利口酒",
       "label": "咖啡利口酒",
       "group": "liqueurs",
+      "subgroup": "coffee-cocoa",
       "aliases": [
         "咖啡利口酒"
       ],
@@ -1031,6 +1225,7 @@
       "id": "番茄汁",
       "label": "番茄汁",
       "group": "mixers",
+      "subgroup": "juice",
       "aliases": [
         "番茄汁"
       ],
@@ -1041,6 +1236,7 @@
       "id": "伍斯特酱 Worcestershire Sauce",
       "label": "伍斯特酱 Worcestershire Sauce",
       "group": "mixers",
+      "subgroup": "seasoning",
       "aliases": [
         "伍斯特酱 Worcestershire Sauce"
       ],
@@ -1051,6 +1247,7 @@
       "id": "塔巴斯科辣椒汁",
       "label": "塔巴斯科辣椒汁",
       "group": "mixers",
+      "subgroup": "seasoning",
       "aliases": [
         "塔巴斯科辣椒汁、芹菜盐与胡椒"
       ],
@@ -1061,6 +1258,7 @@
       "id": "芹菜盐",
       "label": "芹菜盐",
       "group": "mixers",
+      "subgroup": "seasoning",
       "aliases": [
         "塔巴斯科辣椒汁、芹菜盐与胡椒"
       ],
@@ -1071,6 +1269,7 @@
       "id": "黑莓利口酒 Crème de Mûre",
       "label": "黑莓利口酒 Crème de Mûre",
       "group": "liqueurs",
+      "subgroup": "fruit",
       "aliases": [
         "黑莓利口酒 Crème de Mûre"
       ],
@@ -1081,6 +1280,7 @@
       "id": "芳香苦精",
       "label": "芳香苦精",
       "group": "liqueurs",
+      "subgroup": "bitters",
       "aliases": [
         "芳香苦精"
       ],
@@ -1091,6 +1291,7 @@
       "id": "古巴甘蔗蒸馏酒 Aguardiente",
       "label": "古巴甘蔗蒸馏酒 Aguardiente",
       "group": "spirits",
+      "subgroup": "other-spirit",
       "aliases": [
         "古巴甘蔗蒸馏酒 Aguardiente"
       ],
@@ -1101,6 +1302,7 @@
       "id": "覆盆子糖浆",
       "label": "覆盆子糖浆",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "覆盆子糖浆"
       ],
@@ -1111,6 +1313,7 @@
       "id": "高斯林朗姆酒 Goslings Rum",
       "label": "高斯林朗姆酒 Goslings Rum",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "高斯林朗姆酒 Goslings Rum"
       ],
@@ -1121,6 +1324,7 @@
       "id": "牙买加金朗姆酒",
       "label": "牙买加金朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "牙买加金朗姆酒"
       ],
@@ -1134,6 +1338,7 @@
       "id": "古巴朗姆酒",
       "label": "古巴朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "古巴朗姆酒"
       ],
@@ -1144,6 +1349,7 @@
       "id": "菲奈特布兰卡苦味利口酒 Fernet Branca",
       "label": "菲奈特布兰卡苦味利口酒 Fernet Branca",
       "group": "liqueurs",
+      "subgroup": "aperitif",
       "aliases": [
         "菲奈特布兰卡苦味利口酒 Fernet Branca"
       ],
@@ -1154,6 +1360,7 @@
       "id": "覆盆子利口酒",
       "label": "覆盆子利口酒",
       "group": "liqueurs",
+      "subgroup": "fruit",
       "aliases": [
         "覆盆子利口酒"
       ],
@@ -1164,6 +1371,7 @@
       "id": "柑曼怡橙酒 Grand Marnier",
       "label": "柑曼怡橙酒 Grand Marnier",
       "group": "liqueurs",
+      "subgroup": "orange",
       "aliases": [
         "柑曼怡橙酒 Grand Marnier"
       ],
@@ -1174,6 +1382,7 @@
       "id": "白色可可利口酒",
       "label": "白色可可利口酒",
       "group": "liqueurs",
+      "subgroup": "coffee-cocoa",
       "aliases": [
         "白色可可利口酒"
       ],
@@ -1184,6 +1393,7 @@
       "id": "绿色薄荷利口酒",
       "label": "绿色薄荷利口酒",
       "group": "liqueurs",
+      "subgroup": "herbal",
       "aliases": [
         "绿色薄荷利口酒"
       ],
@@ -1194,6 +1404,7 @@
       "id": "菲奈特苦味利口酒 Fernet",
       "label": "菲奈特苦味利口酒 Fernet",
       "group": "liqueurs",
+      "subgroup": "aperitif",
       "aliases": [
         "菲奈特苦味利口酒 Fernet"
       ],
@@ -1204,6 +1415,7 @@
       "id": "朗姆酒",
       "label": "朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "朗姆酒"
       ],
@@ -1214,6 +1426,7 @@
       "id": "姜汁汽水 Ginger Ale",
       "label": "姜汁汽水 Ginger Ale",
       "group": "mixers",
+      "subgroup": "soda",
       "aliases": [
         "姜汁汽水 Ginger Ale"
       ],
@@ -1224,6 +1437,7 @@
       "id": "哈瓦那俱乐部 Profundo 朗姆酒",
       "label": "哈瓦那俱乐部 Profundo 朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "哈瓦那俱乐部 Profundo 朗姆酒"
       ],
@@ -1234,6 +1448,7 @@
       "id": "哈瓦那俱乐部 Smoky 朗姆酒",
       "label": "哈瓦那俱乐部 Smoky 朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "哈瓦那俱乐部 Smoky 朗姆酒"
       ],
@@ -1244,6 +1459,7 @@
       "id": "芳津榛果利口酒 Frangelico",
       "label": "芳津榛果利口酒 Frangelico",
       "group": "liqueurs",
+      "subgroup": "nut",
       "aliases": [
         "芳津榛果利口酒 Frangelico"
       ],
@@ -1254,6 +1470,7 @@
       "id": "埃斯帕丁梅斯卡尔",
       "label": "埃斯帕丁梅斯卡尔",
       "group": "spirits",
+      "subgroup": "agave",
       "aliases": [
         "埃斯帕丁梅斯卡尔"
       ],
@@ -1266,6 +1483,7 @@
       "id": "牙买加高度白朗姆酒",
       "label": "牙买加高度白朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "牙买加高度白朗姆酒"
       ],
@@ -1280,6 +1498,7 @@
       "id": "热黑咖啡",
       "label": "热黑咖啡",
       "group": "mixers",
+      "subgroup": "tea-coffee",
       "aliases": [
         "热黑咖啡"
       ],
@@ -1290,6 +1509,7 @@
       "id": "黑糖蜜朗姆酒 Blackstrap Rum",
       "label": "黑糖蜜朗姆酒 Blackstrap Rum",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "黑糖蜜朗姆酒 Blackstrap Rum"
       ],
@@ -1300,6 +1520,7 @@
       "id": "德梅拉拉蔗糖糖浆",
       "label": "德梅拉拉蔗糖糖浆",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "德梅拉拉蔗糖糖浆"
       ],
@@ -1310,6 +1531,7 @@
       "id": "牙买加琥珀色朗姆酒",
       "label": "牙买加琥珀色朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "牙买加琥珀色朗姆酒"
       ],
@@ -1323,6 +1545,7 @@
       "id": "马提尼克糖蜜朗姆酒",
       "label": "马提尼克糖蜜朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "马提尼克糖蜜朗姆酒"
       ],
@@ -1333,6 +1556,7 @@
       "id": "糖粉",
       "label": "糖粉",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "糖粉"
       ],
@@ -1343,6 +1567,7 @@
       "id": "桃味白兰地（Peach Brandy）",
       "label": "桃味白兰地（Peach Brandy）",
       "group": "liqueurs",
+      "subgroup": "fruit",
       "aliases": [
         "桃味白兰地（Peach Brandy）"
       ],
@@ -1353,6 +1578,7 @@
       "id": "菠萝块",
       "label": "菠萝块",
       "group": "mixers",
+      "subgroup": "produce",
       "aliases": [
         "菠萝块"
       ],
@@ -1363,6 +1589,7 @@
       "id": "黄色 Chartreuse 草本利口酒",
       "label": "黄色 Chartreuse 草本利口酒",
       "group": "liqueurs",
+      "subgroup": "herbal",
       "aliases": [
         "黄色 Chartreuse 草本利口酒"
       ],
@@ -1373,6 +1600,7 @@
       "id": "红葡萄酒",
       "label": "红葡萄酒",
       "group": "spirits",
+      "subgroup": "wine",
       "aliases": [
         "红葡萄酒"
       ],
@@ -1383,6 +1611,7 @@
       "id": "陈年朗姆酒",
       "label": "陈年朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "陈年朗姆酒"
       ],
@@ -1393,6 +1622,7 @@
       "id": "粉红西柚汽水",
       "label": "粉红西柚汽水",
       "group": "mixers",
+      "subgroup": "soda",
       "aliases": [
         "粉红西柚汽水"
       ],
@@ -1403,6 +1633,7 @@
       "id": "Nonino 阿玛罗草本苦味酒",
       "label": "Nonino 阿玛罗草本苦味酒",
       "group": "liqueurs",
+      "subgroup": "aperitif",
       "aliases": [
         "Nonino 阿玛罗草本苦味酒"
       ],
@@ -1413,6 +1644,7 @@
       "id": "杏味白兰地（Apricot Brandy）",
       "label": "杏味白兰地（Apricot Brandy）",
       "group": "liqueurs",
+      "subgroup": "fruit",
       "aliases": [
         "杏味白兰地（Apricot Brandy）"
       ],
@@ -1423,6 +1655,7 @@
       "id": "乐加维林 16 年单一麦芽威士忌",
       "label": "乐加维林 16 年单一麦芽威士忌",
       "group": "spirits",
+      "subgroup": "whisky",
       "aliases": [
         "乐加维林 16 年单一麦芽威士忌"
       ],
@@ -1433,6 +1666,7 @@
       "id": "丁香",
       "label": "丁香",
       "group": "mixers",
+      "subgroup": "seasoning",
       "aliases": [
         "丁香"
       ],
@@ -1443,6 +1677,7 @@
       "id": "Amargo 苦精",
       "label": "Amargo 苦精",
       "group": "liqueurs",
+      "subgroup": "bitters",
       "aliases": [
         "Amargo 苦精"
       ],
@@ -1453,6 +1688,7 @@
       "id": "甘蔗汁",
       "label": "甘蔗汁",
       "group": "mixers",
+      "subgroup": "juice",
       "aliases": [
         "甘蔗汁"
       ],
@@ -1463,6 +1699,7 @@
       "id": "百香果利口酒",
       "label": "百香果利口酒",
       "group": "liqueurs",
+      "subgroup": "fruit",
       "aliases": [
         "百香果利口酒"
       ],
@@ -1473,6 +1710,7 @@
       "id": "香草糖",
       "label": "香草糖",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "香草糖"
       ],
@@ -1483,6 +1721,7 @@
       "id": "茶色波特酒（Tawny Port）",
       "label": "茶色波特酒（Tawny Port）",
       "group": "spirits",
+      "subgroup": "fortified",
       "aliases": [
         "茶色波特酒（Tawny Port）"
       ],
@@ -1493,6 +1732,7 @@
       "id": "蛋黄",
       "label": "蛋黄",
       "group": "mixers",
+      "subgroup": "dairy",
       "aliases": [
         "蛋黄"
       ],
@@ -1503,6 +1743,7 @@
       "id": "Cynar 朝鲜蓟苦味酒",
       "label": "Cynar 朝鲜蓟苦味酒",
       "group": "liqueurs",
+      "subgroup": "aperitif",
       "aliases": [
         "Cynar 朝鲜蓟苦味酒"
       ],
@@ -1513,6 +1754,7 @@
       "id": "橙花水",
       "label": "橙花水",
       "group": "mixers",
+      "subgroup": "seasoning",
       "aliases": [
         "橙花水"
       ],
@@ -1523,6 +1765,7 @@
       "id": "香草精",
       "label": "香草精",
       "group": "mixers",
+      "subgroup": "seasoning",
       "aliases": [
         "香草精"
       ],
@@ -1533,6 +1776,7 @@
       "id": "Luxardo 樱桃利口酒（Cherry Brandy）",
       "label": "Luxardo 樱桃利口酒（Cherry Brandy）",
       "group": "liqueurs",
+      "subgroup": "fruit",
       "aliases": [
         "Luxardo 樱桃利口酒（Cherry Brandy）"
       ],
@@ -1543,6 +1787,7 @@
       "id": "起泡酒",
       "label": "起泡酒",
       "group": "spirits",
+      "subgroup": "wine",
       "aliases": [
         "起泡酒"
       ],
@@ -1553,6 +1798,7 @@
       "id": "苏格兰威士忌",
       "label": "苏格兰威士忌",
       "group": "spirits",
+      "subgroup": "whisky",
       "aliases": [
         "苏格兰威士忌"
       ],
@@ -1563,6 +1809,7 @@
       "id": "杜林标利口酒（Drambuie）",
       "label": "杜林标利口酒（Drambuie）",
       "group": "liqueurs",
+      "subgroup": "herbal",
       "aliases": [
         "杜林标利口酒（Drambuie）"
       ],
@@ -1573,6 +1820,7 @@
       "id": "桃味利口酒（Peach Schnapps）",
       "label": "桃味利口酒（Peach Schnapps）",
       "group": "liqueurs",
+      "subgroup": "fruit",
       "aliases": [
         "桃味利口酒（Peach Schnapps）"
       ],
@@ -1583,6 +1831,7 @@
       "id": "阿蒙蒂亚多雪莉酒（Amontillado）",
       "label": "阿蒙蒂亚多雪莉酒（Amontillado）",
       "group": "spirits",
+      "subgroup": "fortified",
       "aliases": [
         "阿蒙蒂亚多雪莉酒（Amontillado）"
       ],
@@ -1593,6 +1842,7 @@
       "id": "帕罗卡塔多雪莉酒（Palo Cortado）",
       "label": "帕罗卡塔多雪莉酒（Palo Cortado）",
       "group": "spirits",
+      "subgroup": "fortified",
       "aliases": [
         "帕罗卡塔多雪莉酒（Palo Cortado）"
       ],
@@ -1603,6 +1853,7 @@
       "id": "Sangue Morlacco 樱桃利口酒",
       "label": "Sangue Morlacco 樱桃利口酒",
       "group": "liqueurs",
+      "subgroup": "fruit",
       "aliases": [
         "Sangue Morlacco 樱桃利口酒"
       ],
@@ -1613,6 +1864,7 @@
       "id": "接骨木花科迪尔糖浆（Elderflower Cordial）",
       "label": "接骨木花科迪尔糖浆（Elderflower Cordial）",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "接骨木花科迪尔糖浆（Elderflower Cordial）"
       ],
@@ -1623,6 +1875,7 @@
       "id": "红辣椒薄片",
       "label": "红辣椒薄片",
       "group": "mixers",
+      "subgroup": "seasoning",
       "aliases": [
         "红辣椒薄片"
       ],
@@ -1633,6 +1886,7 @@
       "id": "白薄荷利口酒（White Crème de Menthe）",
       "label": "白薄荷利口酒（White Crème de Menthe）",
       "group": "liqueurs",
+      "subgroup": "herbal",
       "aliases": [
         "白薄荷利口酒（White Crème de Menthe）"
       ],
@@ -1643,6 +1897,7 @@
       "id": "马提尼克农业朗姆酒（Rhum Agricole）",
       "label": "马提尼克农业朗姆酒（Rhum Agricole）",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "马提尼克农业朗姆酒（Rhum Agricole）"
       ],
@@ -1653,6 +1908,7 @@
       "id": "调和陈年朗姆酒",
       "label": "调和陈年朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "调和陈年朗姆酒"
       ],
@@ -1663,6 +1919,7 @@
       "id": "St. Elizabeth 多香果利口酒",
       "label": "St. Elizabeth 多香果利口酒",
       "group": "liqueurs",
+      "subgroup": "herbal",
       "aliases": [
         "St. Elizabeth 多香果利口酒"
       ],
@@ -1673,6 +1930,7 @@
       "id": "龙舌兰蜜（Agave Nectar）",
       "label": "龙舌兰蜜（Agave Nectar）",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "龙舌兰蜜（Agave Nectar）"
       ],
@@ -1683,6 +1941,7 @@
       "id": "柔和型白格拉帕（White Smooth Grappa）",
       "label": "柔和型白格拉帕（White Smooth Grappa）",
       "group": "spirits",
+      "subgroup": "other-spirit",
       "aliases": [
         "柔和型白格拉帕（White Smooth Grappa）"
       ],
@@ -1693,6 +1952,7 @@
       "id": "洋甘菊科迪尔糖浆（Chamomile Cordial）",
       "label": "洋甘菊科迪尔糖浆（Chamomile Cordial）",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "洋甘菊科迪尔糖浆（Chamomile Cordial）"
       ],
@@ -1703,6 +1963,7 @@
       "id": "牙买加深色朗姆酒",
       "label": "牙买加深色朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "牙买加深色朗姆酒"
       ],
@@ -1716,6 +1977,7 @@
       "id": "波多黎各金朗姆酒",
       "label": "波多黎各金朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "波多黎各金朗姆酒"
       ],
@@ -1726,6 +1988,7 @@
       "id": "德梅拉拉朗姆酒（Demerara）",
       "label": "德梅拉拉朗姆酒（Demerara）",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "德梅拉拉朗姆酒（Demerara）"
       ],
@@ -1736,6 +1999,7 @@
       "id": "Donn’s Mix",
       "label": "Donn’s Mix",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "Donn’s Mix"
       ],
@@ -1746,6 +2010,7 @@
       "id": "潘诺茴香酒（Pernod）",
       "label": "潘诺茴香酒（Pernod）",
       "group": "liqueurs",
+      "subgroup": "herbal",
       "aliases": [
         "潘诺茴香酒（Pernod）"
       ],
@@ -1756,6 +2021,7 @@
       "id": "肉桂糖浆",
       "label": "肉桂糖浆",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "肉桂糖浆"
       ],
@@ -1766,6 +2032,7 @@
       "id": "黑莓果泥",
       "label": "黑莓果泥",
       "group": "mixers",
+      "subgroup": "juice",
       "aliases": [
         "黑莓果泥"
       ],
@@ -1776,6 +2043,7 @@
       "id": "草莓",
       "label": "草莓",
       "group": "mixers",
+      "subgroup": "produce",
       "aliases": [
         "熟草莓"
       ],
@@ -1786,6 +2054,7 @@
       "id": "无糖原味希腊酸奶",
       "label": "无糖原味希腊酸奶",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "无糖原味希腊酸奶"
       ],
@@ -1796,6 +2065,7 @@
       "id": "Reposado 陈酿龙舌兰",
       "label": "Reposado 陈酿龙舌兰",
       "group": "spirits",
+      "subgroup": "agave",
       "aliases": [
         "Reposado 陈酿龙舌兰"
       ],
@@ -1809,6 +2079,7 @@
       "id": "龙舌兰糖浆",
       "label": "龙舌兰糖浆",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "龙舌兰糖浆"
       ],
@@ -1819,6 +2090,7 @@
       "id": "桃子利口酒",
       "label": "桃子利口酒",
       "group": "liqueurs",
+      "subgroup": "fruit",
       "aliases": [
         "桃子利口酒"
       ],
@@ -1829,6 +2101,7 @@
       "id": "白葡萄酒",
       "label": "白葡萄酒",
       "group": "spirits",
+      "subgroup": "wine",
       "aliases": [
         "白葡萄酒"
       ],
@@ -1839,6 +2112,7 @@
       "id": "干型起泡酒",
       "label": "干型起泡酒",
       "group": "spirits",
+      "subgroup": "wine",
       "aliases": [
         "干型香槟或起泡酒"
       ],
@@ -1851,6 +2125,7 @@
       "id": "无糖浑浊苹果汁",
       "label": "无糖浑浊苹果汁",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "无糖浑浊苹果汁"
       ],
@@ -1861,6 +2136,7 @@
       "id": "浅金色朗姆酒（1–3年）",
       "label": "浅金色朗姆酒（1–3年）",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "浅金色朗姆酒（1–3年）"
       ],
@@ -1871,6 +2147,7 @@
       "id": "无籽白葡萄",
       "label": "无籽白葡萄",
       "group": "mixers",
+      "subgroup": "produce",
       "aliases": [
         "无籽白葡萄"
       ],
@@ -1881,6 +2158,7 @@
       "id": "Applejack 苹果白兰地",
       "label": "Applejack 苹果白兰地",
       "group": "spirits",
+      "subgroup": "brandy",
       "aliases": [
         "Applejack 苹果白兰地"
       ],
@@ -1891,6 +2169,7 @@
       "id": "Matusalem Gran Reserva 15 朗姆酒",
       "label": "Matusalem Gran Reserva 15 朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "Matusalem Gran Reserva 15 朗姆酒"
       ],
@@ -1901,6 +2180,7 @@
       "id": "Mr Black 咖啡利口酒",
       "label": "Mr Black 咖啡利口酒",
       "group": "liqueurs",
+      "subgroup": "coffee-cocoa",
       "aliases": [
         "Mr Black 咖啡利口酒"
       ],
@@ -1911,6 +2191,7 @@
       "id": "糖渍水果",
       "label": "糖渍水果",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "糖渍水果"
       ],
@@ -1921,6 +2202,7 @@
       "id": "草莓糖浆",
       "label": "草莓糖浆",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "草莓糖浆"
       ],
@@ -1931,6 +2213,7 @@
       "id": "蜂蜜黑糖甜味混合液",
       "label": "蜂蜜黑糖甜味混合液",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "蜂蜜黑糖甜味混合液"
       ],
@@ -1941,6 +2224,7 @@
       "id": "冷却的洪都拉斯滤泡咖啡",
       "label": "冷却的洪都拉斯滤泡咖啡",
       "group": "mixers",
+      "subgroup": "tea-coffee",
       "aliases": [
         "冷却的洪都拉斯滤泡咖啡"
       ],
@@ -1951,6 +2235,7 @@
       "id": "冷双倍奶油 Double Cream",
       "label": "冷双倍奶油 Double Cream",
       "group": "mixers",
+      "subgroup": "dairy",
       "aliases": [
         "冷双倍奶油 Double Cream"
       ],
@@ -1961,6 +2246,7 @@
       "id": "Sailor Jerry 香料朗姆酒",
       "label": "Sailor Jerry 香料朗姆酒",
       "group": "spirits",
+      "subgroup": "rum",
       "aliases": [
         "Sailor Jerry 香料朗姆酒"
       ],
@@ -1971,6 +2257,7 @@
       "id": "Cherry Heering 樱桃利口酒",
       "label": "Cherry Heering 樱桃利口酒",
       "group": "liqueurs",
+      "subgroup": "fruit",
       "aliases": [
         "Cherry Heering 樱桃利口酒"
       ],
@@ -1981,6 +2268,7 @@
       "id": "Starward Two-Fold 威士忌",
       "label": "Starward Two-Fold 威士忌",
       "group": "spirits",
+      "subgroup": "whisky",
       "aliases": [
         "Starward Two-Fold 威士忌"
       ],
@@ -1991,6 +2279,7 @@
       "id": "韩式柚子果酱",
       "label": "韩式柚子果酱",
       "group": "mixers",
+      "subgroup": "seasoning",
       "aliases": [
         "韩式柚子果酱"
       ],
@@ -2001,6 +2290,7 @@
       "id": "香槟醋",
       "label": "香槟醋",
       "group": "mixers",
+      "subgroup": "seasoning",
       "aliases": [
         "香槟醋或白葡萄酒醋"
       ],
@@ -2011,6 +2301,7 @@
       "id": "白葡萄酒醋",
       "label": "白葡萄酒醋",
       "group": "mixers",
+      "subgroup": "produce",
       "aliases": [
         "香槟醋或白葡萄酒醋"
       ],
@@ -2021,6 +2312,7 @@
       "id": "白味美思",
       "label": "白味美思",
       "group": "liqueurs",
+      "subgroup": "vermouth",
       "aliases": [
         "白味美思"
       ],
@@ -2031,6 +2323,7 @@
       "id": "泡好的红茶",
       "label": "泡好的红茶",
       "group": "mixers",
+      "subgroup": "tea-coffee",
       "aliases": [
         "泡好的红茶"
       ],
@@ -2041,6 +2334,7 @@
       "id": "阿萨姆红茶包",
       "label": "阿萨姆红茶包",
       "group": "mixers",
+      "subgroup": "tea-coffee",
       "aliases": [
         "阿萨姆红茶包"
       ],
@@ -2053,6 +2347,7 @@
       "id": "伯爵茶糖浆",
       "label": "伯爵茶糖浆",
       "group": "mixers",
+      "subgroup": "syrup",
       "aliases": [
         "伯爵茶糖浆"
       ],
@@ -2063,6 +2358,7 @@
       "id": "Half-and-half 奶油奶",
       "label": "Half-and-half 奶油奶",
       "group": "mixers",
+      "subgroup": "dairy",
       "aliases": [
         "Half-and-half 奶油奶"
       ],
@@ -2073,6 +2369,7 @@
       "id": "肉豆蔻",
       "label": "肉豆蔻",
       "group": "mixers",
+      "subgroup": "seasoning",
       "aliases": [
         "肉豆蔻"
       ],
@@ -2083,6 +2380,7 @@
       "id": "黑皮诺红葡萄酒",
       "label": "黑皮诺红葡萄酒",
       "group": "spirits",
+      "subgroup": "wine",
       "aliases": [
         "黑皮诺红葡萄酒"
       ],

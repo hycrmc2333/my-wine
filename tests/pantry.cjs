@@ -34,3 +34,8 @@ const groupOf = id => data.items.find(i=>i.id===id).group;
 assert.equal(groupOf('龙舌兰糖浆'),'mixers');
 assert.equal(groupOf('白葡萄酒醋'),'mixers');
 assert.equal(groupOf('君度橙酒 Cointreau'),'liqueurs');
+
+for (const item of data.items) assert.ok(data.families[item.group].some(f=>f.id===item.subgroup), `Missing family: ${item.id}`);
+assert.equal(data.items.find(i=>i.id==='波本威士忌').subgroup,'whisky');
+assert.equal(data.items.find(i=>i.id==='干邑白兰地').subgroup,'brandy');
+assert.equal(data.items.find(i=>i.id==='君度橙酒 Cointreau').subgroup,'orange');

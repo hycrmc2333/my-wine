@@ -44,8 +44,20 @@
     try { localStorage.setItem('my-wine-pantry', JSON.stringify({items:[...pantryOwned], enabled:pantryEnabled})); }
     catch { notify('本次选择已生效；浏览器未允许保存材料清单'); }
   }
+  const pantryExpanded = new Set();
+  function pantryBulkItems(key) {
+    const [group, family] = key.split(':');
+    return pantryData.items.filter(item=>item.group===group && (family==='all' || item.subgroup===family));
+  }
+  function pantryGroupMarkup(id, title, description) {
+    const families = pantryData.families?.[id] || [{id:'other',label:'其他'}];
+    return `<details class="pantry-group" data-pantry-group="${id}" open><summary>${title}<span>${description}</span></summary><label class="pantry-bulk pantry-group-all"><input type="checkbox" data-pantry-bulk="${id}:all" aria-label="全选${title}"><span>全选${title}</span><small data-pantry-total="${id}:all"></small></label><div class="pantry-families">${families.map(f=>{
+      const key = `${id}:${f.id}`, items = pantryBulkItems(key); if(!items.length) return '';
+      return `<section class="pantry-family" data-pantry-family="${key}"><div class="pantry-family-head"><label class="pantry-bulk"><input type="checkbox" data-pantry-bulk="${key}" aria-label="全选${f.label}"><span>${f.label}</span></label><button type="button" data-pantry-expand="${key}" aria-expanded="${pantryExpanded.has(key)}" aria-controls="pantry-${id}-${f.id}" aria-label="展开或收起${f.label}"><small data-pantry-total="${key}"></small><span class="pantry-chevron" aria-hidden="true">⌄</span></button></div><div class="pantry-options" id="pantry-${id}-${f.id}" ${pantryExpanded.has(key)?'':'hidden'}>${items.map(i=>`<label class="pantry-option" data-pantry-option="${esc(i.id)}"><input type="checkbox" data-pantry-item="${esc(i.id)}" ${pantryOwned.has(i.id)?'checked':''}><span>${esc(i.label)}</span></label>`).join('')}</div></section>`;
+    }).join('')}</div></details>`;
+  }
   function pantryPanel() {
-    return `<section class="pantry-panel" aria-label="我有的材料"><div class="pantry-heading"><div><h2>我有的材料 <span id="pantry-count">已选 ${pantryOwned.size} 种</span></h2><p>多选你的库存，看看现在能调哪一杯。</p></div><label class="pantry-mode"><input type="checkbox" id="pantry-enabled" ${pantryEnabled?'checked':''}>只看材料齐全的酒</label></div><details class="pantry-picker" ${pantryOwned.size?'':'open'}><summary>选择酒类、配制酒与配料</summary><label class="pantry-search">${icon('search')}<input id="pantry-search" type="search" placeholder="搜索材料，如金巴利、柠檬汁" aria-label="搜索可选材料" value="${esc(pantryQuery)}"></label><div class="pantry-groups">${pantryGroups.map(([id,title,description])=>`<details class="pantry-group" data-pantry-group="${id}" open><summary>${title}<span>${description}</span></summary><div class="pantry-options">${pantryData.items.filter(i=>i.group===id).map(i=>`<label class="pantry-option" data-pantry-option="${esc(i.id)}"><input type="checkbox" data-pantry-item="${esc(i.id)}" ${pantryOwned.has(i.id)?'checked':''}><span>${esc(i.label)}</span></label>`).join('')}</div></details>`).join('')}</div><p id="pantry-search-empty" hidden>没有找到这项材料，试试中文名称或酒款品牌。</p></details><div class="pantry-selected" id="pantry-selected"></div><div class="pantry-bottom"><p>冰和饮用水默认备有；可选项与单列装饰不计入。按原料种类匹配，不核对库存用量；糖浆请按已备好的种类勾选，指定酒型仍需备齐。</p><button type="button" data-pantry-clear>清空材料</button></div></section>`;
+    return `<section class="pantry-panel" aria-label="我有的材料"><div class="pantry-heading"><div><h2>我有的材料 <span id="pantry-count">已选 ${pantryOwned.size} 种</span></h2><p>按类型勾选库存，或展开查看具体酒款。</p></div><label class="pantry-mode"><input type="checkbox" id="pantry-enabled" ${pantryEnabled?'checked':''}>只看材料齐全的酒</label></div><details class="pantry-picker" ${pantryOwned.size?'':'open'}><summary>选择酒类、配制酒与配料</summary><label class="pantry-search">${icon('search')}<input id="pantry-search" type="search" placeholder="搜索材料，如金巴利、柠檬汁" aria-label="搜索可选材料" value="${esc(pantryQuery)}"></label><p class="pantry-bulk-hint">勾选类别即全选；半选表示部分已选。全选包含搜索未显示的本类材料。</p><div class="pantry-groups">${pantryGroups.map(([id,title,description])=>pantryGroupMarkup(id,title,description)).join('')}</div><p id="pantry-search-empty" hidden>没有找到这项材料，试试中文名称或酒款品牌。</p></details><div class="pantry-selected" id="pantry-selected"></div><div class="pantry-bottom"><p>冰和饮用水默认备有；可选项与单列装饰不计入。按原料种类匹配，不核对库存用量；糖浆请按已备好的种类勾选，指定酒型仍需备齐。</p><button type="button" data-pantry-clear>清空材料</button></div></section>`;
   }
   function updatePantry() {
     const count = document.getElementById('pantry-count'); if (!count) return;
@@ -53,6 +65,13 @@
     document.getElementById('pantry-enabled').checked = pantryEnabled;
     document.getElementById('pantry-selected').innerHTML = [...pantryOwned].map(id=>`<button class="pantry-chip" data-pantry-remove="${esc(id)}" aria-label="移除材料：${esc(id)}">${esc(id)}<span aria-hidden="true">×</span></button>`).join('');
     main.querySelectorAll('[data-pantry-item]').forEach(input => { input.checked = pantryOwned.has(input.dataset.pantryItem); });
+    main.querySelectorAll('[data-pantry-bulk]').forEach(input=>{
+      const items = pantryBulkItems(input.dataset.pantryBulk), count = items.filter(item=>pantryOwned.has(item.id)).length;
+      input.checked = items.length > 0 && count===items.length;
+      input.indeterminate = count > 0 && count < items.length;
+      input.setAttribute('aria-checked', input.indeterminate ? 'mixed' : String(input.checked));
+    });
+    main.querySelectorAll('[data-pantry-total]').forEach(el=>{ const items=pantryBulkItems(el.dataset.pantryTotal); el.textContent=`${items.filter(i=>pantryOwned.has(i.id)).length}/${items.length}`; });
     main.querySelector('[data-pantry-clear]').disabled = !pantryOwned.size;
   }
   function searchPantry() {
@@ -60,8 +79,14 @@
     let visible = 0;
     main.querySelectorAll('[data-pantry-option]').forEach(label => {
       const item = pantryData.items.find(i=>i.id===label.dataset.pantryOption);
-      label.hidden = !words.every(word => [item.label,...item.aliases].join(' ').toLocaleLowerCase().includes(word));
+      label.hidden = !words.every(word => [item.label,...item.aliases,pantryData.families?.[item.group]?.find(f=>f.id===item.subgroup)?.label || ''].join(' ').toLocaleLowerCase().includes(word));
       if (!label.hidden) visible++;
+    });
+    main.querySelectorAll('[data-pantry-family]').forEach(family=>{
+      family.hidden = ![...family.querySelectorAll('[data-pantry-option]')].some(label=>!label.hidden);
+      const expanded = words.length ? !family.hidden : pantryExpanded.has(family.dataset.pantryFamily);
+      family.querySelector('.pantry-options').hidden = !expanded;
+      family.querySelector('[data-pantry-expand]').setAttribute('aria-expanded',String(expanded));
     });
     main.querySelectorAll('[data-pantry-group]').forEach(group => { group.hidden = ![...group.querySelectorAll('[data-pantry-option]')].some(label=>!label.hidden); if (words.length) group.open = true; });
     document.getElementById('pantry-search-empty').hidden = visible > 0;
@@ -199,6 +224,8 @@
     updateNav();
   }
   main.addEventListener('click', event => {
+    const expand = event.target.closest('[data-pantry-expand]');
+    if (expand) { const key=expand.dataset.pantryExpand, open=expand.getAttribute('aria-expanded')!=='true'; if(open) pantryExpanded.add(key); else pantryExpanded.delete(key); expand.setAttribute('aria-expanded',String(open)); document.getElementById(expand.getAttribute('aria-controls')).hidden=!open; return; }
     const removeMaterial = event.target.closest('[data-pantry-remove]');
     if (removeMaterial) { pantryOwned.delete(removeMaterial.dataset.pantryRemove); persistPantry(); updatePantry(); renderGrid(); document.getElementById('pantry-enabled').focus({preventScroll:true}); return; }
     if (event.target.closest('[data-pantry-clear]')) { pantryOwned.clear(); pantryEnabled=false; persistPantry(); updatePantry(); renderGrid(); return; }
@@ -254,7 +281,11 @@
   });
   main.addEventListener('change', event => {
     const input = event.target;
-    if (input.matches('[data-pantry-item]')) {
+    if (input.matches('[data-pantry-bulk]')) {
+      const items=pantryBulkItems(input.dataset.pantryBulk);
+      items.forEach(item=>input.checked ? pantryOwned.add(item.id) : pantryOwned.delete(item.id));
+      if(input.checked) pantryEnabled=true;
+    } else if (input.matches('[data-pantry-item]')) {
       if (input.checked) { pantryOwned.add(input.dataset.pantryItem); pantryEnabled = true; }
       else pantryOwned.delete(input.dataset.pantryItem);
     } else if (input.id === 'pantry-enabled') pantryEnabled = input.checked;
