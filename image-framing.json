@@ -1,0 +1,1554 @@
+{
+  "version": 1,
+  "coordinates": "normalized x, y, width, height in the original source image",
+  "photos": {
+    "assets/photos/negroni.webp": {
+      "sourceHash": "6945ccef121db46281276b52f4a38c92b33aa0c4c5fed14617a1708bb2eb97b8",
+      "bounds": [
+        0.298507,
+        0.557214,
+        0.395522,
+        0.303483
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/mojito.webp": {
+      "sourceHash": "95aa55ecaa7c28fd8a3029e9ca36dc74cf21da2373364dbf65a5e1099e7e5197",
+      "bounds": [
+        0.313433,
+        0.099502,
+        0.507463,
+        0.766169
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/margarita.webp": {
+      "sourceHash": "41f393b41e3c35c37adcb68629c6be116afdc1b6408ac468e3f1044f77cc4036",
+      "bounds": [
+        0.276119,
+        0.467662,
+        0.447761,
+        0.452736
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/old-fashioned.webp": {
+      "sourceHash": "75b1c01f759e290357cf838257e1b45c89922b23a70f801f013b16472efacdaf",
+      "bounds": [
+        0.283582,
+        0.462687,
+        0.432836,
+        0.402985
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/dry-martini.webp": {
+      "sourceHash": "10e114bbfd1dc97165fa0e2249f63af4980d483fed09b231650b846fd3ac92ac",
+      "bounds": [
+        0.208955,
+        0.258706,
+        0.597015,
+        0.666667
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/daiquiri.webp": {
+      "sourceHash": "3777b84e48332b139cfb1f96ec1b63f90e49140d010863659a3a165e4b52c994",
+      "bounds": [
+        0.313433,
+        0.40796,
+        0.380597,
+        0.502488
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/whiskey-sour.webp": {
+      "sourceHash": "130c49026b24f8d8205f7b47d8be6c19ccac21c10c00d34b85592b7749dd8132",
+      "bounds": [
+        0.149254,
+        0.233831,
+        0.567164,
+        0.691542
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/espresso-martini.webp": {
+      "sourceHash": "916e509cec58d0ce9f6004757c30a17656249d663d074a1cd2917ea3803891fc",
+      "bounds": [
+        0.223881,
+        0.283582,
+        0.552239,
+        0.651741
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/cosmopolitan.webp": {
+      "sourceHash": "01939ded71ae124537acbd274ec76a9a0493691a042c6fddf3994b0f09d7531f",
+      "bounds": [
+        0.276119,
+        0.462687,
+        0.455224,
+        0.457711
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/manhattan.webp": {
+      "sourceHash": "4bdf2651d301583d68e80bb1db675317a38c2fac1118af536d35fe4f23506a28",
+      "bounds": [
+        0.216418,
+        0.258706,
+        0.552239,
+        0.691542
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/pina-colada.webp": {
+      "sourceHash": "fcd865a520dadee481a2578a7aa1e9fe417fb608f35b87803b2d39f483c43fc5",
+      "bounds": [
+        0.149254,
+        0.248756,
+        0.552239,
+        0.61194
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/moscow-mule.webp": {
+      "sourceHash": "b71502d7ec76750ba23048f0f082a6e7db7960966cb85b897c1a1ae94a8ce333",
+      "bounds": [
+        0.126866,
+        0.422886,
+        0.574627,
+        0.447761
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/alexander.webp": {
+      "sourceHash": "c7cdc3ed6159f0ceedb539b9db3eddf5534054fbeb89893f74dc45dda8f8158c",
+      "bounds": [
+        0.328358,
+        0.40796,
+        0.350746,
+        0.512438
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/americano.webp": {
+      "sourceHash": "9af770fd9266477e23c160ef7a946cb93ee66debc4d72f32ecbdbbe1cd9c1e91",
+      "bounds": [
+        0.291045,
+        0.452736,
+        0.395522,
+        0.40796
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/angel-face.webp": {
+      "sourceHash": "f9c7fb5f5efd7ba3f62a62aed9b83f8f86bd8652cfd0863f09dc3194ad10a23a",
+      "bounds": [
+        0.328358,
+        0.40796,
+        0.343284,
+        0.502488
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/aviation.webp": {
+      "sourceHash": "685938fdd9c228089112cbfa7035d3a3cce848c01ad4c36b2757b831e8e5960c",
+      "bounds": [
+        0.343284,
+        0.383085,
+        0.320896,
+        0.527363
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/bees-knees.webp": {
+      "sourceHash": "7f4c4ced0fbbc1cebdb92e196a8e3da30a45358444ce8f3b13f5c395fa288c51",
+      "bounds": [
+        0.313433,
+        0.343284,
+        0.365672,
+        0.567164
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/bellini.webp": {
+      "sourceHash": "0c24a2630daf45447381447d6e612265e113d1e382dd22df0b18c1700293851a",
+      "bounds": [
+        0.313433,
+        0.149254,
+        0.380597,
+        0.771144
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/between-the-sheets.webp": {
+      "sourceHash": "4e5ecd0c6b2120882822478c1bcc3f98cad34bbdb9c90ecab995f60023069194",
+      "bounds": [
+        0.283582,
+        0.273632,
+        0.432836,
+        0.646766
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/black-russian.webp": {
+      "sourceHash": "d6d9e1355b6c660a5eb99431e8279556ebeb4734881f32cc4b5eecb2c8a3b44f",
+      "bounds": [
+        0.298507,
+        0.537313,
+        0.380597,
+        0.328358
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/bloody-mary.webp": {
+      "sourceHash": "ff7724a9c47b74d6ca690f1539f968e1a3b34dbe62852e98233d8287df3bf556",
+      "bounds": [
+        0.313433,
+        0.243781,
+        0.365672,
+        0.621891
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/boulevardier.webp": {
+      "sourceHash": "4a2a1c0ee93b4dcaaa418bea30d7a37d804516e97d9db92db0a446191c3e8528",
+      "bounds": [
+        0.208955,
+        0.298507,
+        0.589552,
+        0.641791
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/bramble.webp": {
+      "sourceHash": "b42687ee5657775e6cccafa6a17945902304cb253a6ba248afa39149a73da91f",
+      "bounds": [
+        0.298507,
+        0.442786,
+        0.41791,
+        0.422886
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/brandy-crusta.webp": {
+      "sourceHash": "4b7f905ad1a9f4bfa642ce837f76f5b357e4932236ca17a26f789df8a1b84f5a",
+      "bounds": [
+        0.313433,
+        0.338308,
+        0.365672,
+        0.562189
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/caipirinha.webp": {
+      "sourceHash": "993d85164d61a00407def368a03101224c3dc4a24d0e1d26f814f4531f1eb9a9",
+      "bounds": [
+        0.276119,
+        0.477612,
+        0.425373,
+        0.38806
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/canchanchara.webp": {
+      "sourceHash": "24649c78ca9dcb3c9ed2b46ce093299d56e54558f73e015ca65793967e8deb76",
+      "bounds": [
+        0.298507,
+        0.502488,
+        0.402985,
+        0.363184
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/cardinale.webp": {
+      "sourceHash": "a7b136bbb08b4c9bf9bdc884a33d2e5aea85aa9c4e632684c0d63624533ca670",
+      "bounds": [
+        0.320896,
+        0.358209,
+        0.380597,
+        0.552239
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/casino.webp": {
+      "sourceHash": "b9f4b0c023593700e7e53796658c0010bebc41c1158714a2f5afe58e0b21f083",
+      "bounds": [
+        0.291045,
+        0.467662,
+        0.410448,
+        0.39801
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/champagne-cocktail.webp": {
+      "sourceHash": "9ad462f64f594ba88eac501a6bc816ad8e59d6c70dfd0c8e2ed01c19392dfbec",
+      "bounds": [
+        0.171642,
+        0.348259,
+        0.552239,
+        0.567164
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/chartreuse-swizzle.webp": {
+      "sourceHash": "71a2c1f34117af62b8339d17afdf23993cae24831a40cf03df24a88fec08b17e",
+      "bounds": [
+        0.268657,
+        0.238806,
+        0.425373,
+        0.626866
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/clover-club.webp": {
+      "sourceHash": "bab3a4538a9fabaa50350a6b42e2c5a985f9ec47284631dbec9daae4aaa5b286",
+      "bounds": [
+        0.223881,
+        0.442786,
+        0.507463,
+        0.472637
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/corpse-reviver-2.webp": {
+      "sourceHash": "cbf08d0b2cc88c79a3eeee1bc9e2607e043ddc72145fbab38b6e3df954c2d78a",
+      "bounds": [
+        0.268657,
+        0.442786,
+        0.455224,
+        0.467662
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/cuba-libre.webp": {
+      "sourceHash": "2cb7d5292c56a57f294358d4d96f2fee2ed055b513860d5a82ce9b03ca3e9426",
+      "bounds": [
+        0.313433,
+        0.348259,
+        0.395522,
+        0.512438
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/dark-n-stormy.webp": {
+      "sourceHash": "0b1bb0d37abf76cdb0b6845e2d83ddd3da3bbfdff8df39e22d604da33a9a746c",
+      "bounds": [
+        0.313433,
+        0.343284,
+        0.373134,
+        0.517413
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/dons-special-daiquiri.webp": {
+      "sourceHash": "2ba1fe782a889e97840fd27e5dd1ea53b9e6786adafe03bc61dc00e142002006",
+      "bounds": [
+        0.313433,
+        0.338308,
+        0.395522,
+        0.522388
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/fernandito.webp": {
+      "sourceHash": "20564854e7a5cda1c1bd56587b5da101f41cc936eeda2429f93c69717fd03a1b",
+      "bounds": [
+        0.298507,
+        0.497512,
+        0.395522,
+        0.363184
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/french-75.webp": {
+      "sourceHash": "15528e99c2f9e8633a9528dd05b7ec5c9843e8518f6683a486830e076e0e939e",
+      "bounds": [
+        0.320896,
+        0.18408,
+        0.365672,
+        0.736318
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/french-connection.webp": {
+      "sourceHash": "88cd8c27347f66998140ed7242fde0545b3b211c2226954c91e4d4590cd5523d",
+      "bounds": [
+        0.298507,
+        0.517413,
+        0.402985,
+        0.343284
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/french-martini.webp": {
+      "sourceHash": "e6d2c8e838c0210b95756cbc1a04fc413f1b9938964fe0a4a435a338b6faf846",
+      "bounds": [
+        0.276119,
+        0.208955,
+        0.440299,
+        0.711443
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/garibaldi.webp": {
+      "sourceHash": "f9a50dc960f9550ffacf5ac01a43b4608e2a62736f169296c4e58492b29efded",
+      "bounds": [
+        0.291045,
+        0.313433,
+        0.38806,
+        0.547264
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/gin-basil-smash.webp": {
+      "sourceHash": "b14f6e44d0dd042e3c0fabc04cea858edc6deea3632b592ee05fdd59c0831de2",
+      "bounds": [
+        0.276119,
+        0.263682,
+        0.440299,
+        0.651741
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/gin-fizz.webp": {
+      "sourceHash": "a917b70fa277bb36b7ac9d7046233dc0684b0f39034ffb0645541bcc7548e46e",
+      "bounds": [
+        0.298507,
+        0.308458,
+        0.380597,
+        0.552239
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/grand-margarita.webp": {
+      "sourceHash": "65e64150e17c80897b6c73afc4bffc2cca0dcbb381427bc1c3ad075d05cd9734",
+      "bounds": [
+        0.253731,
+        0.457711,
+        0.440299,
+        0.412935
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/grasshopper.webp": {
+      "sourceHash": "601faca1eb956fff1aef2e355f5708a81851d45e425ee55b240b06993177f780",
+      "bounds": [
+        0.313433,
+        0.383085,
+        0.365672,
+        0.532338
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/hanky-panky.webp": {
+      "sourceHash": "10594fe7cbf8adbcddea8635e6b2bc8f6bc4cec01de5be521e3d468cca377a2a",
+      "bounds": [
+        0.261194,
+        0.208955,
+        0.440299,
+        0.711443
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/hemingway-special.webp": {
+      "sourceHash": "384539f09382cf28f96001ad9aa17959e67955e756219dca94a171839f6af913",
+      "bounds": [
+        0.208955,
+        0.348259,
+        0.567164,
+        0.58209
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/horses-neck.webp": {
+      "sourceHash": "8dfb72caf0cc7518eacae4f2cc3b2cf1ca8cd9dc513f2825b5493cfe5fdc1179",
+      "bounds": [
+        0.30597,
+        0.208955,
+        0.365672,
+        0.656716
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/iba-tiki.webp": {
+      "sourceHash": "356875b9e360ec1a28dee6381429d935c849d80ef0019ad0708c1926b219876e",
+      "bounds": [
+        0.291045,
+        0.253731,
+        0.492537,
+        0.61194
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/illegal.webp": {
+      "sourceHash": "503d2222ef07db9c9a9cfcd33207a558706e6f429b79b685ac948c16af8eed04",
+      "bounds": [
+        0.291045,
+        0.537313,
+        0.395522,
+        0.328358
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/irish-coffee.webp": {
+      "sourceHash": "2bd99725897eba5b626b50f3e35c1d4c888054ff00c85ef3b4b184335c3c1856",
+      "bounds": [
+        0.253731,
+        0.402985,
+        0.447761,
+        0.507463
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/john-collins.webp": {
+      "sourceHash": "f7607db6cdcb9159b0dc5edca7b10e6c28c5b03b4bd1898b098783190d334b18",
+      "bounds": [
+        0.313433,
+        0.253731,
+        0.380597,
+        0.606965
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/jungle-bird.webp": {
+      "sourceHash": "997e8d55450ad671829af3af862d1c031983d306072f179bfa37e15560bc6bc1",
+      "bounds": [
+        0.283582,
+        0.402985,
+        0.455224,
+        0.462687
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/kir.webp": {
+      "sourceHash": "65ccf2420632160033a85a08101fcae72ad0c2c535320ce39716c934421cb628",
+      "bounds": [
+        0.30597,
+        0.169154,
+        0.38806,
+        0.746269
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/last-word.webp": {
+      "sourceHash": "7eecfc0c03881b07b36207e296b8f5510f07377d9232b3023011f19e9edb6508",
+      "bounds": [
+        0.283582,
+        0.273632,
+        0.432836,
+        0.631841
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/lemon-drop-martini.webp": {
+      "sourceHash": "e9ba95e2d5a56d15545221e28347bb759eeaffa1084cbe1f7ca2554afe45317a",
+      "bounds": [
+        0.208955,
+        0.273632,
+        0.58209,
+        0.661692
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/long-island-iced-tea.webp": {
+      "sourceHash": "b8540eff50f0516af806690723180342b18e8fd7702ce9512b0c9a846d68c268",
+      "bounds": [
+        0.30597,
+        0.353234,
+        0.380597,
+        0.512438
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/mai-tai.webp": {
+      "sourceHash": "e707b166439df61d82f57be990f85fee7fdf4697207eadb565e72d6a82c4c3f3",
+      "bounds": [
+        0.238806,
+        0.283582,
+        0.462687,
+        0.58209
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/martinez.webp": {
+      "sourceHash": "8f3812192c9031e6788f9506169ba00af9a2915942442957fa60a59563860c26",
+      "bounds": [
+        0.216418,
+        0.218905,
+        0.559701,
+        0.716418
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/mary-pickford.webp": {
+      "sourceHash": "421ae176e64954be14da166491b075edec47312dcd48539c246137ba5a043834",
+      "bounds": [
+        0.30597,
+        0.358209,
+        0.380597,
+        0.562189
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/mimosa.webp": {
+      "sourceHash": "cf7c5e68a5021fd1fa0ca81f42461deab7aeddde44dda1e8741bd898b82a8c19",
+      "bounds": [
+        0.30597,
+        0.139303,
+        0.380597,
+        0.781095
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/mint-julep.webp": {
+      "sourceHash": "608907edc7282843a89e61bdd49b9071b4aaf80ccd919be281e71c5ac3d97a20",
+      "bounds": [
+        0.104478,
+        0.338308,
+        0.61194,
+        0.522388
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/missionarys-downfall.webp": {
+      "sourceHash": "11e383573efdee5ffbdaf5d538fb4b8ee45fe0a867f4e7af1821e1e6048e095a",
+      "bounds": [
+        0.261194,
+        0.343284,
+        0.477612,
+        0.517413
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/monkey-gland.webp": {
+      "sourceHash": "b9096cb744047769190fef79bfcdfa0a60d229678ae3326f7f9bc6f823f14f15",
+      "bounds": [
+        0.276119,
+        0.268657,
+        0.440299,
+        0.651741
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/naked-and-famous.webp": {
+      "sourceHash": "a0a7d7aa415bc14c595a384ece6a5cbeff9b215af95c96fb20a6d86f0c45ebcb",
+      "bounds": [
+        0.313433,
+        0.363184,
+        0.380597,
+        0.552239
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/new-york-sour.webp": {
+      "sourceHash": "18a8678d08f68cafcece4f8614889859df5f0a7985e31f5fc29040b7c13d8d9a",
+      "bounds": [
+        0.291045,
+        0.447761,
+        0.41791,
+        0.412935
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/old-cuban.webp": {
+      "sourceHash": "996778ef641021ff0636010038c73424336e68bb6f8c8bc0dda364b73d8ec6d8",
+      "bounds": [
+        0.268657,
+        0.462687,
+        0.447761,
+        0.447761
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/paloma.webp": {
+      "sourceHash": "6e1b15c69e2f42b0fa2f4f2e7ad50554ba846d493340edc6f4927c0921b74ef2",
+      "bounds": [
+        0.246269,
+        0.278607,
+        0.455224,
+        0.59204
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/paper-plane.webp": {
+      "sourceHash": "ebc4f7c9b6ddd6ceb60091d9f2209e64d5ee8d2e7ce98dca3104ce79ce70fe43",
+      "bounds": [
+        0.253731,
+        0.467662,
+        0.477612,
+        0.457711
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/paradise.webp": {
+      "sourceHash": "dcfe2400709bc1d8ace7b463ee6431114df48a939d83e73bef67ed7747158858",
+      "bounds": [
+        0.320896,
+        0.393035,
+        0.365672,
+        0.522388
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/penicillin.webp": {
+      "sourceHash": "7df22a4743f8922fe1522d94d59dd3dd5c2f943a6b9f68f65a074a96aa043987",
+      "bounds": [
+        0.298507,
+        0.497512,
+        0.402985,
+        0.368159
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/pisco-punch.webp": {
+      "sourceHash": "ce7698bb3667cff260d56ce1d37ae9555bdfd5e30bccdc6c6b4d0c1f96dff512",
+      "bounds": [
+        0.261194,
+        0.462687,
+        0.455224,
+        0.467662
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/pisco-sour.webp": {
+      "sourceHash": "3c4455b28ddfb85645a9a1b3247cf8ef4257d682be3ea4813f9794fa6a42abe0",
+      "bounds": [
+        0.313433,
+        0.373134,
+        0.380597,
+        0.542289
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/planters-punch.webp": {
+      "sourceHash": "0b4de02c1d57b7d52b8792f85286e15fa3687b9790b94ccca6949d20067a7088",
+      "bounds": [
+        0.283582,
+        0.482587,
+        0.41791,
+        0.383085
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/porn-star-martini.webp": {
+      "sourceHash": "a1009f14e3cf840a1768c4a9a7570465047e3e504625cc749d0ec88aa5dcb7e9",
+      "bounds": [
+        0.223881,
+        0.338308,
+        0.559701,
+        0.597015
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/porto-flip.webp": {
+      "sourceHash": "c5692b188e35f95fb8a2aea617b84e8f625c709da6847e0adb12a0d88e3e809a",
+      "bounds": [
+        0.320896,
+        0.393035,
+        0.373134,
+        0.517413
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/rabo-de-galo.webp": {
+      "sourceHash": "d6c80729c1b2d17f8e90ec73f0141bea1f0a307e417c53e8ea10518dc48f85cc",
+      "bounds": [
+        0.298507,
+        0.452736,
+        0.410448,
+        0.412935
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/ramos-fizz.webp": {
+      "sourceHash": "eeb4ca1d5bff7afcae63948e4c6a72637abd13e79a61e74c5c85ab9ae0c5dbed",
+      "bounds": [
+        0.313433,
+        0.328358,
+        0.358209,
+        0.537313
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/remember-the-maine.webp": {
+      "sourceHash": "82491983e16723684fc1af5b9c1c095a1eca2e9dc3cd186f7509af4e29cb4fdf",
+      "bounds": [
+        0.313433,
+        0.38806,
+        0.380597,
+        0.522388
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/russian-spring-punch.webp": {
+      "sourceHash": "0f5d59216b1788032e589faa7f47b734f2a2836d11df32302994c8d8675d8c1e",
+      "bounds": [
+        0.283582,
+        0.273632,
+        0.425373,
+        0.646766
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/rusty-nail.webp": {
+      "sourceHash": "aa5a638c2a22a8778df2fbf13c2fd0ce16948a5114ede8f4034237b6743c1b59",
+      "bounds": [
+        0.276119,
+        0.482587,
+        0.425373,
+        0.383085
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/sazerac.webp": {
+      "sourceHash": "eec4685940bcc1778a20e950b23352d423d11281646000ec80fe3db1a6a31f31",
+      "bounds": [
+        0.30597,
+        0.363184,
+        0.380597,
+        0.552239
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/sea-breeze.webp": {
+      "sourceHash": "83504802ddbe7f154b58fb2c3f73f453c124e142ab736a367b4fc0c81df8f674",
+      "bounds": [
+        0.223881,
+        0.462687,
+        0.485075,
+        0.39801
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/sex-on-the-beach.webp": {
+      "sourceHash": "6a020d91ca8ba028507135f3f82cccc4b9b888994ba6a7f5a89156ae78c87151",
+      "bounds": [
+        0.283582,
+        0.333333,
+        0.41791,
+        0.532338
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/sherry-cobbler.webp": {
+      "sourceHash": "3b5df727f0d559f6c3666b4ca32997dc4e0488840314fa4794c1d857be990682",
+      "bounds": [
+        0.104478,
+        0.308458,
+        0.626866,
+        0.557214
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/sidecar.webp": {
+      "sourceHash": "9aa64e09e11397d56fdf4e478f2951dcb51d23719181726bf3deb1aa22d479bf",
+      "bounds": [
+        0.30597,
+        0.383085,
+        0.38806,
+        0.527363
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/singapore-sling.webp": {
+      "sourceHash": "e0850132b0f9637fe5b7f1b7a603f7ee2a704171886b1f34f1136022d70e4593",
+      "bounds": [
+        0.268657,
+        0.298507,
+        0.455224,
+        0.567164
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/south-side.webp": {
+      "sourceHash": "3d82f11ee28d42e99c4a4240441b3bcfe2e5afd5448906a881cbe70de9fc2e0f",
+      "bounds": [
+        0.30597,
+        0.378109,
+        0.373134,
+        0.527363
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/spicy-fifty.webp": {
+      "sourceHash": "82d860db200f0055102f31300d9e5ab8f7bc7b9423a1c2e4f0c9160bb3c41b04",
+      "bounds": [
+        0.313433,
+        0.338308,
+        0.373134,
+        0.572139
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/spritz.webp": {
+      "sourceHash": "c47761f6212a649e6effe6d6fc36e4ed318e828e56c6ede86b13d35ec0d74af4",
+      "bounds": [
+        0.276119,
+        0.248756,
+        0.432836,
+        0.661692
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/stinger.webp": {
+      "sourceHash": "6561be8541b8d04c79c4ce465265b8c9f9dd87b1050dc43fca883e8aa5698231",
+      "bounds": [
+        0.253731,
+        0.243781,
+        0.477612,
+        0.666667
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/suffering-bastard.webp": {
+      "sourceHash": "195a9e780b31f30c4cfa947433f60cc74ff985b151ce4bd03bc6c66d9ae8463d",
+      "bounds": [
+        0.291045,
+        0.288557,
+        0.41791,
+        0.577114
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/tequila-sunrise.webp": {
+      "sourceHash": "6330fe0548da4894f3edeb2d93629e8988b39a047a7961b40c9cabb2d28e5bbc",
+      "bounds": [
+        0.30597,
+        0.253731,
+        0.38806,
+        0.61194
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/three-dots-and-a-dash.webp": {
+      "sourceHash": "09c9a767faa49c0b04c07c609f62cdf3fd1141f1dfe75faa0ecbcaa22c565a44",
+      "bounds": [
+        0.164179,
+        0.293532,
+        0.544776,
+        0.631841
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/tipperary.webp": {
+      "sourceHash": "92db3098cea44a3c41d901270364dbd63729ff13b0a536ce5634622dacfc5d77",
+      "bounds": [
+        0.30597,
+        0.313433,
+        0.395522,
+        0.606965
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/tommys-margarita.webp": {
+      "sourceHash": "65e64150e17c80897b6c73afc4bffc2cca0dcbb381427bc1c3ad075d05cd9734",
+      "bounds": [
+        0.238806,
+        0.467662,
+        0.462687,
+        0.39801
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/trinidad-sour.webp": {
+      "sourceHash": "67012a776e8cb902ab565d2c9584a2d67d11d0b75f4bfa617e9e1b55dd7ceb8c",
+      "bounds": [
+        0.283582,
+        0.273632,
+        0.432836,
+        0.646766
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/tuxedo.webp": {
+      "sourceHash": "1d376a9f1e43fbea9db1676ada31078812eacad0e083c4b513a16e1ecfdecefc",
+      "bounds": [
+        0.320896,
+        0.348259,
+        0.365672,
+        0.562189
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/ve-n-to.webp": {
+      "sourceHash": "168c32d4e0c1613bb37cd653daefa6b3e427804eddd2ec4fffa6f95e7c7ffcb4",
+      "bounds": [
+        0.30597,
+        0.472637,
+        0.402985,
+        0.393035
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/vesper.webp": {
+      "sourceHash": "a30b91825a491d987382d558e769abede034e03bf3a8db077dfdedb5b45ddfa1",
+      "bounds": [
+        0.201493,
+        0.253731,
+        0.589552,
+        0.681592
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/vieux-carre.webp": {
+      "sourceHash": "b4258ca9b3cf20b946620c6d1e61898b2193c97b2d64070596edc3dd181950ba",
+      "bounds": [
+        0.238806,
+        0.338308,
+        0.462687,
+        0.577114
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/white-lady.webp": {
+      "sourceHash": "f537e06fcd6c1fb60292cddcc58265a933d8e8c9eb27f67cbe46aec629909b8a",
+      "bounds": [
+        0.283582,
+        0.273632,
+        0.432836,
+        0.641791
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/zombie.webp": {
+      "sourceHash": "ef134ac8732c34a44306f94f5fafa8d7463e04e1be4e34c6f201fd8b1ad3076b",
+      "bounds": [
+        0.291045,
+        0.278607,
+        0.447761,
+        0.587065
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-amelia.webp": {
+      "sourceHash": "76ce82843379b0b4208d942e973e27d1e8f7b3f5dd5bfaad90f645586cbde853",
+      "bounds": [
+        0.24,
+        0.32,
+        0.42,
+        0.55
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-beekeeper.webp": {
+      "sourceHash": "52ed08960f9a2dca37b1e6306a3966a43070f7d894aa25dbae9c75edd30aa76e",
+      "bounds": [
+        0.45,
+        0.45,
+        0.2,
+        0.37
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-cold-irish-coffee.webp": {
+      "sourceHash": "d7b16358e383ec964b288d1115232a355a88f55d113f062c5b2981d1539b82b7",
+      "bounds": [
+        0.35,
+        0.47,
+        0.3,
+        0.43
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-dantes-peak.webp": {
+      "sourceHash": "c7a574ac30a7e14b55dd8da26eca9d534cffb3e9de4e84ad016cf1cff25caf6a",
+      "bounds": [
+        0.37,
+        0.25,
+        0.17,
+        0.55
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-espresso-martiki.webp": {
+      "sourceHash": "b24783ba1a7fba45793536160c111097ce612d01b435e44f47bfda6a591c74eb",
+      "bounds": [
+        0.34,
+        0.24,
+        0.3,
+        0.71
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-gilda.webp": {
+      "sourceHash": "cbda3d48b80456c54fca3e6e08186389f6271240c8105ca6e17c9197bb87376f",
+      "bounds": [
+        0.34,
+        0.21,
+        0.39,
+        0.7
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-ginger-smash-winter.webp": {
+      "sourceHash": "26f3e2aacd37c814c04bc774cea853ea6861fb7b30e2cc3a57ccd5f903ebd25e",
+      "bounds": [
+        0.2,
+        0.16,
+        0.67,
+        0.66
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-perfidia-no-2.webp": {
+      "sourceHash": "11a1aca976d22fe6097fd2d1f7ff6b0ab270ae74ae8854198f17c17151ae2012",
+      "bounds": [
+        0.08,
+        0.4,
+        0.28,
+        0.55
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-pineapple-margarita.webp": {
+      "sourceHash": "63d2e291b231d3f519bb243f126cbbcd2eda754f92482089aaeb93a1967c135a",
+      "bounds": [
+        0.38,
+        0.35,
+        0.19,
+        0.39
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-pink-lemonade.webp": {
+      "sourceHash": "f52136e0b338fff0fef2646ca92decfe1ef3867342dc84df9ffcfd3668e7b709",
+      "bounds": [
+        0.31,
+        0.2,
+        0.3,
+        0.43
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-raspberry-bramble.webp": {
+      "sourceHash": "815f136d0ab913b2003180b68881bcd4f28fbd18ad6b7197f066e1dbd9269ae8",
+      "bounds": [
+        0.41,
+        0.17,
+        0.22,
+        0.77
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-silver-monk.webp": {
+      "sourceHash": "60cac55d609b3a81345f0b6dd5c4cb74a838595443f1befa93bbaf5896720734",
+      "bounds": [
+        0.31,
+        0.08,
+        0.38,
+        0.86
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-strange-brew.webp": {
+      "sourceHash": "9967d9fbf6fc02d5b5efc1db118621f3945aa3e3a154e5cb322d52eb978a328f",
+      "bounds": [
+        0.3,
+        0.13,
+        0.42,
+        0.79
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-atlas-martini.webp": {
+      "sourceHash": "45d09193d9232e4c77281a281191a487c5e39ee27c59f630171374552d51bcd9",
+      "bounds": [
+        0.16,
+        0.295,
+        0.47,
+        0.675
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-yuzu-whiskey-sour.webp": {
+      "sourceHash": "05d856d49075ad8f8c712814bf1e83eb15f0603a60c393dc34f4d38b29f809b6",
+      "bounds": [
+        0.382,
+        0.329,
+        0.307,
+        0.523
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base"
+    },
+    "assets/photos/innovation-gold-rush.webp": {
+      "sourceHash": "a64b5aee841f8313392b95a4dcc6883879ded0c20e1cba2d3ea77959f6476951",
+      "bounds": [
+        0.17,
+        0.14,
+        0.72,
+        0.68
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including available garnish and base"
+    },
+    "assets/photos/innovation-gordons-cup.webp": {
+      "sourceHash": "4cb99ddee68b43a394eb304244d11d01d880eb6abe9497b44bd6e3e52b45fb80",
+      "bounds": [
+        0.49,
+        0.39,
+        0.32,
+        0.37
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including available garnish and base"
+    },
+    "assets/photos/innovation-irish-maid.webp": {
+      "sourceHash": "fef935dd6ff3bd08dc2bc1ea86a660d774854cd6ad472845550e2e999f178b73",
+      "bounds": [
+        0.14,
+        0.28,
+        0.71,
+        0.6
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including available garnish and base"
+    },
+    "assets/photos/innovation-kentucky-maid.webp": {
+      "sourceHash": "0cc40fbf563c4be6c2a9a634bc5e421f221c603be8b51e41344979e7712ba9d9",
+      "bounds": [
+        0.22,
+        0.14,
+        0.59,
+        0.72
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including available garnish and base"
+    },
+    "assets/photos/innovation-kingston-negroni.webp": {
+      "sourceHash": "3c64cafbe76e23e447d988c22242bdadb563f37a7af3a6e1902e7f327c896ce7",
+      "bounds": [
+        0.25,
+        0.38,
+        0.57,
+        0.48
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including available garnish and base"
+    },
+    "assets/photos/innovation-oaxaca-old-fashioned.webp": {
+      "sourceHash": "3a34e86c7b9042b918b30f28943f5daca74a02ede572088d7859cec1dba30046",
+      "bounds": [
+        0.17,
+        0.13,
+        0.59,
+        0.75
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including available garnish and base"
+    },
+    "assets/photos/innovation-ramble.webp": {
+      "sourceHash": "330b50fdf1dad73c502f86ece60d4254dc13135f81e3671581ea6c256e5002d7",
+      "bounds": [
+        0.39,
+        0,
+        0.21,
+        0.94
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including available garnish and base"
+    },
+    "assets/photos/innovation-slippery-when-wet.webp": {
+      "sourceHash": "1029b060b68835c6fb7b4afb71d38100c1c99c08d14c1f49881c1639a0329aa6",
+      "bounds": [
+        0.25,
+        0.29,
+        0.55,
+        0.57
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including available garnish and base"
+    },
+    "assets/photos/innovation-dry-daiquiri.webp": {
+      "sourceHash": "7fa92f96f2870cd84757df39f19a5dfe5bf9ba7667149d86013ffbcd19a1632f",
+      "bounds": [
+        0.16,
+        0.24,
+        0.63,
+        0.65
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base; individually visually reviewed"
+    },
+    "assets/photos/innovation-east-8-hold-up.webp": {
+      "sourceHash": "1c54739beda9bed8fe23702571e25189e827ed89e26a0887290891eae917b21c",
+      "bounds": [
+        0.06,
+        0.25,
+        0.72,
+        0.65
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base; individually visually reviewed"
+    },
+    "assets/photos/innovation-enzoni.webp": {
+      "sourceHash": "0e4143fe3dcc182be7a3c475f8f54156171520b8350d6acf0fd90179135f448f",
+      "bounds": [
+        0.26,
+        0.12,
+        0.4600000000000001,
+        0.76
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base; individually visually reviewed"
+    },
+    "assets/photos/innovation-london-calling.webp": {
+      "sourceHash": "d809e03a65baca887117e51162668e463a1283b8d87559c049bafc2526cc8275",
+      "bounds": [
+        0.16,
+        0.07,
+        0.7,
+        0.88
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base; individually visually reviewed"
+    },
+    "assets/photos/innovation-lonsdale.webp": {
+      "sourceHash": "e9ea6b3af7d4bf2edb4be1ceb617b151b26cd29f2398f207e88e39887b3c8b88",
+      "bounds": [
+        0.18,
+        0.10000000000000002,
+        0.58,
+        0.82
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base; individually visually reviewed"
+    },
+    "assets/photos/innovation-norman-conquest.webp": {
+      "sourceHash": "d7f68b19bc11a23a46bf7187375e2a6f781c0fea3e75324c48323b14ad597687",
+      "bounds": [
+        0.16,
+        0.25,
+        0.68,
+        0.63
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base; individually visually reviewed"
+    },
+    "assets/photos/innovation-spitfire.webp": {
+      "sourceHash": "aedcef85cc8d23a6c1e3851e8669f59f6021213cec49788ad44e9eab66b03b55",
+      "bounds": [
+        0.1,
+        0.2,
+        0.81,
+        0.65
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base; individually visually reviewed"
+    },
+    "assets/photos/innovation-twinkle.webp": {
+      "sourceHash": "d3d6ff602e54363b3739a1fd3acceba5fe167b3ed9b42caba6fddce08f97f3a2",
+      "bounds": [
+        0.08,
+        0.16,
+        0.78,
+        0.78
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base; individually visually reviewed"
+    },
+    "assets/photos/innovation-the-business.webp": {
+      "sourceHash": "403f2055abdacbb4363cccd7b96c0860862b3b6fbd4602b12654983286192880",
+      "bounds": [
+        0.248047,
+        0.273438,
+        0.566406,
+        0.589844
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including lime twist, rim and full base; individually viewed source photo"
+    },
+    "assets/photos/innovation-golden-boy.webp": {
+      "sourceHash": "297b13b4c766336e6f332886d566e9cf0c31373889f90b5ca8b2e5d86affb1e6",
+      "bounds": [
+        0.117,
+        0.14,
+        0.693,
+        0.746
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base; source visually reviewed by innovation_europe"
+    },
+    "assets/photos/innovation-missouri-mule.webp": {
+      "sourceHash": "7d24732431afb426cfca573b8a9cd5df08f459b8ea3ccb6a93b92973b2333e6c",
+      "bounds": [
+        0.138,
+        0.335,
+        0.683,
+        0.625
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including garnish and base; source visually reviewed by innovation_europe"
+    },
+    "assets/photos/innovation-crystal-clear-milk-punch.webp": {
+      "sourceHash": "fb7c4e4a582ae9354c6f4b7517703157a0fa79bb751de9667c2af37c0a66d370",
+      "bounds": [
+        0.30234375,
+        0.3111111111111111,
+        0.28671875,
+        0.6805555555555556
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including rim, ice and base; source visually reviewed",
+      "downloadHash": "28b34c4a3bfb683aa48e36091d32ee631c5a035f9a5742bf0947dc112c8a3f53",
+      "downloadOriginal": "/Users/rmc/Documents/ChatGPT/My Wine/image-originals/28b34c4a3bfb683aa48e36091d32ee631c5a035f9a5742bf0947dc112c8a3f53/innovation-crystal-clear-milk-punch.jpg"
+    },
+    "assets/photos/innovation-pineapple-milk-punch.webp": {
+      "sourceHash": "6fa5620e18671fa2568992fa2cd97087b021156ddd2d722e3cb930f23b5c31ae",
+      "bounds": [
+        0.38055555555555554,
+        0.4875,
+        0.1996527777777778,
+        0.44895833333333335
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including rim, ice and base; source visually reviewed",
+      "downloadHash": "6894240615ccae26bcbe2f72d9a59e9b81e2994fa87a43e63b62b345cb2111cd",
+      "downloadOriginal": "/Users/rmc/Documents/ChatGPT/My Wine/image-originals/6894240615ccae26bcbe2f72d9a59e9b81e2994fa87a43e63b62b345cb2111cd/innovation-pineapple-milk-punch.jpg"
+    },
+    "assets/photos/innovation-fog-lights-milk-punch.webp": {
+      "sourceHash": "7c3511ad1672fd81d11555b40dd1c33874d8b54b64b33d34f39831565095f00b",
+      "bounds": [
+        0.355,
+        0.07802547770700637,
+        0.3575,
+        0.8009554140127388
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including rim, ice and base; source visually reviewed",
+      "downloadHash": "2ff9815719319fcfde651ea7b45c511fb932bca08cafc5513713eb09b705a3a3",
+      "downloadOriginal": "/Users/rmc/Documents/ChatGPT/My Wine/image-originals/2ff9815719319fcfde651ea7b45c511fb932bca08cafc5513713eb09b705a3a3/innovation-fog-lights-milk-punch.jpg"
+    },
+    "assets/photos/innovation-clarified-new-york-sour.webp": {
+      "sourceHash": "0b09a72b3addaac25218101c4e9e30bc2d616c8833b603edef5a24cf99f88b4a",
+      "bounds": [
+        0.33611111111111114,
+        0.46944444444444444,
+        0.3277777777777778,
+        0.30972222222222223
+      ],
+      "reviewedAt": "2026-11-03",
+      "subject": "main glass including rim, ice and base; source visually reviewed",
+      "downloadHash": "30540a8303e24aade23502b1adea7924d97a777b47653d1efd61bfeb7be65202",
+      "downloadOriginal": "/Users/rmc/Documents/ChatGPT/My Wine/image-originals/30540a8303e24aade23502b1adea7924d97a777b47653d1efd61bfeb7be65202/innovation-clarified-new-york-sour.png"
+    }
+  }
+}

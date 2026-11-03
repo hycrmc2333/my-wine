@@ -1,0 +1,4094 @@
+{
+  "items": [
+    {
+      "id": "柠檬汁",
+      "label": "柠檬汁",
+      "group": "mixers",
+      "aliases": [
+        "新鲜柠檬汁",
+        "柠檬汁",
+        "鲜柠檬汁",
+        "鲜榨柠檬汁"
+      ],
+      "provides": [],
+      "frequency": 47
+    },
+    {
+      "id": "青柠汁",
+      "label": "青柠汁",
+      "group": "mixers",
+      "aliases": [
+        "新鲜青柠汁",
+        "青柠汁",
+        "鲜榨青柠汁"
+      ],
+      "provides": [],
+      "frequency": 33
+    },
+    {
+      "id": "普通糖浆（1:1）",
+      "label": "普通糖浆（1:1）",
+      "group": "mixers",
+      "aliases": [
+        "1:1 糖浆",
+        "单糖浆",
+        "普通糖浆",
+        "普通糖浆（1:1）",
+        "简单糖浆",
+        "简单糖浆（1:1）",
+        "糖浆",
+        "糖浆（1:1）"
+      ],
+      "provides": [],
+      "frequency": 29
+    },
+    {
+      "id": "金酒",
+      "label": "金酒",
+      "group": "spirits",
+      "aliases": [
+        "白朗姆／金酒／卡莎萨",
+        "金酒"
+      ],
+      "provides": [],
+      "frequency": 26
+    },
+    {
+      "id": "伏特加",
+      "label": "伏特加",
+      "group": "spirits",
+      "aliases": [
+        "伏特加"
+      ],
+      "provides": [],
+      "frequency": 16
+    },
+    {
+      "id": "安格仕芳香苦精",
+      "label": "安格仕芳香苦精",
+      "group": "liqueurs",
+      "aliases": [
+        "Angostura 芳香苦精",
+        "安格仕苦精"
+      ],
+      "provides": [
+        "芳香苦精"
+      ],
+      "frequency": 14
+    },
+    {
+      "id": "波本威士忌",
+      "label": "波本威士忌",
+      "group": "spirits",
+      "aliases": [
+        "波本威士忌",
+        "波本或黑麦威士忌",
+        "黑麦或波本威士忌"
+      ],
+      "provides": [
+        "威士忌"
+      ],
+      "frequency": 13
+    },
+    {
+      "id": "甜红味美思",
+      "label": "甜红味美思",
+      "group": "liqueurs",
+      "aliases": [
+        "仙山露红甜味美思（Cinzano Rosso）",
+        "甜味美思",
+        "甜红味美思"
+      ],
+      "provides": [],
+      "frequency": 12
+    },
+    {
+      "id": "菠萝汁",
+      "label": "菠萝汁",
+      "group": "mixers",
+      "aliases": [
+        "新鲜菠萝汁",
+        "菠萝汁",
+        "鲜榨菠萝汁"
+      ],
+      "provides": [],
+      "frequency": 12
+    },
+    {
+      "id": "金巴利 Campari",
+      "label": "金巴利 Campari",
+      "group": "liqueurs",
+      "aliases": [
+        "Campari",
+        "Campari 类意式红苦酒",
+        "Campari 金巴利",
+        "金巴利",
+        "金巴利苦酒"
+      ],
+      "provides": [],
+      "frequency": 11
+    },
+    {
+      "id": "干邑白兰地",
+      "label": "干邑白兰地",
+      "group": "spirits",
+      "aliases": [
+        "干邑",
+        "干邑白兰地"
+      ],
+      "provides": [
+        "白兰地"
+      ],
+      "frequency": 10
+    },
+    {
+      "id": "马拉斯奇诺樱桃利口酒",
+      "label": "马拉斯奇诺樱桃利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "Luxardo 马拉斯奇诺樱桃利口酒",
+        "卢萨多马拉斯奇诺樱桃利口酒"
+      ],
+      "provides": [],
+      "frequency": 10
+    },
+    {
+      "id": "橙汁",
+      "label": "橙汁",
+      "group": "mixers",
+      "aliases": [
+        "新鲜橙汁",
+        "鲜榨橙汁",
+        "鲜橙汁"
+      ],
+      "provides": [],
+      "frequency": 10
+    },
+    {
+      "id": "苏打水",
+      "label": "苏打水",
+      "group": "mixers",
+      "aliases": [
+        "冰镇苏打水",
+        "苏打水"
+      ],
+      "provides": [],
+      "frequency": 8
+    },
+    {
+      "id": "黑麦威士忌",
+      "label": "黑麦威士忌",
+      "group": "spirits",
+      "aliases": [
+        "波本或黑麦威士忌",
+        "黑麦威士忌",
+        "黑麦或波本威士忌"
+      ],
+      "provides": [
+        "威士忌"
+      ],
+      "frequency": 8
+    },
+    {
+      "id": "薄荷",
+      "label": "薄荷",
+      "group": "mixers",
+      "aliases": [
+        "新鲜薄荷枝",
+        "薄荷叶"
+      ],
+      "provides": [],
+      "frequency": 7
+    },
+    {
+      "id": "白朗姆酒",
+      "label": "白朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "白朗姆酒",
+        "白朗姆／金酒／卡莎萨"
+      ],
+      "provides": [
+        "朗姆酒"
+      ],
+      "frequency": 7
+    },
+    {
+      "id": "蜂蜜糖浆",
+      "label": "蜂蜜糖浆",
+      "group": "mixers",
+      "aliases": [
+        "莫林蜂蜜糖浆",
+        "蜂蜜糖浆"
+      ],
+      "provides": [],
+      "frequency": 6
+    },
+    {
+      "id": "橙味苦精",
+      "label": "橙味苦精",
+      "group": "liqueurs",
+      "aliases": [
+        "橙味苦精"
+      ],
+      "provides": [],
+      "frequency": 6
+    },
+    {
+      "id": "蛋清",
+      "label": "蛋清",
+      "group": "mixers",
+      "aliases": [
+        "生蛋清",
+        "蛋清",
+        "蛋白"
+      ],
+      "provides": [],
+      "frequency": 6
+    },
+    {
+      "id": "苦艾酒 Absinthe",
+      "label": "苦艾酒 Absinthe",
+      "group": "liqueurs",
+      "aliases": [
+        "苦艾酒",
+        "苦艾酒 Absinthe"
+      ],
+      "provides": [],
+      "frequency": 6
+    },
+    {
+      "id": "伦敦干金酒",
+      "label": "伦敦干金酒",
+      "group": "spirits",
+      "aliases": [
+        "伦敦干金酒"
+      ],
+      "provides": [
+        "干金酒",
+        "金酒"
+      ],
+      "frequency": 6
+    },
+    {
+      "id": "白砂糖",
+      "label": "白砂糖",
+      "group": "mixers",
+      "aliases": [
+        "特细砂糖或普通砂糖",
+        "白蔗糖",
+        "糖",
+        "超细砂糖"
+      ],
+      "provides": [],
+      "frequency": 5
+    },
+    {
+      "id": "橙味利口酒 Triple Sec",
+      "label": "橙味利口酒 Triple Sec",
+      "group": "liqueurs",
+      "aliases": [
+        "橙味利口酒 Triple Sec",
+        "橙味利口酒（Triple Sec）"
+      ],
+      "provides": [],
+      "frequency": 5
+    },
+    {
+      "id": "君度橙酒 Cointreau",
+      "label": "君度橙酒 Cointreau",
+      "group": "liqueurs",
+      "aliases": [
+        "Cointreau 君度橙酒",
+        "君度橙酒 Cointreau",
+        "君度橙酒（Cointreau）"
+      ],
+      "provides": [
+        "橙味利口酒 Triple Sec"
+      ],
+      "frequency": 5
+    },
+    {
+      "id": "石榴糖浆",
+      "label": "石榴糖浆",
+      "group": "mixers",
+      "aliases": [
+        "石榴糖浆"
+      ],
+      "provides": [],
+      "frequency": 5
+    },
+    {
+      "id": "接骨木花利口酒",
+      "label": "接骨木花利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "接骨木花利口酒",
+        "接骨木花利口酒（如 St-Germain）"
+      ],
+      "provides": [],
+      "frequency": 5
+    },
+    {
+      "id": "100% 龙舌兰酒",
+      "label": "100% 龙舌兰酒",
+      "group": "spirits",
+      "aliases": [
+        "100% 龙舌兰酒"
+      ],
+      "provides": [
+        "龙舌兰酒"
+      ],
+      "frequency": 4
+    },
+    {
+      "id": "鲜奶油",
+      "label": "鲜奶油",
+      "group": "mixers",
+      "aliases": [
+        "冷藏鲜奶油",
+        "奶油",
+        "鲜奶油"
+      ],
+      "provides": [],
+      "frequency": 4
+    },
+    {
+      "id": "普罗塞克起泡酒",
+      "label": "普罗塞克起泡酒",
+      "group": "spirits",
+      "aliases": [
+        "Brut 干型香槟或普罗塞克起泡酒",
+        "普罗塞克起泡酒"
+      ],
+      "provides": [
+        "起泡酒"
+      ],
+      "frequency": 4
+    },
+    {
+      "id": "白兰地",
+      "label": "白兰地",
+      "group": "spirits",
+      "aliases": [
+        "干邑或其他白兰地",
+        "白兰地"
+      ],
+      "provides": [],
+      "frequency": 4
+    },
+    {
+      "id": "法勒南糖酒 Falernum",
+      "label": "法勒南糖酒 Falernum",
+      "group": "liqueurs",
+      "aliases": [
+        "法勒南糖酒 Falernum",
+        "法勒纳姆（Falernum）"
+      ],
+      "provides": [],
+      "frequency": 4
+    },
+    {
+      "id": "爱尔兰威士忌",
+      "label": "爱尔兰威士忌",
+      "group": "spirits",
+      "aliases": [
+        "爱尔兰威士忌"
+      ],
+      "provides": [],
+      "frequency": 4
+    },
+    {
+      "id": "Aperol 开胃酒",
+      "label": "Aperol 开胃酒",
+      "group": "liqueurs",
+      "aliases": [
+        "Aperol 开胃酒",
+        "Aperol 类橙色开胃酒"
+      ],
+      "provides": [],
+      "frequency": 4
+    },
+    {
+      "id": "浓糖浆（2:1）",
+      "label": "浓糖浆（2:1）",
+      "group": "mixers",
+      "aliases": [
+        "浓糖浆",
+        "浓糖浆（2:1）"
+      ],
+      "provides": [],
+      "frequency": 4
+    },
+    {
+      "id": "全脂牛奶",
+      "label": "全脂牛奶",
+      "group": "mixers",
+      "aliases": [
+        "全脂牛奶"
+      ],
+      "provides": [],
+      "frequency": 4
+    },
+    {
+      "id": "方糖",
+      "label": "方糖",
+      "group": "mixers",
+      "aliases": [
+        "方糖"
+      ],
+      "provides": [],
+      "frequency": 3
+    },
+    {
+      "id": "干味美思",
+      "label": "干味美思",
+      "group": "liqueurs",
+      "aliases": [
+        "干味美思"
+      ],
+      "provides": [],
+      "frequency": 3
+    },
+    {
+      "id": "蔓越莓汁",
+      "label": "蔓越莓汁",
+      "group": "mixers",
+      "aliases": [
+        "蔓越莓汁"
+      ],
+      "provides": [],
+      "frequency": 3
+    },
+    {
+      "id": "姜汁啤酒 Ginger Beer",
+      "label": "姜汁啤酒 Ginger Beer",
+      "group": "mixers",
+      "aliases": [
+        "姜汁啤酒 Ginger Beer",
+        "姜汁啤酒（Ginger Beer）"
+      ],
+      "provides": [],
+      "frequency": 3
+    },
+    {
+      "id": "干金酒",
+      "label": "干金酒",
+      "group": "spirits",
+      "aliases": [
+        "干金酒"
+      ],
+      "provides": [
+        "金酒"
+      ],
+      "frequency": 3
+    },
+    {
+      "id": "卡莎萨 Cachaça",
+      "label": "卡莎萨 Cachaça",
+      "group": "spirits",
+      "aliases": [
+        "卡莎萨甘蔗蒸馏酒 Cachaça",
+        "卡莎萨（Cachaça）",
+        "白朗姆／金酒／卡莎萨"
+      ],
+      "provides": [],
+      "frequency": 3
+    },
+    {
+      "id": "蜂蜜",
+      "label": "蜂蜜",
+      "group": "mixers",
+      "aliases": [
+        "原蜜",
+        "蜂蜜"
+      ],
+      "provides": [],
+      "frequency": 3
+    },
+    {
+      "id": "香槟",
+      "label": "香槟",
+      "group": "spirits",
+      "aliases": [
+        "冰镇香槟",
+        "香槟"
+      ],
+      "provides": [
+        "起泡酒"
+      ],
+      "frequency": 3
+    },
+    {
+      "id": "绿查特利口酒 Green Chartreuse",
+      "label": "绿查特利口酒 Green Chartreuse",
+      "group": "liqueurs",
+      "aliases": [
+        "绿查特利口酒 Green Chartreuse",
+        "绿色 Chartreuse 草本利口酒"
+      ],
+      "provides": [],
+      "frequency": 3
+    },
+    {
+      "id": "可乐",
+      "label": "可乐",
+      "group": "mixers",
+      "aliases": [
+        "可乐"
+      ],
+      "provides": [],
+      "frequency": 3
+    },
+    {
+      "id": "百香果糖浆",
+      "label": "百香果糖浆",
+      "group": "mixers",
+      "aliases": [
+        "百香果糖浆"
+      ],
+      "provides": [],
+      "frequency": 3
+    },
+    {
+      "id": "杏仁糖浆 Orgeat",
+      "label": "杏仁糖浆 Orgeat",
+      "group": "mixers",
+      "aliases": [
+        "杏仁糖浆 Orgeat",
+        "杏仁糖浆（Orgeat）"
+      ],
+      "provides": [],
+      "frequency": 3
+    },
+    {
+      "id": "皮斯科 Pisco",
+      "label": "皮斯科 Pisco",
+      "group": "spirits",
+      "aliases": [
+        "皮斯科",
+        "皮斯科（Pisco）"
+      ],
+      "provides": [],
+      "frequency": 3
+    },
+    {
+      "id": "牙买加朗姆酒",
+      "label": "牙买加朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "牙买加朗姆酒"
+      ],
+      "provides": [],
+      "frequency": 3
+    },
+    {
+      "id": "黄瓜",
+      "label": "黄瓜",
+      "group": "mixers",
+      "aliases": [
+        "黄瓜",
+        "黄瓜轮片"
+      ],
+      "provides": [],
+      "frequency": 3
+    },
+    {
+      "id": "古巴白朗姆酒",
+      "label": "古巴白朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "古巴白朗姆酒"
+      ],
+      "provides": [
+        "白朗姆酒",
+        "古巴朗姆酒",
+        "朗姆酒"
+      ],
+      "frequency": 2
+    },
+    {
+      "id": "浓缩咖啡",
+      "label": "浓缩咖啡",
+      "group": "mixers",
+      "aliases": [
+        "意式浓缩咖啡",
+        "浓缩咖啡 Espresso"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "卡尔瓦多斯苹果白兰地",
+      "label": "卡尔瓦多斯苹果白兰地",
+      "group": "spirits",
+      "aliases": [
+        "Calvados 苹果白兰地",
+        "卡尔瓦多斯苹果白兰地"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "黑胡椒",
+      "label": "黑胡椒",
+      "group": "mixers",
+      "aliases": [
+        "塔巴斯科辣椒汁、芹菜盐与胡椒",
+        "盐与黑胡椒"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "库拉索橙味利口酒",
+      "label": "库拉索橙味利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "库拉索橙味利口酒",
+        "橙味库拉索利口酒"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "青柠（整果）",
+      "label": "青柠（整果）",
+      "group": "mixers",
+      "aliases": [
+        "青柠",
+        "青柠块"
+      ],
+      "provides": [
+        "青柠汁"
+      ],
+      "frequency": 2
+    },
+    {
+      "id": "老汤姆金酒 Old Tom Gin",
+      "label": "老汤姆金酒 Old Tom Gin",
+      "group": "spirits",
+      "aliases": [
+        "老汤姆金酒 Old Tom Gin",
+        "老汤姆金酒（Old Tom Gin）"
+      ],
+      "provides": [
+        "金酒"
+      ],
+      "frequency": 2
+    },
+    {
+      "id": "丽叶白开胃酒 Lillet Blanc",
+      "label": "丽叶白开胃酒 Lillet Blanc",
+      "group": "liqueurs",
+      "aliases": [
+        "丽叶白开胃酒 Lillet Blanc",
+        "丽叶白开胃酒（Lillet Blanc）"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "阿玛雷托杏仁利口酒",
+      "label": "阿玛雷托杏仁利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "阿玛雷托杏仁利口酒"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "罗勒",
+      "label": "罗勒",
+      "group": "mixers",
+      "aliases": [
+        "意大利罗勒叶",
+        "新鲜罗勒"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "西柚汁",
+      "label": "西柚汁",
+      "group": "mixers",
+      "aliases": [
+        "西柚汁"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "百香果果泥",
+      "label": "百香果果泥",
+      "group": "mixers",
+      "aliases": [
+        "百香果果泥"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "生姜",
+      "label": "生姜",
+      "group": "mixers",
+      "aliases": [
+        "新鲜姜片",
+        "薄姜片"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "干白葡萄酒",
+      "label": "干白葡萄酒",
+      "group": "spirits",
+      "aliases": [
+        "干白葡萄酒"
+      ],
+      "provides": [
+        "白葡萄酒"
+      ],
+      "frequency": 2
+    },
+    {
+      "id": "黑加仑利口酒 Crème de Cassis",
+      "label": "黑加仑利口酒 Crème de Cassis",
+      "group": "liqueurs",
+      "aliases": [
+        "黑加仑利口酒 Crème de Cassis",
+        "黑醋栗利口酒（Crème de Cassis）"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "龙舌兰酒",
+      "label": "龙舌兰酒",
+      "group": "spirits",
+      "aliases": [
+        "龙舌兰酒"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "蜂蜜混合液（Honey Mix）",
+      "label": "蜂蜜混合液（Honey Mix）",
+      "group": "mixers",
+      "aliases": [
+        "蜂蜜混合液（Honey Mix）"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "梅斯卡尔",
+      "label": "梅斯卡尔",
+      "group": "spirits",
+      "aliases": [
+        "梅斯卡尔",
+        "梅斯卡尔（Mezcal）"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "干型香槟",
+      "label": "干型香槟",
+      "group": "spirits",
+      "aliases": [
+        "Brut 干型香槟或普罗塞克起泡酒",
+        "干型香槟或起泡酒"
+      ],
+      "provides": [
+        "香槟",
+        "干型起泡酒",
+        "起泡酒"
+      ],
+      "frequency": 2
+    },
+    {
+      "id": "盐",
+      "label": "盐",
+      "group": "mixers",
+      "aliases": [
+        "盐",
+        "盐与黑胡椒"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "调和苏格兰威士忌",
+      "label": "调和苏格兰威士忌",
+      "group": "spirits",
+      "aliases": [
+        "调和苏格兰威士忌"
+      ],
+      "provides": [
+        "苏格兰威士忌"
+      ],
+      "frequency": 2
+    },
+    {
+      "id": "香草伏特加",
+      "label": "香草伏特加",
+      "group": "spirits",
+      "aliases": [
+        "香草伏特加"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "Peychaud’s 苦精",
+      "label": "Peychaud’s 苦精",
+      "group": "liqueurs",
+      "aliases": [
+        "Peychaud’s 苦精"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "橙子（整果）",
+      "label": "橙子（整果）",
+      "group": "mixers",
+      "aliases": [
+        "圆橙片",
+        "橙片"
+      ],
+      "provides": [
+        "橙汁"
+      ],
+      "frequency": 2
+    },
+    {
+      "id": "柠檬（整果）",
+      "label": "柠檬（整果）",
+      "group": "mixers",
+      "aliases": [
+        "圆柠檬片",
+        "柠檬片"
+      ],
+      "provides": [
+        "柠檬汁"
+      ],
+      "frequency": 2
+    },
+    {
+      "id": "廊酒 Bénédictine",
+      "label": "廊酒 Bénédictine",
+      "group": "liqueurs",
+      "aliases": [
+        "DOM 廊酒（Bénédictine）",
+        "廊酒（Bénédictine）"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "白龙舌兰酒",
+      "label": "白龙舌兰酒",
+      "group": "spirits",
+      "aliases": [
+        "Blanco 龙舌兰酒",
+        "白龙舌兰"
+      ],
+      "provides": [
+        "100% 龙舌兰酒",
+        "龙舌兰酒"
+      ],
+      "frequency": 2
+    },
+    {
+      "id": "蜂蜜水（3:1）",
+      "label": "蜂蜜水（3:1）",
+      "group": "mixers",
+      "aliases": [
+        "蜂蜜水"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "覆盆子",
+      "label": "覆盆子",
+      "group": "mixers",
+      "aliases": [
+        "新鲜覆盆子",
+        "覆盆子"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "Fino 干型雪莉酒",
+      "label": "Fino 干型雪莉酒",
+      "group": "spirits",
+      "aliases": [
+        "Fino 干型雪莉酒",
+        "Fino 干雪莉酒"
+      ],
+      "provides": [],
+      "frequency": 2
+    },
+    {
+      "id": "甘露咖啡利口酒 Kahlúa",
+      "label": "甘露咖啡利口酒 Kahlúa",
+      "group": "liqueurs",
+      "aliases": [
+        "甘露咖啡利口酒 Kahlúa"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "柠檬风味伏特加",
+      "label": "柠檬风味伏特加",
+      "group": "spirits",
+      "aliases": [
+        "柠檬风味伏特加"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "椰浆 Coconut Cream",
+      "label": "椰浆 Coconut Cream",
+      "group": "mixers",
+      "aliases": [
+        "椰浆 Coconut Cream"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "斯米诺伏特加",
+      "label": "斯米诺伏特加",
+      "group": "spirits",
+      "aliases": [
+        "斯米诺伏特加"
+      ],
+      "provides": [
+        "伏特加"
+      ],
+      "frequency": 1
+    },
+    {
+      "id": "棕色可可利口酒",
+      "label": "棕色可可利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "棕色可可利口酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "杏子白兰地利口酒",
+      "label": "杏子白兰地利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "杏子白兰地利口酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "紫罗兰利口酒",
+      "label": "紫罗兰利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "紫罗兰利口酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "白桃果泥",
+      "label": "白桃果泥",
+      "group": "mixers",
+      "aliases": [
+        "白桃果泥"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "咖啡利口酒",
+      "label": "咖啡利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "咖啡利口酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "番茄汁",
+      "label": "番茄汁",
+      "group": "mixers",
+      "aliases": [
+        "番茄汁"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "伍斯特酱 Worcestershire Sauce",
+      "label": "伍斯特酱 Worcestershire Sauce",
+      "group": "mixers",
+      "aliases": [
+        "伍斯特酱 Worcestershire Sauce"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "塔巴斯科辣椒汁",
+      "label": "塔巴斯科辣椒汁",
+      "group": "mixers",
+      "aliases": [
+        "塔巴斯科辣椒汁、芹菜盐与胡椒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "芹菜盐",
+      "label": "芹菜盐",
+      "group": "mixers",
+      "aliases": [
+        "塔巴斯科辣椒汁、芹菜盐与胡椒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "黑莓利口酒 Crème de Mûre",
+      "label": "黑莓利口酒 Crème de Mûre",
+      "group": "liqueurs",
+      "aliases": [
+        "黑莓利口酒 Crème de Mûre"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "芳香苦精",
+      "label": "芳香苦精",
+      "group": "liqueurs",
+      "aliases": [
+        "芳香苦精"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "古巴甘蔗蒸馏酒 Aguardiente",
+      "label": "古巴甘蔗蒸馏酒 Aguardiente",
+      "group": "spirits",
+      "aliases": [
+        "古巴甘蔗蒸馏酒 Aguardiente"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "覆盆子糖浆",
+      "label": "覆盆子糖浆",
+      "group": "mixers",
+      "aliases": [
+        "覆盆子糖浆"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "高斯林朗姆酒 Goslings Rum",
+      "label": "高斯林朗姆酒 Goslings Rum",
+      "group": "spirits",
+      "aliases": [
+        "高斯林朗姆酒 Goslings Rum"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "牙买加金朗姆酒",
+      "label": "牙买加金朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "牙买加金朗姆酒"
+      ],
+      "provides": [
+        "牙买加朗姆酒",
+        "朗姆酒"
+      ],
+      "frequency": 1
+    },
+    {
+      "id": "古巴朗姆酒",
+      "label": "古巴朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "古巴朗姆酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "菲奈特布兰卡苦味利口酒 Fernet Branca",
+      "label": "菲奈特布兰卡苦味利口酒 Fernet Branca",
+      "group": "liqueurs",
+      "aliases": [
+        "菲奈特布兰卡苦味利口酒 Fernet Branca"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "覆盆子利口酒",
+      "label": "覆盆子利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "覆盆子利口酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "柑曼怡橙酒 Grand Marnier",
+      "label": "柑曼怡橙酒 Grand Marnier",
+      "group": "liqueurs",
+      "aliases": [
+        "柑曼怡橙酒 Grand Marnier"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "白色可可利口酒",
+      "label": "白色可可利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "白色可可利口酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "绿色薄荷利口酒",
+      "label": "绿色薄荷利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "绿色薄荷利口酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "菲奈特苦味利口酒 Fernet",
+      "label": "菲奈特苦味利口酒 Fernet",
+      "group": "liqueurs",
+      "aliases": [
+        "菲奈特苦味利口酒 Fernet"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "朗姆酒",
+      "label": "朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "朗姆酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "姜汁汽水 Ginger Ale",
+      "label": "姜汁汽水 Ginger Ale",
+      "group": "mixers",
+      "aliases": [
+        "姜汁汽水 Ginger Ale"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "哈瓦那俱乐部 Profundo 朗姆酒",
+      "label": "哈瓦那俱乐部 Profundo 朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "哈瓦那俱乐部 Profundo 朗姆酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "哈瓦那俱乐部 Smoky 朗姆酒",
+      "label": "哈瓦那俱乐部 Smoky 朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "哈瓦那俱乐部 Smoky 朗姆酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "芳津榛果利口酒 Frangelico",
+      "label": "芳津榛果利口酒 Frangelico",
+      "group": "liqueurs",
+      "aliases": [
+        "芳津榛果利口酒 Frangelico"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "埃斯帕丁梅斯卡尔",
+      "label": "埃斯帕丁梅斯卡尔",
+      "group": "spirits",
+      "aliases": [
+        "埃斯帕丁梅斯卡尔"
+      ],
+      "provides": [
+        "梅斯卡尔"
+      ],
+      "frequency": 1
+    },
+    {
+      "id": "牙买加高度白朗姆酒",
+      "label": "牙买加高度白朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "牙买加高度白朗姆酒"
+      ],
+      "provides": [
+        "牙买加朗姆酒",
+        "白朗姆酒",
+        "朗姆酒"
+      ],
+      "frequency": 1
+    },
+    {
+      "id": "热黑咖啡",
+      "label": "热黑咖啡",
+      "group": "mixers",
+      "aliases": [
+        "热黑咖啡"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "黑糖蜜朗姆酒 Blackstrap Rum",
+      "label": "黑糖蜜朗姆酒 Blackstrap Rum",
+      "group": "spirits",
+      "aliases": [
+        "黑糖蜜朗姆酒 Blackstrap Rum"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "德梅拉拉蔗糖糖浆",
+      "label": "德梅拉拉蔗糖糖浆",
+      "group": "mixers",
+      "aliases": [
+        "德梅拉拉蔗糖糖浆"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "牙买加琥珀色朗姆酒",
+      "label": "牙买加琥珀色朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "牙买加琥珀色朗姆酒"
+      ],
+      "provides": [
+        "牙买加朗姆酒",
+        "朗姆酒"
+      ],
+      "frequency": 1
+    },
+    {
+      "id": "马提尼克糖蜜朗姆酒",
+      "label": "马提尼克糖蜜朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "马提尼克糖蜜朗姆酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "糖粉",
+      "label": "糖粉",
+      "group": "mixers",
+      "aliases": [
+        "糖粉"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "桃味白兰地（Peach Brandy）",
+      "label": "桃味白兰地（Peach Brandy）",
+      "group": "liqueurs",
+      "aliases": [
+        "桃味白兰地（Peach Brandy）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "菠萝块",
+      "label": "菠萝块",
+      "group": "mixers",
+      "aliases": [
+        "菠萝块"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "黄色 Chartreuse 草本利口酒",
+      "label": "黄色 Chartreuse 草本利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "黄色 Chartreuse 草本利口酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "红葡萄酒",
+      "label": "红葡萄酒",
+      "group": "spirits",
+      "aliases": [
+        "红葡萄酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "陈年朗姆酒",
+      "label": "陈年朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "陈年朗姆酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "粉红西柚汽水",
+      "label": "粉红西柚汽水",
+      "group": "mixers",
+      "aliases": [
+        "粉红西柚汽水"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "Nonino 阿玛罗草本苦味酒",
+      "label": "Nonino 阿玛罗草本苦味酒",
+      "group": "liqueurs",
+      "aliases": [
+        "Nonino 阿玛罗草本苦味酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "杏味白兰地（Apricot Brandy）",
+      "label": "杏味白兰地（Apricot Brandy）",
+      "group": "liqueurs",
+      "aliases": [
+        "杏味白兰地（Apricot Brandy）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "乐加维林 16 年单一麦芽威士忌",
+      "label": "乐加维林 16 年单一麦芽威士忌",
+      "group": "spirits",
+      "aliases": [
+        "乐加维林 16 年单一麦芽威士忌"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "丁香",
+      "label": "丁香",
+      "group": "mixers",
+      "aliases": [
+        "丁香"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "Amargo 苦精",
+      "label": "Amargo 苦精",
+      "group": "liqueurs",
+      "aliases": [
+        "Amargo 苦精"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "甘蔗汁",
+      "label": "甘蔗汁",
+      "group": "mixers",
+      "aliases": [
+        "甘蔗汁"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "百香果利口酒",
+      "label": "百香果利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "百香果利口酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "香草糖",
+      "label": "香草糖",
+      "group": "mixers",
+      "aliases": [
+        "香草糖"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "茶色波特酒（Tawny Port）",
+      "label": "茶色波特酒（Tawny Port）",
+      "group": "spirits",
+      "aliases": [
+        "茶色波特酒（Tawny Port）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "蛋黄",
+      "label": "蛋黄",
+      "group": "mixers",
+      "aliases": [
+        "蛋黄"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "Cynar 朝鲜蓟苦味酒",
+      "label": "Cynar 朝鲜蓟苦味酒",
+      "group": "liqueurs",
+      "aliases": [
+        "Cynar 朝鲜蓟苦味酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "橙花水",
+      "label": "橙花水",
+      "group": "mixers",
+      "aliases": [
+        "橙花水"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "香草精",
+      "label": "香草精",
+      "group": "mixers",
+      "aliases": [
+        "香草精"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "Luxardo 樱桃利口酒（Cherry Brandy）",
+      "label": "Luxardo 樱桃利口酒（Cherry Brandy）",
+      "group": "liqueurs",
+      "aliases": [
+        "Luxardo 樱桃利口酒（Cherry Brandy）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "起泡酒",
+      "label": "起泡酒",
+      "group": "spirits",
+      "aliases": [
+        "起泡酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "苏格兰威士忌",
+      "label": "苏格兰威士忌",
+      "group": "spirits",
+      "aliases": [
+        "苏格兰威士忌"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "杜林标利口酒（Drambuie）",
+      "label": "杜林标利口酒（Drambuie）",
+      "group": "liqueurs",
+      "aliases": [
+        "杜林标利口酒（Drambuie）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "桃味利口酒（Peach Schnapps）",
+      "label": "桃味利口酒（Peach Schnapps）",
+      "group": "liqueurs",
+      "aliases": [
+        "桃味利口酒（Peach Schnapps）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "阿蒙蒂亚多雪莉酒（Amontillado）",
+      "label": "阿蒙蒂亚多雪莉酒（Amontillado）",
+      "group": "spirits",
+      "aliases": [
+        "阿蒙蒂亚多雪莉酒（Amontillado）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "帕罗卡塔多雪莉酒（Palo Cortado）",
+      "label": "帕罗卡塔多雪莉酒（Palo Cortado）",
+      "group": "spirits",
+      "aliases": [
+        "帕罗卡塔多雪莉酒（Palo Cortado）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "Sangue Morlacco 樱桃利口酒",
+      "label": "Sangue Morlacco 樱桃利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "Sangue Morlacco 樱桃利口酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "接骨木花科迪尔糖浆（Elderflower Cordial）",
+      "label": "接骨木花科迪尔糖浆（Elderflower Cordial）",
+      "group": "mixers",
+      "aliases": [
+        "接骨木花科迪尔糖浆（Elderflower Cordial）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "红辣椒薄片",
+      "label": "红辣椒薄片",
+      "group": "mixers",
+      "aliases": [
+        "红辣椒薄片"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "白薄荷利口酒（White Crème de Menthe）",
+      "label": "白薄荷利口酒（White Crème de Menthe）",
+      "group": "liqueurs",
+      "aliases": [
+        "白薄荷利口酒（White Crème de Menthe）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "马提尼克农业朗姆酒（Rhum Agricole）",
+      "label": "马提尼克农业朗姆酒（Rhum Agricole）",
+      "group": "spirits",
+      "aliases": [
+        "马提尼克农业朗姆酒（Rhum Agricole）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "调和陈年朗姆酒",
+      "label": "调和陈年朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "调和陈年朗姆酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "St. Elizabeth 多香果利口酒",
+      "label": "St. Elizabeth 多香果利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "St. Elizabeth 多香果利口酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "龙舌兰蜜（Agave Nectar）",
+      "label": "龙舌兰蜜（Agave Nectar）",
+      "group": "mixers",
+      "aliases": [
+        "龙舌兰蜜（Agave Nectar）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "柔和型白格拉帕（White Smooth Grappa）",
+      "label": "柔和型白格拉帕（White Smooth Grappa）",
+      "group": "spirits",
+      "aliases": [
+        "柔和型白格拉帕（White Smooth Grappa）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "洋甘菊科迪尔糖浆（Chamomile Cordial）",
+      "label": "洋甘菊科迪尔糖浆（Chamomile Cordial）",
+      "group": "mixers",
+      "aliases": [
+        "洋甘菊科迪尔糖浆（Chamomile Cordial）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "牙买加深色朗姆酒",
+      "label": "牙买加深色朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "牙买加深色朗姆酒"
+      ],
+      "provides": [
+        "牙买加朗姆酒",
+        "朗姆酒"
+      ],
+      "frequency": 1
+    },
+    {
+      "id": "波多黎各金朗姆酒",
+      "label": "波多黎各金朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "波多黎各金朗姆酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "德梅拉拉朗姆酒（Demerara）",
+      "label": "德梅拉拉朗姆酒（Demerara）",
+      "group": "spirits",
+      "aliases": [
+        "德梅拉拉朗姆酒（Demerara）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "Donn’s Mix",
+      "label": "Donn’s Mix",
+      "group": "mixers",
+      "aliases": [
+        "Donn’s Mix"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "潘诺茴香酒（Pernod）",
+      "label": "潘诺茴香酒（Pernod）",
+      "group": "liqueurs",
+      "aliases": [
+        "潘诺茴香酒（Pernod）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "肉桂糖浆",
+      "label": "肉桂糖浆",
+      "group": "mixers",
+      "aliases": [
+        "肉桂糖浆"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "黑莓果泥",
+      "label": "黑莓果泥",
+      "group": "mixers",
+      "aliases": [
+        "黑莓果泥"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "草莓",
+      "label": "草莓",
+      "group": "mixers",
+      "aliases": [
+        "熟草莓"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "无糖原味希腊酸奶",
+      "label": "无糖原味希腊酸奶",
+      "group": "mixers",
+      "aliases": [
+        "无糖原味希腊酸奶"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "Reposado 陈酿龙舌兰",
+      "label": "Reposado 陈酿龙舌兰",
+      "group": "spirits",
+      "aliases": [
+        "Reposado 陈酿龙舌兰"
+      ],
+      "provides": [
+        "100% 龙舌兰酒",
+        "龙舌兰酒"
+      ],
+      "frequency": 1
+    },
+    {
+      "id": "龙舌兰糖浆",
+      "label": "龙舌兰糖浆",
+      "group": "mixers",
+      "aliases": [
+        "龙舌兰糖浆"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "桃子利口酒",
+      "label": "桃子利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "桃子利口酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "白葡萄酒",
+      "label": "白葡萄酒",
+      "group": "spirits",
+      "aliases": [
+        "白葡萄酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "干型起泡酒",
+      "label": "干型起泡酒",
+      "group": "spirits",
+      "aliases": [
+        "干型香槟或起泡酒"
+      ],
+      "provides": [
+        "起泡酒"
+      ],
+      "frequency": 1
+    },
+    {
+      "id": "无糖浑浊苹果汁",
+      "label": "无糖浑浊苹果汁",
+      "group": "mixers",
+      "aliases": [
+        "无糖浑浊苹果汁"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "浅金色朗姆酒（1–3年）",
+      "label": "浅金色朗姆酒（1–3年）",
+      "group": "spirits",
+      "aliases": [
+        "浅金色朗姆酒（1–3年）"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "无籽白葡萄",
+      "label": "无籽白葡萄",
+      "group": "mixers",
+      "aliases": [
+        "无籽白葡萄"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "Applejack 苹果白兰地",
+      "label": "Applejack 苹果白兰地",
+      "group": "spirits",
+      "aliases": [
+        "Applejack 苹果白兰地"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "Matusalem Gran Reserva 15 朗姆酒",
+      "label": "Matusalem Gran Reserva 15 朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "Matusalem Gran Reserva 15 朗姆酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "Mr Black 咖啡利口酒",
+      "label": "Mr Black 咖啡利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "Mr Black 咖啡利口酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "糖渍水果",
+      "label": "糖渍水果",
+      "group": "mixers",
+      "aliases": [
+        "糖渍水果"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "草莓糖浆",
+      "label": "草莓糖浆",
+      "group": "mixers",
+      "aliases": [
+        "草莓糖浆"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "蜂蜜黑糖甜味混合液",
+      "label": "蜂蜜黑糖甜味混合液",
+      "group": "mixers",
+      "aliases": [
+        "蜂蜜黑糖甜味混合液"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "冷却的洪都拉斯滤泡咖啡",
+      "label": "冷却的洪都拉斯滤泡咖啡",
+      "group": "mixers",
+      "aliases": [
+        "冷却的洪都拉斯滤泡咖啡"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "冷双倍奶油 Double Cream",
+      "label": "冷双倍奶油 Double Cream",
+      "group": "mixers",
+      "aliases": [
+        "冷双倍奶油 Double Cream"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "Sailor Jerry 香料朗姆酒",
+      "label": "Sailor Jerry 香料朗姆酒",
+      "group": "spirits",
+      "aliases": [
+        "Sailor Jerry 香料朗姆酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "Cherry Heering 樱桃利口酒",
+      "label": "Cherry Heering 樱桃利口酒",
+      "group": "liqueurs",
+      "aliases": [
+        "Cherry Heering 樱桃利口酒"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "Starward Two-Fold 威士忌",
+      "label": "Starward Two-Fold 威士忌",
+      "group": "spirits",
+      "aliases": [
+        "Starward Two-Fold 威士忌"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "韩式柚子果酱",
+      "label": "韩式柚子果酱",
+      "group": "mixers",
+      "aliases": [
+        "韩式柚子果酱"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "香槟醋",
+      "label": "香槟醋",
+      "group": "mixers",
+      "aliases": [
+        "香槟醋或白葡萄酒醋"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "白葡萄酒醋",
+      "label": "白葡萄酒醋",
+      "group": "mixers",
+      "aliases": [
+        "香槟醋或白葡萄酒醋"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "白味美思",
+      "label": "白味美思",
+      "group": "liqueurs",
+      "aliases": [
+        "白味美思"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "泡好的红茶",
+      "label": "泡好的红茶",
+      "group": "mixers",
+      "aliases": [
+        "泡好的红茶"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "阿萨姆红茶包",
+      "label": "阿萨姆红茶包",
+      "group": "mixers",
+      "aliases": [
+        "阿萨姆红茶包"
+      ],
+      "provides": [
+        "泡好的红茶"
+      ],
+      "frequency": 1
+    },
+    {
+      "id": "伯爵茶糖浆",
+      "label": "伯爵茶糖浆",
+      "group": "mixers",
+      "aliases": [
+        "伯爵茶糖浆"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "Half-and-half 奶油奶",
+      "label": "Half-and-half 奶油奶",
+      "group": "mixers",
+      "aliases": [
+        "Half-and-half 奶油奶"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "肉豆蔻",
+      "label": "肉豆蔻",
+      "group": "mixers",
+      "aliases": [
+        "肉豆蔻"
+      ],
+      "provides": [],
+      "frequency": 1
+    },
+    {
+      "id": "黑皮诺红葡萄酒",
+      "label": "黑皮诺红葡萄酒",
+      "group": "spirits",
+      "aliases": [
+        "黑皮诺红葡萄酒"
+      ],
+      "provides": [
+        "红葡萄酒"
+      ],
+      "frequency": 1
+    }
+  ],
+  "requirements": {
+    "negroni": [
+      [
+        "金酒"
+      ],
+      [
+        "金巴利 Campari"
+      ],
+      [
+        "甜红味美思"
+      ]
+    ],
+    "mojito": [
+      [
+        "古巴白朗姆酒"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "薄荷"
+      ],
+      [
+        "白砂糖"
+      ],
+      [
+        "苏打水"
+      ]
+    ],
+    "margarita": [
+      [
+        "100% 龙舌兰酒"
+      ],
+      [
+        "橙味利口酒 Triple Sec"
+      ],
+      [
+        "青柠汁"
+      ]
+    ],
+    "old-fashioned": [
+      [
+        "波本威士忌",
+        "黑麦威士忌"
+      ],
+      [
+        "方糖"
+      ],
+      [
+        "安格仕芳香苦精"
+      ]
+    ],
+    "dry-martini": [
+      [
+        "金酒"
+      ],
+      [
+        "干味美思"
+      ]
+    ],
+    "daiquiri": [
+      [
+        "古巴白朗姆酒"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "白砂糖"
+      ]
+    ],
+    "whiskey-sour": [
+      [
+        "波本威士忌"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ]
+    ],
+    "espresso-martini": [
+      [
+        "伏特加"
+      ],
+      [
+        "甘露咖啡利口酒 Kahlúa"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "浓缩咖啡"
+      ]
+    ],
+    "cosmopolitan": [
+      [
+        "柠檬风味伏特加"
+      ],
+      [
+        "君度橙酒 Cointreau"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "蔓越莓汁"
+      ]
+    ],
+    "manhattan": [
+      [
+        "黑麦威士忌"
+      ],
+      [
+        "甜红味美思"
+      ],
+      [
+        "安格仕芳香苦精"
+      ]
+    ],
+    "pina-colada": [
+      [
+        "白朗姆酒"
+      ],
+      [
+        "椰浆 Coconut Cream"
+      ],
+      [
+        "菠萝汁"
+      ]
+    ],
+    "moscow-mule": [
+      [
+        "斯米诺伏特加"
+      ],
+      [
+        "姜汁啤酒 Ginger Beer"
+      ],
+      [
+        "青柠汁"
+      ]
+    ],
+    "alexander": [
+      [
+        "干邑白兰地"
+      ],
+      [
+        "棕色可可利口酒"
+      ],
+      [
+        "鲜奶油"
+      ]
+    ],
+    "americano": [
+      [
+        "金巴利 Campari"
+      ],
+      [
+        "甜红味美思"
+      ],
+      [
+        "苏打水"
+      ]
+    ],
+    "angel-face": [
+      [
+        "金酒"
+      ],
+      [
+        "杏子白兰地利口酒"
+      ],
+      [
+        "卡尔瓦多斯苹果白兰地"
+      ]
+    ],
+    "aviation": [
+      [
+        "金酒"
+      ],
+      [
+        "马拉斯奇诺樱桃利口酒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "紫罗兰利口酒"
+      ]
+    ],
+    "bees-knees": [
+      [
+        "干金酒"
+      ],
+      [
+        "蜂蜜糖浆"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "橙汁"
+      ]
+    ],
+    "bellini": [
+      [
+        "普罗塞克起泡酒"
+      ],
+      [
+        "白桃果泥"
+      ]
+    ],
+    "between-the-sheets": [
+      [
+        "白朗姆酒"
+      ],
+      [
+        "干邑白兰地"
+      ],
+      [
+        "橙味利口酒 Triple Sec"
+      ],
+      [
+        "柠檬汁"
+      ]
+    ],
+    "black-russian": [
+      [
+        "伏特加"
+      ],
+      [
+        "咖啡利口酒"
+      ]
+    ],
+    "bloody-mary": [
+      [
+        "伏特加"
+      ],
+      [
+        "番茄汁"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "伍斯特酱 Worcestershire Sauce"
+      ],
+      [
+        "塔巴斯科辣椒汁"
+      ],
+      [
+        "芹菜盐"
+      ],
+      [
+        "黑胡椒"
+      ]
+    ],
+    "boulevardier": [
+      [
+        "波本威士忌",
+        "黑麦威士忌"
+      ],
+      [
+        "金巴利 Campari"
+      ],
+      [
+        "甜红味美思"
+      ]
+    ],
+    "bramble": [
+      [
+        "金酒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "黑莓利口酒 Crème de Mûre"
+      ]
+    ],
+    "brandy-crusta": [
+      [
+        "白兰地"
+      ],
+      [
+        "马拉斯奇诺樱桃利口酒"
+      ],
+      [
+        "库拉索橙味利口酒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "芳香苦精"
+      ]
+    ],
+    "caipirinha": [
+      [
+        "卡莎萨 Cachaça"
+      ],
+      [
+        "青柠（整果）"
+      ],
+      [
+        "白砂糖"
+      ]
+    ],
+    "canchanchara": [
+      [
+        "古巴甘蔗蒸馏酒 Aguardiente"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "蜂蜜"
+      ]
+    ],
+    "cardinale": [
+      [
+        "金酒"
+      ],
+      [
+        "干味美思"
+      ],
+      [
+        "金巴利 Campari"
+      ]
+    ],
+    "casino": [
+      [
+        "老汤姆金酒 Old Tom Gin"
+      ],
+      [
+        "马拉斯奇诺樱桃利口酒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "橙味苦精"
+      ]
+    ],
+    "champagne-cocktail": [
+      [
+        "香槟"
+      ],
+      [
+        "干邑白兰地"
+      ],
+      [
+        "安格仕芳香苦精"
+      ],
+      [
+        "方糖"
+      ]
+    ],
+    "chartreuse-swizzle": [
+      [
+        "绿查特利口酒 Green Chartreuse"
+      ],
+      [
+        "菠萝汁"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "法勒南糖酒 Falernum"
+      ]
+    ],
+    "clover-club": [
+      [
+        "金酒"
+      ],
+      [
+        "覆盆子糖浆"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "蛋清"
+      ]
+    ],
+    "corpse-reviver-2": [
+      [
+        "金酒"
+      ],
+      [
+        "君度橙酒 Cointreau"
+      ],
+      [
+        "丽叶白开胃酒 Lillet Blanc"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "苦艾酒 Absinthe"
+      ]
+    ],
+    "cuba-libre": [
+      [
+        "白朗姆酒"
+      ],
+      [
+        "可乐"
+      ],
+      [
+        "青柠汁"
+      ]
+    ],
+    "dark-n-stormy": [
+      [
+        "高斯林朗姆酒 Goslings Rum"
+      ],
+      [
+        "姜汁啤酒 Ginger Beer"
+      ]
+    ],
+    "dons-special-daiquiri": [
+      [
+        "牙买加金朗姆酒"
+      ],
+      [
+        "古巴朗姆酒"
+      ],
+      [
+        "百香果糖浆"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "蜂蜜糖浆"
+      ]
+    ],
+    "fernandito": [
+      [
+        "菲奈特布兰卡苦味利口酒 Fernet Branca"
+      ],
+      [
+        "可乐"
+      ]
+    ],
+    "french-75": [
+      [
+        "金酒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "香槟"
+      ]
+    ],
+    "french-connection": [
+      [
+        "干邑白兰地"
+      ],
+      [
+        "阿玛雷托杏仁利口酒"
+      ]
+    ],
+    "french-martini": [
+      [
+        "伏特加"
+      ],
+      [
+        "覆盆子利口酒"
+      ],
+      [
+        "菠萝汁"
+      ]
+    ],
+    "garibaldi": [
+      [
+        "金巴利 Campari"
+      ],
+      [
+        "橙汁"
+      ]
+    ],
+    "gin-basil-smash": [
+      [
+        "金酒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "罗勒"
+      ]
+    ],
+    "gin-fizz": [
+      [
+        "金酒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "苏打水"
+      ]
+    ],
+    "grand-margarita": [
+      [
+        "100% 龙舌兰酒"
+      ],
+      [
+        "柑曼怡橙酒 Grand Marnier"
+      ],
+      [
+        "青柠汁"
+      ]
+    ],
+    "grasshopper": [
+      [
+        "白色可可利口酒"
+      ],
+      [
+        "绿色薄荷利口酒"
+      ],
+      [
+        "鲜奶油"
+      ]
+    ],
+    "hanky-panky": [
+      [
+        "伦敦干金酒"
+      ],
+      [
+        "甜红味美思"
+      ],
+      [
+        "菲奈特苦味利口酒 Fernet"
+      ]
+    ],
+    "hemingway-special": [
+      [
+        "朗姆酒"
+      ],
+      [
+        "西柚汁"
+      ],
+      [
+        "马拉斯奇诺樱桃利口酒"
+      ],
+      [
+        "青柠汁"
+      ]
+    ],
+    "horses-neck": [
+      [
+        "干邑白兰地"
+      ],
+      [
+        "姜汁汽水 Ginger Ale"
+      ]
+    ],
+    "iba-tiki": [
+      [
+        "哈瓦那俱乐部 Profundo 朗姆酒"
+      ],
+      [
+        "哈瓦那俱乐部 Smoky 朗姆酒"
+      ],
+      [
+        "阿玛雷托杏仁利口酒"
+      ],
+      [
+        "芳津榛果利口酒 Frangelico"
+      ],
+      [
+        "马拉斯奇诺樱桃利口酒"
+      ],
+      [
+        "百香果果泥"
+      ],
+      [
+        "菠萝汁"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "生姜"
+      ]
+    ],
+    "illegal": [
+      [
+        "埃斯帕丁梅斯卡尔"
+      ],
+      [
+        "牙买加高度白朗姆酒"
+      ],
+      [
+        "法勒南糖酒 Falernum"
+      ],
+      [
+        "马拉斯奇诺樱桃利口酒"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ]
+    ],
+    "irish-coffee": [
+      [
+        "爱尔兰威士忌"
+      ],
+      [
+        "热黑咖啡"
+      ],
+      [
+        "鲜奶油"
+      ],
+      [
+        "白砂糖"
+      ]
+    ],
+    "john-collins": [
+      [
+        "金酒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "苏打水"
+      ]
+    ],
+    "jungle-bird": [
+      [
+        "黑糖蜜朗姆酒 Blackstrap Rum"
+      ],
+      [
+        "金巴利 Campari"
+      ],
+      [
+        "菠萝汁"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "德梅拉拉蔗糖糖浆"
+      ]
+    ],
+    "kir": [
+      [
+        "干白葡萄酒"
+      ],
+      [
+        "黑加仑利口酒 Crème de Cassis"
+      ]
+    ],
+    "last-word": [
+      [
+        "金酒"
+      ],
+      [
+        "绿查特利口酒 Green Chartreuse"
+      ],
+      [
+        "马拉斯奇诺樱桃利口酒"
+      ],
+      [
+        "青柠汁"
+      ]
+    ],
+    "lemon-drop-martini": [
+      [
+        "伏特加"
+      ],
+      [
+        "橙味利口酒 Triple Sec"
+      ],
+      [
+        "柠檬汁"
+      ]
+    ],
+    "long-island-iced-tea": [
+      [
+        "伏特加"
+      ],
+      [
+        "龙舌兰酒"
+      ],
+      [
+        "白朗姆酒"
+      ],
+      [
+        "金酒"
+      ],
+      [
+        "君度橙酒 Cointreau"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "可乐"
+      ]
+    ],
+    "mai-tai": [
+      [
+        "牙买加琥珀色朗姆酒"
+      ],
+      [
+        "马提尼克糖蜜朗姆酒"
+      ],
+      [
+        "库拉索橙味利口酒"
+      ],
+      [
+        "杏仁糖浆 Orgeat"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ]
+    ],
+    "martinez": [
+      [
+        "伦敦干金酒"
+      ],
+      [
+        "甜红味美思"
+      ],
+      [
+        "马拉斯奇诺樱桃利口酒"
+      ],
+      [
+        "橙味苦精"
+      ]
+    ],
+    "mary-pickford": [
+      [
+        "白朗姆酒"
+      ],
+      [
+        "菠萝汁"
+      ],
+      [
+        "马拉斯奇诺樱桃利口酒"
+      ],
+      [
+        "石榴糖浆"
+      ]
+    ],
+    "mimosa": [
+      [
+        "橙汁"
+      ],
+      [
+        "普罗塞克起泡酒"
+      ]
+    ],
+    "mint-julep": [
+      [
+        "波本威士忌"
+      ],
+      [
+        "薄荷"
+      ],
+      [
+        "糖粉"
+      ]
+    ],
+    "missionarys-downfall": [
+      [
+        "白朗姆酒"
+      ],
+      [
+        "桃味白兰地（Peach Brandy）"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "蜂蜜混合液（Honey Mix）"
+      ],
+      [
+        "薄荷"
+      ],
+      [
+        "菠萝块"
+      ]
+    ],
+    "monkey-gland": [
+      [
+        "干金酒"
+      ],
+      [
+        "橙汁"
+      ],
+      [
+        "苦艾酒 Absinthe"
+      ],
+      [
+        "石榴糖浆"
+      ]
+    ],
+    "naked-and-famous": [
+      [
+        "梅斯卡尔"
+      ],
+      [
+        "黄色 Chartreuse 草本利口酒"
+      ],
+      [
+        "Aperol 开胃酒"
+      ],
+      [
+        "青柠汁"
+      ]
+    ],
+    "new-york-sour": [
+      [
+        "波本威士忌",
+        "黑麦威士忌"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "蛋清"
+      ],
+      [
+        "红葡萄酒"
+      ]
+    ],
+    "old-cuban": [
+      [
+        "薄荷"
+      ],
+      [
+        "陈年朗姆酒"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "安格仕芳香苦精"
+      ],
+      [
+        "干型香槟",
+        "普罗塞克起泡酒"
+      ]
+    ],
+    "paloma": [
+      [
+        "100% 龙舌兰酒"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "盐"
+      ],
+      [
+        "粉红西柚汽水"
+      ]
+    ],
+    "paper-plane": [
+      [
+        "波本威士忌"
+      ],
+      [
+        "Nonino 阿玛罗草本苦味酒"
+      ],
+      [
+        "Aperol 开胃酒"
+      ],
+      [
+        "柠檬汁"
+      ]
+    ],
+    "paradise": [
+      [
+        "金酒"
+      ],
+      [
+        "杏味白兰地（Apricot Brandy）"
+      ],
+      [
+        "橙汁"
+      ]
+    ],
+    "penicillin": [
+      [
+        "调和苏格兰威士忌"
+      ],
+      [
+        "乐加维林 16 年单一麦芽威士忌"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "蜂蜜糖浆"
+      ],
+      [
+        "生姜"
+      ]
+    ],
+    "pisco-punch": [
+      [
+        "皮斯科 Pisco"
+      ],
+      [
+        "菠萝汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "干白葡萄酒"
+      ],
+      [
+        "丁香"
+      ]
+    ],
+    "pisco-sour": [
+      [
+        "皮斯科 Pisco"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "蛋清"
+      ],
+      [
+        "Amargo 苦精"
+      ]
+    ],
+    "planters-punch": [
+      [
+        "牙买加朗姆酒"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "甘蔗汁"
+      ]
+    ],
+    "porn-star-martini": [
+      [
+        "香草伏特加"
+      ],
+      [
+        "百香果利口酒"
+      ],
+      [
+        "百香果果泥"
+      ],
+      [
+        "香草糖"
+      ],
+      [
+        "香槟"
+      ]
+    ],
+    "porto-flip": [
+      [
+        "白兰地"
+      ],
+      [
+        "茶色波特酒（Tawny Port）"
+      ],
+      [
+        "蛋黄"
+      ]
+    ],
+    "rabo-de-galo": [
+      [
+        "卡莎萨 Cachaça"
+      ],
+      [
+        "甜红味美思"
+      ],
+      [
+        "Cynar 朝鲜蓟苦味酒"
+      ]
+    ],
+    "ramos-fizz": [
+      [
+        "金酒"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "鲜奶油"
+      ],
+      [
+        "蛋清"
+      ],
+      [
+        "橙花水"
+      ],
+      [
+        "香草精"
+      ],
+      [
+        "苏打水"
+      ]
+    ],
+    "remember-the-maine": [
+      [
+        "黑麦威士忌"
+      ],
+      [
+        "甜红味美思"
+      ],
+      [
+        "Luxardo 樱桃利口酒（Cherry Brandy）"
+      ],
+      [
+        "苦艾酒 Absinthe"
+      ]
+    ],
+    "russian-spring-punch": [
+      [
+        "伏特加"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "黑加仑利口酒 Crème de Cassis"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "起泡酒"
+      ]
+    ],
+    "rusty-nail": [
+      [
+        "苏格兰威士忌"
+      ],
+      [
+        "杜林标利口酒（Drambuie）"
+      ]
+    ],
+    "sazerac": [
+      [
+        "干邑白兰地"
+      ],
+      [
+        "苦艾酒 Absinthe"
+      ],
+      [
+        "方糖"
+      ],
+      [
+        "Peychaud’s 苦精"
+      ]
+    ],
+    "sea-breeze": [
+      [
+        "伏特加"
+      ],
+      [
+        "蔓越莓汁"
+      ],
+      [
+        "西柚汁"
+      ]
+    ],
+    "sex-on-the-beach": [
+      [
+        "伏特加"
+      ],
+      [
+        "桃味利口酒（Peach Schnapps）"
+      ],
+      [
+        "橙汁"
+      ],
+      [
+        "蔓越莓汁"
+      ]
+    ],
+    "sherry-cobbler": [
+      [
+        "阿蒙蒂亚多雪莉酒（Amontillado）"
+      ],
+      [
+        "帕罗卡塔多雪莉酒（Palo Cortado）"
+      ],
+      [
+        "白砂糖"
+      ],
+      [
+        "橙子（整果）"
+      ],
+      [
+        "柠檬（整果）"
+      ]
+    ],
+    "sidecar": [
+      [
+        "干邑白兰地"
+      ],
+      [
+        "橙味利口酒 Triple Sec"
+      ],
+      [
+        "柠檬汁"
+      ]
+    ],
+    "singapore-sling": [
+      [
+        "金酒"
+      ],
+      [
+        "Sangue Morlacco 樱桃利口酒"
+      ],
+      [
+        "君度橙酒 Cointreau"
+      ],
+      [
+        "廊酒 Bénédictine"
+      ],
+      [
+        "菠萝汁"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "石榴糖浆"
+      ],
+      [
+        "安格仕芳香苦精"
+      ]
+    ],
+    "south-side": [
+      [
+        "伦敦干金酒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "薄荷"
+      ]
+    ],
+    "spicy-fifty": [
+      [
+        "香草伏特加"
+      ],
+      [
+        "接骨木花科迪尔糖浆（Elderflower Cordial）"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "蜂蜜糖浆"
+      ],
+      [
+        "红辣椒薄片"
+      ]
+    ],
+    "spritz": [
+      [
+        "普罗塞克起泡酒"
+      ],
+      [
+        "Aperol 开胃酒"
+      ],
+      [
+        "苏打水"
+      ]
+    ],
+    "stinger": [
+      [
+        "干邑白兰地"
+      ],
+      [
+        "白薄荷利口酒（White Crème de Menthe）"
+      ]
+    ],
+    "suffering-bastard": [
+      [
+        "白兰地"
+      ],
+      [
+        "金酒"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "安格仕芳香苦精"
+      ],
+      [
+        "姜汁啤酒 Ginger Beer"
+      ]
+    ],
+    "tequila-sunrise": [
+      [
+        "龙舌兰酒"
+      ],
+      [
+        "橙汁"
+      ],
+      [
+        "石榴糖浆"
+      ]
+    ],
+    "three-dots-and-a-dash": [
+      [
+        "马提尼克农业朗姆酒（Rhum Agricole）"
+      ],
+      [
+        "调和陈年朗姆酒"
+      ],
+      [
+        "法勒南糖酒 Falernum"
+      ],
+      [
+        "St. Elizabeth 多香果利口酒"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "橙汁"
+      ],
+      [
+        "蜂蜜糖浆"
+      ],
+      [
+        "安格仕芳香苦精"
+      ]
+    ],
+    "tipperary": [
+      [
+        "爱尔兰威士忌"
+      ],
+      [
+        "甜红味美思"
+      ],
+      [
+        "绿查特利口酒 Green Chartreuse"
+      ],
+      [
+        "安格仕芳香苦精"
+      ]
+    ],
+    "tommys-margarita": [
+      [
+        "100% 龙舌兰酒"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "龙舌兰蜜（Agave Nectar）"
+      ]
+    ],
+    "trinidad-sour": [
+      [
+        "安格仕芳香苦精"
+      ],
+      [
+        "杏仁糖浆 Orgeat"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "黑麦威士忌"
+      ]
+    ],
+    "tuxedo": [
+      [
+        "老汤姆金酒 Old Tom Gin"
+      ],
+      [
+        "干味美思"
+      ],
+      [
+        "马拉斯奇诺樱桃利口酒"
+      ],
+      [
+        "苦艾酒 Absinthe"
+      ],
+      [
+        "橙味苦精"
+      ]
+    ],
+    "ve-n-to": [
+      [
+        "柔和型白格拉帕（White Smooth Grappa）"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "蜂蜜混合液（Honey Mix）"
+      ],
+      [
+        "洋甘菊科迪尔糖浆（Chamomile Cordial）"
+      ]
+    ],
+    "vesper": [
+      [
+        "金酒"
+      ],
+      [
+        "伏特加"
+      ],
+      [
+        "丽叶白开胃酒 Lillet Blanc"
+      ]
+    ],
+    "vieux-carre": [
+      [
+        "黑麦威士忌"
+      ],
+      [
+        "干邑白兰地"
+      ],
+      [
+        "甜红味美思"
+      ],
+      [
+        "廊酒 Bénédictine"
+      ],
+      [
+        "Peychaud’s 苦精"
+      ]
+    ],
+    "white-lady": [
+      [
+        "金酒"
+      ],
+      [
+        "橙味利口酒 Triple Sec"
+      ],
+      [
+        "柠檬汁"
+      ]
+    ],
+    "zombie": [
+      [
+        "牙买加深色朗姆酒"
+      ],
+      [
+        "波多黎各金朗姆酒"
+      ],
+      [
+        "德梅拉拉朗姆酒（Demerara）"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "法勒南糖酒 Falernum"
+      ],
+      [
+        "Donn’s Mix"
+      ],
+      [
+        "石榴糖浆"
+      ],
+      [
+        "安格仕芳香苦精"
+      ],
+      [
+        "潘诺茴香酒（Pernod）"
+      ]
+    ],
+    "innovation-gilda": [
+      [
+        "白龙舌兰酒"
+      ],
+      [
+        "菠萝汁"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "肉桂糖浆"
+      ]
+    ],
+    "innovation-amelia": [
+      [
+        "伏特加"
+      ],
+      [
+        "接骨木花利口酒"
+      ],
+      [
+        "黑莓果泥"
+      ],
+      [
+        "柠檬汁"
+      ]
+    ],
+    "innovation-gold-rush": [
+      [
+        "波本威士忌"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "蜂蜜水（3:1）"
+      ]
+    ],
+    "innovation-kentucky-maid": [
+      [
+        "波本威士忌"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "薄荷"
+      ],
+      [
+        "黄瓜"
+      ]
+    ],
+    "innovation-gordons-cup": [
+      [
+        "青柠（整果）"
+      ],
+      [
+        "黄瓜"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "金酒"
+      ],
+      [
+        "盐"
+      ],
+      [
+        "黑胡椒"
+      ]
+    ],
+    "innovation-slippery-when-wet": [
+      [
+        "草莓"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "蜂蜜"
+      ],
+      [
+        "金酒"
+      ],
+      [
+        "无糖原味希腊酸奶"
+      ]
+    ],
+    "innovation-ramble": [
+      [
+        "金酒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "覆盆子"
+      ]
+    ],
+    "innovation-irish-maid": [
+      [
+        "黄瓜"
+      ],
+      [
+        "爱尔兰威士忌"
+      ],
+      [
+        "接骨木花利口酒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "浓糖浆（2:1）"
+      ]
+    ],
+    "innovation-oaxaca-old-fashioned": [
+      [
+        "Reposado 陈酿龙舌兰"
+      ],
+      [
+        "梅斯卡尔"
+      ],
+      [
+        "龙舌兰糖浆"
+      ],
+      [
+        "安格仕芳香苦精"
+      ]
+    ],
+    "innovation-kingston-negroni": [
+      [
+        "牙买加朗姆酒"
+      ],
+      [
+        "甜红味美思"
+      ],
+      [
+        "金巴利 Campari"
+      ]
+    ],
+    "innovation-norman-conquest": [
+      [
+        "卡尔瓦多斯苹果白兰地"
+      ],
+      [
+        "甜红味美思"
+      ],
+      [
+        "波本威士忌"
+      ],
+      [
+        "安格仕芳香苦精"
+      ]
+    ],
+    "innovation-spitfire": [
+      [
+        "干邑白兰地"
+      ],
+      [
+        "桃子利口酒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "蛋清"
+      ],
+      [
+        "白葡萄酒"
+      ]
+    ],
+    "innovation-london-calling": [
+      [
+        "金酒"
+      ],
+      [
+        "Fino 干型雪莉酒"
+      ],
+      [
+        "浓糖浆（2:1）"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "橙味苦精"
+      ]
+    ],
+    "innovation-east-8-hold-up": [
+      [
+        "伏特加"
+      ],
+      [
+        "Aperol 开胃酒"
+      ],
+      [
+        "菠萝汁"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "浓糖浆（2:1）"
+      ],
+      [
+        "百香果糖浆"
+      ]
+    ],
+    "innovation-twinkle": [
+      [
+        "伏特加"
+      ],
+      [
+        "接骨木花利口酒"
+      ],
+      [
+        "干型香槟",
+        "干型起泡酒"
+      ]
+    ],
+    "innovation-lonsdale": [
+      [
+        "伦敦干金酒"
+      ],
+      [
+        "蜂蜜糖浆"
+      ],
+      [
+        "罗勒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "无糖浑浊苹果汁"
+      ]
+    ],
+    "innovation-dry-daiquiri": [
+      [
+        "浅金色朗姆酒（1–3年）"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "金巴利 Campari"
+      ],
+      [
+        "浓糖浆（2:1）"
+      ],
+      [
+        "百香果糖浆"
+      ]
+    ],
+    "innovation-enzoni": [
+      [
+        "无籽白葡萄"
+      ],
+      [
+        "伦敦干金酒"
+      ],
+      [
+        "金巴利 Campari"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "柠檬汁"
+      ]
+    ],
+    "innovation-golden-boy": [
+      [
+        "Fino 干型雪莉酒"
+      ],
+      [
+        "接骨木花利口酒"
+      ],
+      [
+        "皮斯科 Pisco"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "橙味苦精"
+      ]
+    ],
+    "innovation-missouri-mule": [
+      [
+        "波本威士忌"
+      ],
+      [
+        "Applejack 苹果白兰地"
+      ],
+      [
+        "金巴利 Campari"
+      ],
+      [
+        "君度橙酒 Cointreau"
+      ],
+      [
+        "柠檬汁"
+      ]
+    ],
+    "innovation-espresso-martiki": [
+      [
+        "Matusalem Gran Reserva 15 朗姆酒"
+      ],
+      [
+        "Mr Black 咖啡利口酒"
+      ],
+      [
+        "菠萝汁"
+      ],
+      [
+        "杏仁糖浆 Orgeat"
+      ],
+      [
+        "浓缩咖啡"
+      ]
+    ],
+    "innovation-pink-lemonade": [
+      [
+        "糖渍水果"
+      ],
+      [
+        "草莓糖浆"
+      ],
+      [
+        "白龙舌兰酒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "苏打水"
+      ]
+    ],
+    "innovation-the-business": [
+      [
+        "伦敦干金酒"
+      ],
+      [
+        "青柠汁"
+      ],
+      [
+        "蜂蜜水（3:1）"
+      ]
+    ],
+    "innovation-cold-irish-coffee": [
+      [
+        "爱尔兰威士忌"
+      ],
+      [
+        "蜂蜜黑糖甜味混合液"
+      ],
+      [
+        "冷却的洪都拉斯滤泡咖啡"
+      ],
+      [
+        "冷双倍奶油 Double Cream"
+      ]
+    ],
+    "innovation-perfidia-no-2": [
+      [
+        "橙子（整果）"
+      ],
+      [
+        "柠檬（整果）"
+      ],
+      [
+        "薄荷"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "安格仕芳香苦精"
+      ],
+      [
+        "Sailor Jerry 香料朗姆酒"
+      ]
+    ],
+    "innovation-dantes-peak": [
+      [
+        "调和苏格兰威士忌"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "金巴利 Campari"
+      ],
+      [
+        "橙汁"
+      ],
+      [
+        "Cherry Heering 樱桃利口酒"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "苏打水"
+      ]
+    ],
+    "innovation-raspberry-bramble": [
+      [
+        "覆盆子"
+      ],
+      [
+        "金酒"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ]
+    ],
+    "innovation-beekeeper": [
+      [
+        "蜂蜜"
+      ],
+      [
+        "苦艾酒 Absinthe"
+      ],
+      [
+        "安格仕芳香苦精"
+      ],
+      [
+        "Starward Two-Fold 威士忌"
+      ]
+    ],
+    "innovation-yuzu-whiskey-sour": [
+      [
+        "波本威士忌"
+      ],
+      [
+        "蛋清"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "韩式柚子果酱"
+      ],
+      [
+        "接骨木花利口酒"
+      ]
+    ],
+    "innovation-atlas-martini": [
+      [
+        "橙味苦精"
+      ],
+      [
+        "香槟醋",
+        "白葡萄酒醋"
+      ],
+      [
+        "白味美思"
+      ],
+      [
+        "干金酒"
+      ]
+    ],
+    "innovation-crystal-clear-milk-punch": [
+      [
+        "泡好的红茶"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "橙汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "伏特加"
+      ],
+      [
+        "全脂牛奶"
+      ]
+    ],
+    "innovation-pineapple-milk-punch": [
+      [
+        "阿萨姆红茶包"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "菠萝汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "全脂牛奶"
+      ],
+      [
+        "伏特加"
+      ],
+      [
+        "白朗姆酒",
+        "金酒",
+        "卡莎萨 Cachaça"
+      ]
+    ],
+    "innovation-fog-lights-milk-punch": [
+      [
+        "波本威士忌"
+      ],
+      [
+        "白兰地"
+      ],
+      [
+        "牙买加朗姆酒"
+      ],
+      [
+        "伯爵茶糖浆"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "全脂牛奶"
+      ],
+      [
+        "Half-and-half 奶油奶"
+      ],
+      [
+        "肉豆蔻"
+      ]
+    ],
+    "innovation-clarified-new-york-sour": [
+      [
+        "波本威士忌",
+        "黑麦威士忌"
+      ],
+      [
+        "柠檬汁"
+      ],
+      [
+        "普通糖浆（1:1）"
+      ],
+      [
+        "全脂牛奶"
+      ],
+      [
+        "黑皮诺红葡萄酒"
+      ]
+    ]
+  }
+}

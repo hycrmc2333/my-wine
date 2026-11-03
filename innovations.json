@@ -1,0 +1,3286 @@
+[
+  {
+    "id": "innovation-gilda",
+    "name": "Gilda",
+    "zh": "吉尔达",
+    "bar": {
+      "name": "Death & Co",
+      "city": "New York",
+      "country": "美国",
+      "rank": 6,
+      "rankYear": 2012,
+      "rankingSource": "https://drinksint.com/files/Supplements/2012/Drinks-International-The-Worlds-50-Best-Bars-2012.pdf"
+    },
+    "creator": "Brian Miller",
+    "base": "龙舌兰",
+    "bases": [
+      "龙舌兰"
+    ],
+    "tags": [
+      "果香",
+      "酸甜"
+    ],
+    "color": "#f3e5c4",
+    "method": "摇和",
+    "glass": "碟形香槟杯",
+    "garnish": "青柠轮片",
+    "ingredients": [
+      {
+        "name": "白龙舌兰",
+        "amount": 2,
+        "unit": "oz"
+      },
+      {
+        "name": "菠萝汁",
+        "amount": 0.5,
+        "unit": "oz"
+      },
+      {
+        "name": "鲜榨青柠汁",
+        "amount": 0.5,
+        "unit": "oz"
+      },
+      {
+        "name": "肉桂糖浆",
+        "amount": 0.5,
+        "unit": "oz",
+        "note": "来源使用 Liber & Co 成品肉桂糖浆"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加入原料",
+        "text": "将四种原料量入摇壶。"
+      },
+      {
+        "title": "加冰摇和",
+        "text": "加入冰块，摇和 10 秒。"
+      },
+      {
+        "title": "过滤装饰",
+        "text": "滤入冰镇碟形杯，以青柠轮片装饰。"
+      }
+    ],
+    "tip": "菠萝与青柠的明亮酸甜，带一层温暖肉桂香。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.liberandcompany.com/products/gilda",
+    "sourceTitle": "Liber & Co · Gilda",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "版本",
+        "text": "Brian Miller 在 Death & Co 创作；这里采用 Liber & Co 公开规格及其肉桂糖浆。"
+      }
+    ],
+    "recipeSources": [
+      {
+        "title": "Liber & Co · Gilda",
+        "url": "https://www.liberandcompany.com/products/gilda"
+      }
+    ],
+    "photoRemoteUrl": "https://www.liberandcompany.com/cdn/shop/files/gildacocktail.jpg?v=1758142819",
+    "photoSource": "https://www.liberandcompany.com/products/gilda",
+    "photoCredit": "Liber & Co",
+    "flavorDescription": "菠萝与青柠的明亮酸甜，带一层温暖肉桂香。",
+    "ingredientAccessibility": "1 瓶基酒：白龙舌兰。菠萝汁、青柠常见；肉桂糖浆购买咖啡/调酒用成品，原公开版本使用 Liber & Co，不要求自制浸泡。",
+    "photo": "assets/photos/innovation-gilda.webp"
+  },
+  {
+    "id": "innovation-amelia",
+    "name": "Amelia",
+    "zh": "阿梅莉亚",
+    "bar": {
+      "name": "Employees Only",
+      "city": "New York",
+      "country": "美国",
+      "rank": 26,
+      "rankYear": 2018,
+      "rankingSource": "https://www.theworlds50best.com/stories/News/worlds-50-best-bars-2018-list-in-pics.html"
+    },
+    "creator": "Jason Kosmas & Dushan Zaric",
+    "base": "伏特加",
+    "bases": [
+      "伏特加"
+    ],
+    "tags": [
+      "莓果",
+      "酸甜"
+    ],
+    "color": "#eedbe6",
+    "method": "摇和",
+    "glass": "碟形香槟杯",
+    "garnish": "薄荷冠",
+    "ingredients": [
+      {
+        "name": "伏特加",
+        "amount": 1.75,
+        "unit": "oz",
+        "note": "原书指定 Luksusowa 马铃薯伏特加"
+      },
+      {
+        "name": "接骨木花利口酒",
+        "amount": 1,
+        "unit": "oz",
+        "note": "St-Germain"
+      },
+      {
+        "name": "黑莓果泥",
+        "amount": 0.75,
+        "unit": "oz",
+        "note": "原书明确允许 Boiron 成品黑莓果泥"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 0.75,
+        "unit": "oz"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将伏特加、接骨木花利口酒、果泥和柠檬汁加入摇壶，加大块冷冰用力摇和。"
+      },
+      {
+        "title": "过滤",
+        "text": "滤入冰镇鸡尾酒杯。"
+      },
+      {
+        "title": "薄荷装饰",
+        "text": "轻拍薄荷枝释放香气，放在酒面。"
+      }
+    ],
+    "tip": "黑莓果香与接骨木花香，柠檬带出鲜明酸度。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.epicurious.com/recipes/food/views/amelia-390766",
+    "sourceTitle": "Epicurious · Employees Only 的 Speakeasy 授权书摘",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "购买方式",
+        "text": "原书使用 Boiron 成品果泥，不需要酒吧自制原料。"
+      }
+    ],
+    "recipeSources": [
+      {
+        "title": "Epicurious · Employees Only 的 Speakeasy 授权书摘",
+        "url": "https://www.epicurious.com/recipes/food/views/amelia-390766"
+      },
+      {
+        "title": "Imbibe · 同款实拍（EO LA）",
+        "url": "https://imbibemagazine.com/recipe/employees-only-los-angeles-amelia/"
+      }
+    ],
+    "photoRemoteUrl": "https://imbibemagazine.com/wp-content/uploads/2018/07/employees-only-la-amelia-cocktail-twitter-crdt-jim-sullivan.jpg",
+    "photoSource": "https://imbibemagazine.com/recipe/employees-only-los-angeles-amelia/",
+    "photoCredit": "Jim Sullivan / Imbibe",
+    "flavorDescription": "黑莓果香与接骨木花香，柠檬带出鲜明酸度。",
+    "sourceNote": "采用纽约 Employees Only 创办人出版的原配方；照片为同品牌洛杉矶分店的成品呈现。",
+    "ingredientAccessibility": "2 瓶酒：伏特加、St-Germain 接骨木花利口酒；另购标准黑莓果泥（原书 Boiron）、柠檬与薄荷。无需浸泡或制作专用糖浆。",
+    "photo": "assets/photos/innovation-amelia.webp"
+  },
+  {
+    "id": "innovation-gold-rush",
+    "name": "Gold Rush",
+    "zh": "淘金热",
+    "bar": {
+      "name": "Milk & Honey",
+      "city": "New York",
+      "country": "美国",
+      "rank": 2,
+      "rankYear": 2009,
+      "rankingSource": "https://www.the50.com/bars/previous-lists"
+    },
+    "creator": "T. J. Siegal",
+    "base": "威士忌",
+    "bases": [
+      "威士忌"
+    ],
+    "tags": [
+      "蜂蜜",
+      "酸甜"
+    ],
+    "color": "#f0dfbe",
+    "method": "摇和",
+    "glass": "古典杯",
+    "garnish": "无",
+    "ingredients": [
+      {
+        "name": "波本威士忌",
+        "amount": 2,
+        "unit": "oz",
+        "note": "来源推荐 Elijah Craig"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 0.75,
+        "unit": "oz"
+      },
+      {
+        "name": "蜂蜜水",
+        "amount": 0.75,
+        "unit": "oz",
+        "note": "蜂蜜 : 水 = 3 : 1，见下方"
+      }
+    ],
+    "steps": [
+      {
+        "title": "混合蜂蜜水",
+        "text": "按 3 份蜂蜜与 1 份水混匀，量取所需用量。"
+      },
+      {
+        "title": "加冰摇和",
+        "text": "三种原料加冰摇和。"
+      },
+      {
+        "title": "过滤",
+        "text": "滤入古典杯，杯内放一枚大冰块。"
+      }
+    ],
+    "tip": "蜂蜜柔甜与柠檬鲜酸，只有一款基酒的明亮波本酸酒。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://punchdrink.com/recipes/gold-rush/",
+    "sourceTitle": "PUNCH · T. J. Siegal 的 Gold Rush",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "配比",
+        "text": "蜂蜜水必须依此来源为 3:1；不是直接使用等量纯蜂蜜。"
+      },
+      {
+        "title": "照片呈现",
+        "text": "原配方未要求装饰；来源实拍有一片柠檬皮。"
+      }
+    ],
+    "recipeSources": [
+      {
+        "title": "PUNCH · T. J. Siegal 的 Gold Rush",
+        "url": "https://punchdrink.com/recipes/gold-rush/"
+      }
+    ],
+    "photoRemoteUrl": "https://punchdrink.com/wp-content/uploads/2021/02/Recipe-Article-Modern-Classic-Gold-Rush-Bourbon-Cocktail.jpg?w=800",
+    "photoSource": "https://punchdrink.com/recipes/gold-rush/",
+    "photoCredit": "Lizzie Munro / PUNCH",
+    "flavorDescription": "蜂蜜柔甜与柠檬鲜酸，只有一款基酒的明亮波本酸酒。",
+    "ingredientAccessibility": "1 瓶波本；柠檬、蜂蜜和水可在普通超市购买。蜂蜜水只需按 3:1 混匀，不需浸泡或熬制。",
+    "photo": "assets/photos/innovation-gold-rush.webp"
+  },
+  {
+    "id": "innovation-kentucky-maid",
+    "name": "Kentucky Maid",
+    "zh": "肯塔基少女",
+    "bar": {
+      "name": "Milk & Honey",
+      "city": "New York",
+      "country": "美国",
+      "rank": 2,
+      "rankYear": 2009,
+      "rankingSource": "https://www.the50.com/bars/previous-lists"
+    },
+    "creator": "Sam Ross",
+    "base": "威士忌",
+    "bases": [
+      "威士忌"
+    ],
+    "tags": [
+      "清爽",
+      "柑橘酸甜"
+    ],
+    "color": "#e1e7ce",
+    "method": "摇和",
+    "glass": "古典杯",
+    "garnish": "黄瓜片与薄荷枝",
+    "ingredients": [
+      {
+        "name": "波本威士忌",
+        "amount": 2,
+        "unit": "oz",
+        "note": "来源推荐 Elijah Craig Small Batch"
+      },
+      {
+        "name": "鲜榨青柠汁",
+        "amount": 1,
+        "unit": "oz"
+      },
+      {
+        "name": "简单糖浆",
+        "amount": 0.75,
+        "unit": "oz"
+      },
+      {
+        "name": "薄荷叶",
+        "amount": 8,
+        "unit": "片"
+      },
+      {
+        "name": "黄瓜",
+        "amount": 3,
+        "unit": "片"
+      }
+    ],
+    "steps": [
+      {
+        "title": "轻捣",
+        "text": "在摇壶内将薄荷、黄瓜与糖浆轻捣。"
+      },
+      {
+        "title": "摇至冷",
+        "text": "加入波本、青柠汁与冰块，摇和至冷。"
+      },
+      {
+        "title": "双滤装饰",
+        "text": "双重过滤入装冰古典杯，以穿在薄荷枝上的黄瓜片装饰。"
+      }
+    ],
+    "tip": "黄瓜、薄荷与青柠让波本变得清凉，酸甜清爽。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://vinepair.com/cocktail-recipe/kentucky-maid/",
+    "sourceTitle": "VinePair · Kentucky Maid",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "出处",
+        "text": "Sam Ross 在纽约 Milk & Honey 时期创作。"
+      },
+      {
+        "title": "时间",
+        "text": "来源要求摇至冷，没有规定秒数。"
+      }
+    ],
+    "recipeSources": [
+      {
+        "title": "VinePair · Kentucky Maid",
+        "url": "https://vinepair.com/cocktail-recipe/kentucky-maid/"
+      }
+    ],
+    "photoRemoteUrl": "https://vinepair.com/wp-content/uploads/2023/08/kentucky-maid-card-375x450.jpg",
+    "photoSource": "https://vinepair.com/cocktail-recipe/kentucky-maid/",
+    "photoCredit": "Geo Rivera / VinePair",
+    "flavorDescription": "黄瓜、薄荷与青柠让波本变得清凉，酸甜清爽。",
+    "ingredientAccessibility": "1 瓶波本；黄瓜、薄荷、青柠与普通简单糖浆。糖浆可买成品或将等量糖与水混匀。",
+    "photo": "assets/photos/innovation-kentucky-maid.webp"
+  },
+  {
+    "id": "innovation-gordons-cup",
+    "name": "Gordon’s Cup",
+    "zh": "戈登之杯",
+    "bar": {
+      "name": "Milk & Honey",
+      "city": "New York",
+      "country": "美国",
+      "rank": 2,
+      "rankYear": 2009,
+      "rankingSource": "https://www.the50.com/bars/previous-lists"
+    },
+    "creator": "Sasha Petraske",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "清爽",
+      "微咸酸甜"
+    ],
+    "color": "#e1e4c8",
+    "method": "摇和",
+    "glass": "双份古典杯",
+    "garnish": "黄瓜片、盐与胡椒",
+    "ingredients": [
+      {
+        "name": "青柠块",
+        "amount": 6,
+        "unit": "块"
+      },
+      {
+        "name": "黄瓜轮片",
+        "amount": 3,
+        "unit": "片",
+        "note": "另备 3 片装饰"
+      },
+      {
+        "name": "简单糖浆",
+        "amount": 22,
+        "unit": "ml",
+        "note": "糖与水等重量"
+      },
+      {
+        "name": "金酒",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "盐与黑胡椒",
+        "amount": null,
+        "unit": "少许",
+        "note": "装饰时各一撮"
+      }
+    ],
+    "steps": [
+      {
+        "title": "捣压果蔬",
+        "text": "青柠块、3 片黄瓜与糖浆放入摇壶，捣压出汁。"
+      },
+      {
+        "title": "摇 4–5 次",
+        "text": "加入金酒和敲裂冰块，摇 4–5 次。"
+      },
+      {
+        "title": "连冰倒入",
+        "text": "连同冰和果肉倒入冻冷的双份古典杯，饰以黄瓜片及少许盐、胡椒。"
+      }
+    ],
+    "tip": "青柠与黄瓜的清爽酸甜，盐和黑胡椒增加咸鲜层次。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.sbs.com.au/food/recipe/gordons-cup/9p2btmsnk",
+    "sourceTitle": "SBS · The Madrusan Cocktail Companion 授权书摘",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "原文操作",
+        "text": "摇动次数为 4–5 次，不是 4–5 秒；保留捣碎的果肉和冰。"
+      },
+      {
+        "title": "糖浆",
+        "text": "1 份细砂糖与 1 份热水按相同重量混合、冷却。"
+      }
+    ],
+    "recipeSources": [
+      {
+        "title": "SBS · The Madrusan Cocktail Companion 授权书摘",
+        "url": "https://www.sbs.com.au/food/recipe/gordons-cup/9p2btmsnk"
+      }
+    ],
+    "photoRemoteUrl": "https://sbs-au-brightspot.s3.ap-southeast-2.amazonaws.com/00/5c/1cdfd72e45378d951c1afb3ff0a8/batida-gordons-cup-copy.jpg",
+    "photoSource": "https://www.sbs.com.au/food/recipe/gordons-cup/9p2btmsnk",
+    "photoCredit": "Mark Roper / Murdoch Books",
+    "flavorDescription": "青柠与黄瓜的清爽酸甜，盐和黑胡椒增加咸鲜层次。",
+    "ingredientAccessibility": "1 瓶金酒；青柠、黄瓜、糖、盐和黑胡椒均是普通食品。没有专用利口酒或预制组件。",
+    "photo": "assets/photos/innovation-gordons-cup.webp"
+  },
+  {
+    "id": "innovation-slippery-when-wet",
+    "name": "Slippery When Wet",
+    "zh": "湿滑时刻",
+    "bar": {
+      "name": "Death & Co",
+      "city": "New York",
+      "country": "美国",
+      "rank": 6,
+      "rankYear": 2012,
+      "rankingSource": "https://drinksint.com/files/Supplements/2012/Drinks-International-The-Worlds-50-Best-Bars-2012.pdf"
+    },
+    "creator": "Shannon Tebay Sidle",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "草莓",
+      "酸甜柔滑"
+    ],
+    "color": "#eedcdb",
+    "method": "摇和",
+    "glass": "古典杯",
+    "garnish": "草莓片与现磨黑胡椒",
+    "ingredients": [
+      {
+        "name": "熟草莓",
+        "amount": 1,
+        "unit": "大颗",
+        "note": "或 2 颗小草莓，切半"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 0.75,
+        "unit": "oz"
+      },
+      {
+        "name": "蜂蜜",
+        "amount": 0.5,
+        "unit": "oz",
+        "note": "直接用蜂蜜，不是蜂蜜糖浆"
+      },
+      {
+        "name": "金酒",
+        "amount": 2,
+        "unit": "oz"
+      },
+      {
+        "name": "无糖原味希腊酸奶",
+        "amount": 1,
+        "unit": "满 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": "捣碎草莓",
+        "text": "草莓、柠檬汁与蜂蜜加入摇壶，捣至充分碎开。"
+      },
+      {
+        "title": "摇约 15 秒",
+        "text": "加入金酒、酸奶和冰块，摇约 15 秒至冷。"
+      },
+      {
+        "title": "双滤装饰",
+        "text": "双重过滤入装碎冰古典杯，饰以草莓片和现磨黑胡椒。"
+      }
+    ],
+    "tip": "草莓与柠檬酸甜，少量希腊酸奶带来微酸、柔滑的口感。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://imbibemagazine.com/recipe/brunch-cocktail-slippery-when-wet/",
+    "sourceTitle": "Imbibe · The One-Bottle Cocktail 授权配方",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "乳制品",
+        "text": "使用无糖、原味希腊酸奶。"
+      },
+      {
+        "title": "时间依据",
+        "text": "约 15 秒来自原书公开配方，不是估算。"
+      }
+    ],
+    "recipeSources": [
+      {
+        "title": "Imbibe · The One-Bottle Cocktail 授权配方",
+        "url": "https://imbibemagazine.com/recipe/brunch-cocktail-slippery-when-wet/"
+      }
+    ],
+    "photoRemoteUrl": "https://imbibemagazine.com/wp-content/uploads/2018/01/slippery-when-wet-one-bottle-ckctails-crdt-kelly-puleio.jpeg",
+    "photoSource": "https://imbibemagazine.com/recipe/brunch-cocktail-slippery-when-wet/",
+    "photoCredit": "Kelly Puleio / Imbibe",
+    "flavorDescription": "草莓与柠檬酸甜，少量希腊酸奶带来微酸、柔滑的口感。",
+    "ingredientAccessibility": "1 瓶金酒；草莓、柠檬、蜂蜜、原味希腊酸奶与黑胡椒可从超市购买；无自制组件。",
+    "photo": "assets/photos/innovation-slippery-when-wet.webp"
+  },
+  {
+    "id": "innovation-ramble",
+    "name": "Ramble",
+    "zh": "漫步莓园",
+    "bar": {
+      "name": "Death & Co",
+      "city": "New York",
+      "country": "美国",
+      "rank": 6,
+      "rankYear": 2012,
+      "rankingSource": "https://drinksint.com/files/Supplements/2012/Drinks-International-The-Worlds-50-Best-Bars-2012.pdf"
+    },
+    "creator": "Phil Ward",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "莓果",
+      "甜酸"
+    ],
+    "color": "#edddd8",
+    "method": "摇和",
+    "glass": "海波杯",
+    "garnish": "覆盆子果肉与吸管",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 2,
+        "unit": "oz",
+        "note": "Plymouth"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 1,
+        "unit": "oz"
+      },
+      {
+        "name": "简单糖浆",
+        "amount": 1.25,
+        "unit": "oz",
+        "note": "分成 0.75 oz 与 0.5 oz 两次使用"
+      },
+      {
+        "name": "覆盆子",
+        "amount": 3,
+        "unit": "颗"
+      }
+    ],
+    "steps": [
+      {
+        "title": "短摇底酒",
+        "text": "金酒、柠檬汁与 0.75 oz 糖浆加入摇壶，放入 3 块冰短摇。"
+      },
+      {
+        "title": "过滤",
+        "text": "滤入装碎冰的海波杯。"
+      },
+      {
+        "title": "制作莓果顶层",
+        "text": "清空摇壶，加入覆盆子与余下 0.5 oz 糖浆，轻轻捣碎后倒在酒面，配吸管。"
+      }
+    ],
+    "tip": "鲜覆盆子的果香配柠檬与金酒，甜酸明显，果肉顶层逐渐渗入碎冰。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.cocktaillove.com/recipes/ramble/",
+    "sourceTitle": "CocktailLove · Death & Co 书中配方",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "糖浆分配",
+        "text": "1.25 oz 是总量；摇和使用 0.75 oz，覆盆子顶层使用 0.5 oz。"
+      },
+      {
+        "title": "出处",
+        "text": "Phil Ward，Death & Co，2008 年。"
+      }
+    ],
+    "recipeSources": [
+      {
+        "title": "CocktailLove · Death & Co 书中配方",
+        "url": "https://www.cocktaillove.com/recipes/ramble/"
+      }
+    ],
+    "photoRemoteUrl": "https://media.cocktaillove.com/media/recipes/1fea8d87-8a5b-4aef-b6c2-105cdb98986e/ramble-NFsE8TIA-1080w.jpg",
+    "photoSource": "https://www.cocktaillove.com/recipes/ramble/",
+    "photoCredit": "CocktailLove · @alex",
+    "flavorDescription": "鲜覆盆子的果香配柠檬与金酒，甜酸明显，果肉顶层逐渐渗入碎冰。",
+    "ingredientAccessibility": "1 瓶金酒；覆盆子、柠檬和普通简单糖浆。莓果顶层是现场捣碎鲜果，不需要预先制作果浆。",
+    "photo": "assets/photos/innovation-ramble.webp"
+  },
+  {
+    "id": "innovation-irish-maid",
+    "name": "Irish Maid",
+    "zh": "爱尔兰少女",
+    "bar": {
+      "name": "The Dead Rabbit",
+      "city": "New York",
+      "country": "美国",
+      "rank": 1,
+      "rankYear": 2016,
+      "rankingSource": "https://www.theworlds50best.com/stories/News/worlds-50-best-bars-10-anniversary-new-york-february-2019.html"
+    },
+    "creator": "Jack McGarry",
+    "base": "威士忌",
+    "bases": [
+      "威士忌"
+    ],
+    "tags": [
+      "花香",
+      "清爽酸甜"
+    ],
+    "color": "#e1e6ce",
+    "method": "摇和",
+    "glass": "古典杯",
+    "garnish": "黄瓜片",
+    "ingredients": [
+      {
+        "name": "黄瓜",
+        "amount": 2,
+        "unit": "片"
+      },
+      {
+        "name": "爱尔兰威士忌",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "接骨木花利口酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "浓糖浆",
+        "amount": 10,
+        "unit": "ml",
+        "note": "糖 : 水 = 2 : 1"
+      }
+    ],
+    "steps": [
+      {
+        "title": "轻捣黄瓜",
+        "text": "黄瓜放入摇壶底部轻捣。"
+      },
+      {
+        "title": "加冰摇和",
+        "text": "加入其余原料与冰块，摇和。"
+      },
+      {
+        "title": "过滤装饰",
+        "text": "滤入装冰的古典杯，以黄瓜片装饰。"
+      }
+    ],
+    "tip": "黄瓜与接骨木花香衬托爱尔兰威士忌，柠檬带来清爽酸度。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.diffordsguide.com/cocktails/recipe/3646/irish-maid",
+    "sourceTitle": "Difford’s Guide · Irish Maid 公开版本",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "版本",
+        "text": "Jack McGarry 在 The Dead Rabbit 创作；采用 Difford’s Guide 标明的调整版规格，不与其他糖浆浓度混用。"
+      }
+    ],
+    "recipeSources": [
+      {
+        "title": "Difford’s Guide · Irish Maid 公开版本",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/3646/irish-maid"
+      }
+    ],
+    "photoRemoteUrl": "https://cdn.diffordsguide.com/cocktail/RYkmmr/default/0/512x.webp",
+    "photoSource": "https://www.diffordsguide.com/cocktails/recipe/3646/irish-maid",
+    "photoCredit": "Difford’s Guide",
+    "flavorDescription": "黄瓜与接骨木花香衬托爱尔兰威士忌，柠檬带来清爽酸度。",
+    "ingredientAccessibility": "2 瓶酒：爱尔兰威士忌与接骨木花利口酒；另备黄瓜、柠檬与 2:1 成品浓糖浆。普通糖和水也可按比例溶解。",
+    "sourceNote": "Difford’s Guide 的公开调整版；保留来源所列 60/15/20/10 ml 配比。",
+    "photo": "assets/photos/innovation-irish-maid.webp"
+  },
+  {
+    "id": "innovation-oaxaca-old-fashioned",
+    "name": "Oaxaca Old-Fashioned",
+    "zh": "瓦哈卡古典",
+    "bar": {
+      "name": "Death & Co",
+      "city": "New York",
+      "country": "美国",
+      "rank": 6,
+      "rankYear": 2012,
+      "rankingSource": "https://drinksint.com/files/Supplements/2012/Drinks-International-The-Worlds-50-Best-Bars-2012.pdf"
+    },
+    "creator": "Phil Ward",
+    "base": "龙舌兰",
+    "bases": [
+      "龙舌兰",
+      "梅斯卡尔"
+    ],
+    "tags": [
+      "特色烈酒款",
+      "烟熏甜香"
+    ],
+    "color": "#ecd6bd",
+    "method": "搅拌",
+    "glass": "古典杯",
+    "garnish": "橙皮",
+    "ingredients": [
+      {
+        "name": "Reposado 陈酿龙舌兰",
+        "amount": 1.5,
+        "unit": "oz"
+      },
+      {
+        "name": "梅斯卡尔",
+        "amount": 0.5,
+        "unit": "oz"
+      },
+      {
+        "name": "龙舌兰糖浆",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Angostura 芳香苦精",
+        "amount": 2,
+        "unit": "dash"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰搅拌",
+        "text": "所有液体原料加冰搅拌。"
+      },
+      {
+        "title": "过滤",
+        "text": "滤入古典杯，杯内放一枚大冰块。"
+      },
+      {
+        "title": "橙皮装饰",
+        "text": "原方将橙皮油在酒面上方点燃，再把橙皮放入杯中。"
+      }
+    ],
+    "tip": "特色烈酒款：陈酿龙舌兰与梅斯卡尔的烟熏、橙皮和柔和甜香，酒感明显。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.deathandcompanymarket.com/blogs/recipes/oaxaca-old-fashioned",
+    "sourceTitle": "Death & Co 官方 · Oaxaca Old-Fashioned",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "原方来源",
+        "text": "Phil Ward，Death & Co NYC，2007 年。官方规格使用 1 tsp 龙舌兰糖浆及 2 dash Angostura。"
+      },
+      {
+        "title": "装饰操作",
+        "text": "不熟悉点火装饰时，可只挤橙皮油；这属于家庭操作简化，不改变杯内配方。"
+      }
+    ],
+    "recipeSources": [
+      {
+        "title": "Death & Co 官方 · Oaxaca Old-Fashioned",
+        "url": "https://www.deathandcompanymarket.com/blogs/recipes/oaxaca-old-fashioned"
+      }
+    ],
+    "photoRemoteUrl": "https://www.deathandcompanymarket.com/cdn/shop/articles/Oaxaca_Old_Fashioned_1200x1200.jpg?v=1699651224",
+    "photoSource": "https://www.deathandcompanymarket.com/blogs/recipes/oaxaca-old-fashioned",
+    "photoCredit": "Death & Co",
+    "flavorDescription": "特色烈酒款：陈酿龙舌兰与梅斯卡尔的烟熏、橙皮和柔和甜香，酒感明显。",
+    "ingredientAccessibility": "2 瓶基酒加 1 小瓶常规苦精：Reposado 龙舌兰、梅斯卡尔、Angostura；龙舌兰糖浆买成品，另需橙子。无需任何浸泡。",
+    "photo": "assets/photos/innovation-oaxaca-old-fashioned.webp"
+  },
+  {
+    "id": "innovation-kingston-negroni",
+    "name": "Kingston Negroni",
+    "zh": "金斯敦尼格罗尼",
+    "bar": {
+      "name": "Death & Co",
+      "city": "New York",
+      "country": "美国",
+      "rank": 6,
+      "rankYear": 2012,
+      "rankingSource": "https://drinksint.com/files/Supplements/2012/Drinks-International-The-Worlds-50-Best-Bars-2012.pdf"
+    },
+    "creator": "Joaquín Simó",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "特色烈酒款",
+      "浓郁苦甜"
+    ],
+    "color": "#edcec0",
+    "method": "搅拌",
+    "glass": "古典杯",
+    "garnish": "长条橙皮",
+    "ingredients": [
+      {
+        "name": "牙买加朗姆酒",
+        "amount": 1,
+        "unit": "oz",
+        "note": "创作者使用 Smith & Cross"
+      },
+      {
+        "name": "甜味美思",
+        "amount": 1,
+        "unit": "oz"
+      },
+      {
+        "name": "金巴利",
+        "amount": 1,
+        "unit": "oz"
+      }
+    ],
+    "steps": [
+      {
+        "title": "等份搅拌",
+        "text": "三种酒按等份加入调酒杯，加冰搅拌。"
+      },
+      {
+        "title": "过滤",
+        "text": "滤入古典杯，杯内放一枚大冰块。"
+      },
+      {
+        "title": "橙皮装饰",
+        "text": "用修整好的长条橙皮装饰。"
+      }
+    ],
+    "tip": "特色烈酒款：牙买加朗姆的浓郁熟果香与 Campari 的苦甜结合，酒感明显。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://imbibemagazine.com/recipe/kingston-negroni-recipe/",
+    "sourceTitle": "Imbibe · Joaquín Simó 的 Kingston Negroni",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "配比",
+        "text": "1:1:1；不是 IBA Negroni 的金酒配方。"
+      },
+      {
+        "title": "装饰呈现",
+        "text": "来源步骤写长条橙皮，原料栏与实拍使用橙片；图像保留实拍呈现。"
+      }
+    ],
+    "recipeSources": [
+      {
+        "title": "Imbibe · Joaquín Simó 的 Kingston Negroni",
+        "url": "https://imbibemagazine.com/recipe/kingston-negroni-recipe/"
+      },
+      {
+        "title": "Death & Co · 官方十周年经典菜单（Kingston Negroni）",
+        "url": "https://media-cdn.getbento.com/accounts/b407703cbc06b7de17a1aab05567665c/media/3S4qxkGHR3GlxA5MAVfL_2024.11.15_D%26C_Menu_LA_web.pdf"
+      }
+    ],
+    "photoRemoteUrl": "https://imbibemagazine.com/wp-content/uploads/2013/05/kingston-negroni-crdt-john-valls-scaled.jpg",
+    "photoSource": "https://imbibemagazine.com/recipe/kingston-negroni-recipe/",
+    "photoCredit": "John Valls / Imbibe",
+    "flavorDescription": "特色烈酒款：牙买加朗姆的浓郁熟果香与 Campari 的苦甜结合，酒感明显。",
+    "ingredientAccessibility": "3 瓶常规商品酒：牙买加朗姆、Campari、甜味美思；另需橙子。原方推荐 Smith & Cross，需保留牙买加朗姆的风格，不建议随意改成白朗姆。",
+    "photo": "assets/photos/innovation-kingston-negroni.webp"
+  },
+  {
+    "id": "innovation-norman-conquest",
+    "name": "Norman Conquest",
+    "zh": "诺曼征服",
+    "base": "威士忌",
+    "bases": [
+      "威士忌",
+      "白兰地"
+    ],
+    "tags": [
+      "苹果",
+      "微甜",
+      "浓烈"
+    ],
+    "color": "#b16c32",
+    "method": "搅拌",
+    "glass": "古典杯",
+    "garnish": "橙片",
+    "ingredients": [
+      {
+        "name": "Calvados 苹果白兰地",
+        "amount": 25,
+        "unit": "ml",
+        "note": "原方 Avallen"
+      },
+      {
+        "name": "甜味美思",
+        "amount": 25,
+        "unit": "ml",
+        "note": "原方 Cocchi di Torino"
+      },
+      {
+        "name": "波本威士忌",
+        "amount": 25,
+        "unit": "ml",
+        "note": "原方 Woodford Reserve"
+      },
+      {
+        "name": "Angostura 芳香苦精",
+        "amount": 3,
+        "unit": "滴"
+      }
+    ],
+    "steps": [
+      {
+        "title": "搅拌",
+        "text": "全部原料加冰搅拌。"
+      },
+      {
+        "title": "出杯",
+        "text": "滤入放冰块的古典杯，以橙片装饰。"
+      }
+    ],
+    "tip": "未标明的摇和时长不作推测；按原文操作至充分冷却。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.thewhiskyexchange.com/p/54515/norman-conquest-by-kwant-cocktail-collection",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [],
+    "bar": {
+      "name": "Kwānt",
+      "city": "London",
+      "country": "英国",
+      "rank": 6,
+      "rankYear": 2020,
+      "rankingSource": "https://www.the50.com/bars/previous-lists"
+    },
+    "creator": "Erik Lorincz",
+    "flavorDescription": "苹果、香草与甜味美思的圆润果香，酒感明显。",
+    "sourceTitle": "The Whisky Exchange × Kwānt — Norman Conquest",
+    "recipeSources": [
+      {
+        "title": "The Whisky Exchange × Kwānt — Norman Conquest",
+        "url": "https://www.thewhiskyexchange.com/p/54515/norman-conquest-by-kwant-cocktail-collection"
+      }
+    ],
+    "photoRemoteUrl": "https://cdn.diffordsguide.com/cocktail/Raojmr/default/0/512x.webp?v=1737701614",
+    "photoSource": "https://www.diffordsguide.com/cocktails/recipe/10366/norman-conquest",
+    "photoCredit": "Difford's Guide · Norman Conquest",
+    "ingredientAccessibility": "3瓶常规酒加1瓶常用芳香苦精；无需预制液。",
+    "photo": "assets/photos/innovation-norman-conquest.webp"
+  },
+  {
+    "id": "innovation-spitfire",
+    "name": "Spitfire",
+    "zh": "喷火式",
+    "base": "白兰地",
+    "bases": [
+      "白兰地"
+    ],
+    "tags": [
+      "桃子",
+      "酸甜",
+      "绵密"
+    ],
+    "color": "#e9cf88",
+    "method": "摇和",
+    "glass": "碟形鸡尾酒杯",
+    "garnish": "无",
+    "ingredients": [
+      {
+        "name": "干邑",
+        "amount": 40,
+        "unit": "ml",
+        "note": "原方 Merlet Brothers Blend"
+      },
+      {
+        "name": "桃子利口酒",
+        "amount": 10,
+        "unit": "ml",
+        "note": "原方 Merlet Crème de Pêche de Vigne"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "普通糖浆",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "蛋白",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "白葡萄酒",
+        "amount": 25,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "预摇",
+        "text": "将干邑、桃子利口酒、柠檬汁、糖浆和蛋白加入摇壶，不加冰先摇匀。"
+      },
+      {
+        "title": "冰摇",
+        "text": "加入冰块，再用力摇至冷却。"
+      },
+      {
+        "title": "收尾",
+        "text": "过滤到预冷的鸡尾酒杯，最后加入白葡萄酒。"
+      }
+    ],
+    "tip": "未标明的摇和时长不作推测；按原文操作至充分冷却。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://merlet.fr/language/en/cocktail/spitfire-2/",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "版本说明",
+        "text": "采用 Merlet 公开配方的毫升数；该页英制换算与毫升数不一致，因此保留毫升。英文步骤漏列糖浆，法文步骤确认糖浆与其他非葡萄酒原料一起加入。"
+      }
+    ],
+    "bar": {
+      "name": "69 Colebrooke Row",
+      "city": "London",
+      "country": "英国",
+      "rank": 23,
+      "rankYear": 2014,
+      "rankingSource": "https://www.the50.com/bars/previous-lists"
+    },
+    "creator": "Tony Conigliaro",
+    "flavorDescription": "桃子甜香、柠檬酸度与白葡萄酒果香，蛋白使口感轻柔。",
+    "sourceTitle": "Merlet — Spitfire by 69 Colebrooke Row",
+    "recipeSources": [
+      {
+        "title": "Merlet — Spitfire by 69 Colebrooke Row",
+        "url": "https://merlet.fr/language/en/cocktail/spitfire-2/"
+      }
+    ],
+    "photoRemoteUrl": "https://merlet.fr/wp-content/uploads/2016/11/Spitfire_cadre-1.png",
+    "photoSource": "https://merlet.fr/language/en/cocktail/spitfire-2/",
+    "photoCredit": "Merlet — Spitfire by 69 Colebrooke Row",
+    "ingredientAccessibility": "干邑、桃子利口酒、白葡萄酒共3瓶，另备普通糖浆、柠檬与鸡蛋；无自制浸泡液。",
+    "sourceNote": "Merlet公开版本：采用通售Brothers Blend，不是69专属house blend，亦不声称是酒吧现行原方。",
+    "photo": "assets/photos/innovation-spitfire.webp"
+  },
+  {
+    "id": "innovation-london-calling",
+    "name": "London Calling",
+    "zh": "伦敦呼唤",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "柑橘",
+      "偏酸",
+      "清爽"
+    ],
+    "color": "#e6d3a0",
+    "method": "摇和",
+    "glass": "碟形鸡尾酒杯",
+    "garnish": "粉红西柚皮",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 60,
+        "unit": "ml",
+        "note": "原方 Fords Gin"
+      },
+      {
+        "name": "Fino 干雪莉酒",
+        "amount": 15.0,
+        "unit": "ml"
+      },
+      {
+        "name": "浓糖浆（2:1）",
+        "amount": 7.5,
+        "unit": "ml"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "橙味苦精",
+        "amount": 2,
+        "unit": "dash"
+      }
+    ],
+    "steps": [
+      {
+        "title": "摇和",
+        "text": "全部原料加冰摇和。"
+      },
+      {
+        "title": "过滤",
+        "text": "滤入预冷鸡尾酒杯，饰以一条少白瓤的粉红西柚皮。"
+      }
+    ],
+    "tip": "未标明的摇和时长不作推测；按原文操作至充分冷却。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.fordsgin.com/cocktail/london-calling/",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "份量",
+        "text": "原文比例为金酒2份、Fino 0.5份、浓糖浆0.25份、柠檬汁0.75份；本页按1份=30ml换算，橙苦精仍为2 dash。此毫升量为页面量杯换算，不是原文单位。"
+      },
+      {
+        "title": "糖浆",
+        "text": "浓糖浆指2份糖对1份水，可购买成品；不是酒吧专用糖浆。"
+      }
+    ],
+    "bar": {
+      "name": "Milk & Honey London",
+      "city": "London",
+      "country": "英国",
+      "rank": 1,
+      "rankYear": 2009,
+      "rankingSource": "https://www.the50.com/bars/previous-lists"
+    },
+    "creator": "Chris Jepson",
+    "flavorDescription": "柠檬酸爽与干雪莉坚果香，收尾清干。",
+    "sourceTitle": "Fords Gin — London Calling",
+    "recipeSources": [
+      {
+        "title": "Fords Gin — London Calling",
+        "url": "https://www.fordsgin.com/cocktail/london-calling/"
+      }
+    ],
+    "photoRemoteUrl": "https://www.fordsgin.com/wp-content/uploads/2022/05/london-calling.jpeg",
+    "photoSource": "https://www.fordsgin.com/cocktail/london-calling/",
+    "photoCredit": "Fords Gin — London Calling",
+    "ingredientAccessibility": "金酒、零售Fino雪莉、常规橙味苦精共3瓶；另备浓糖浆和柑橘。",
+    "photo": "assets/photos/innovation-london-calling.webp"
+  },
+  {
+    "id": "innovation-east-8-hold-up",
+    "name": "East 8 Hold Up",
+    "zh": "东八区劫案",
+    "base": "伏特加",
+    "bases": [
+      "伏特加"
+    ],
+    "tags": [
+      "热带果味",
+      "酸甜",
+      "微苦"
+    ],
+    "color": "#e98b55",
+    "method": "摇和",
+    "glass": "古典杯",
+    "garnish": "菠萝角与青柠角",
+    "ingredients": [
+      {
+        "name": "伏特加",
+        "amount": 1.5,
+        "unit": "fl oz",
+        "note": "原文 1½ fl oz"
+      },
+      {
+        "name": "Aperol 类橙色开胃酒",
+        "amount": 0.5,
+        "unit": "fl oz",
+        "note": "原文 ½ fl oz"
+      },
+      {
+        "name": "菠萝汁",
+        "amount": 0.6666666666666666,
+        "unit": "fl oz",
+        "note": "原文 ⅔ fl oz"
+      },
+      {
+        "name": "鲜榨青柠汁",
+        "amount": 0.5,
+        "unit": "fl oz",
+        "note": "原文 ½ fl oz"
+      },
+      {
+        "name": "浓糖浆（2:1）",
+        "amount": 0.25,
+        "unit": "fl oz",
+        "note": "原文 ¼ fl oz"
+      },
+      {
+        "name": "百香果糖浆",
+        "amount": 0.16666666666666666,
+        "unit": "fl oz",
+        "note": "原方 Monin 成品糖浆；原文 ⅙ fl oz"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备",
+        "text": "预冷古典杯，备好菠萝角和青柠角。"
+      },
+      {
+        "title": "摇和",
+        "text": "全部原料加冰摇和。"
+      },
+      {
+        "title": "出杯",
+        "text": "过滤进放满冰块的杯中，放上水果装饰。"
+      }
+    ],
+    "tip": "未标明的摇和时长不作推测；按原文操作至充分冷却。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.diffordsguide.com/cocktails/recipe/3519/east-8-hold-up-cocktail",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "配方单位",
+        "text": "保留公开来源的 fl oz 单位，未将分数四舍五入。"
+      },
+      {
+        "title": "糖浆",
+        "text": "使用2:1成品浓糖浆和商售百香果糖浆，不需要自制果味原料。"
+      }
+    ],
+    "bar": {
+      "name": "Milk & Honey London",
+      "city": "London",
+      "country": "英国",
+      "rank": 1,
+      "rankYear": 2009,
+      "rankingSource": "https://www.the50.com/bars/previous-lists"
+    },
+    "creator": "Kevin Armstrong",
+    "flavorDescription": "菠萝与百香果的热带果香，酸甜中带轻苦。",
+    "sourceTitle": "Difford’s Guide — East 8 Hold Up",
+    "recipeSources": [
+      {
+        "title": "Difford’s Guide — East 8 Hold Up",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/3519/east-8-hold-up-cocktail"
+      }
+    ],
+    "photoRemoteUrl": "https://cdn.diffordsguide.com/cocktail/rN4v7R/default/0/512x.webp",
+    "photoSource": "https://www.diffordsguide.com/cocktails/recipe/3519/east-8-hold-up-cocktail",
+    "photoCredit": "Difford’s Guide — East 8 Hold Up",
+    "ingredientAccessibility": "伏特加与Aperol共2瓶酒，加普通浓糖浆、Monin等成品百香果糖浆、菠萝汁和青柠。",
+    "photo": "assets/photos/innovation-east-8-hold-up.webp"
+  },
+  {
+    "id": "innovation-twinkle",
+    "name": "Twinkle",
+    "zh": "星光",
+    "base": "伏特加",
+    "bases": [
+      "伏特加"
+    ],
+    "tags": [
+      "花香",
+      "微甜",
+      "气泡"
+    ],
+    "color": "#eadfb2",
+    "method": "摇和",
+    "glass": "碟形鸡尾酒杯",
+    "garnish": "柠檬皮",
+    "ingredients": [
+      {
+        "name": "伏特加",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "接骨木花利口酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "干型香槟或起泡酒",
+        "amount": 60,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "摇和",
+        "text": "伏特加与接骨木花利口酒加冰摇和。"
+      },
+      {
+        "title": "添气泡",
+        "text": "细滤入预冷碟杯，再加入起泡酒。"
+      },
+      {
+        "title": "装饰",
+        "text": "在杯口挤出柠檬皮油，再将皮放上。"
+      }
+    ],
+    "tip": "未标明的摇和时长不作推测；按原文操作至充分冷却。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.diffordsguide.com/cocktails/recipe/2007/twinkle",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "公开版本",
+        "text": "采用Difford公开改编版；2002年Lonsdale原作使用接骨木花cordial与Prosecco，这里依来源使用零售利口酒。"
+      }
+    ],
+    "bar": {
+      "name": "The Lonsdale",
+      "city": "London",
+      "country": "英国",
+      "rank": 19,
+      "rankYear": 2009,
+      "rankingSource": "https://www.the50.com/bars/previous-lists"
+    },
+    "creator": "Tony Conigliaro",
+    "flavorDescription": "花香、清甜与细腻气泡。",
+    "sourceTitle": "Difford’s Guide — Twinkle",
+    "recipeSources": [
+      {
+        "title": "Difford’s Guide — Twinkle",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2007/twinkle"
+      }
+    ],
+    "photoRemoteUrl": "https://cdn.diffordsguide.com/cocktail/rbll8R/default/0/512x.webp",
+    "photoSource": "https://www.diffordsguide.com/cocktails/recipe/2007/twinkle",
+    "photoCredit": "Difford’s Guide — Twinkle",
+    "ingredientAccessibility": "伏特加、St-Germain等常规接骨木花利口酒、干型起泡酒共3瓶；无需预制。",
+    "photo": "assets/photos/innovation-twinkle.webp"
+  },
+  {
+    "id": "innovation-lonsdale",
+    "name": "Lonsdale",
+    "zh": "朗斯代尔",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "苹果",
+      "酸甜",
+      "草本"
+    ],
+    "color": "#d3d58d",
+    "method": "摇和",
+    "glass": "柯林杯",
+    "garnish": "罗勒叶、苹果片",
+    "ingredients": [
+      {
+        "name": "伦敦干金酒",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "蜂蜜糖浆",
+        "amount": 15,
+        "unit": "ml",
+        "note": "可购买普通成品蜂蜜糖浆"
+      },
+      {
+        "name": "新鲜罗勒",
+        "amount": 3,
+        "unit": "片"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "无糖浑浊苹果汁",
+        "amount": 75,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "混合",
+        "text": "先将蜂蜜糖浆与金酒搅匀。"
+      },
+      {
+        "title": "摇和",
+        "text": "撕开罗勒叶，连同其余原料加入摇壶，加冰摇和。"
+      },
+      {
+        "title": "出杯",
+        "text": "细滤入预冷柯林杯，以罗勒叶和苹果片装饰。"
+      }
+    ],
+    "tip": "未标明的摇和时长不作推测；按原文操作至充分冷却。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.diffordsguide.com/cocktails/recipe/2473/lonsdale",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "蜂蜜糖浆",
+        "text": "来源没有要求酒吧自制版本，可购买普通蜂蜜糖浆；不把其擅自改为等量纯蜂蜜。"
+      }
+    ],
+    "bar": {
+      "name": "The Lonsdale",
+      "city": "London",
+      "country": "英国",
+      "rank": 19,
+      "rankYear": 2009,
+      "rankingSource": "https://www.the50.com/bars/previous-lists"
+    },
+    "creator": "Alexandra Fiot",
+    "flavorDescription": "苹果、柠檬与罗勒清香，蜂蜜柔和甜味。",
+    "sourceTitle": "Difford’s Guide — Lonsdale",
+    "recipeSources": [
+      {
+        "title": "Difford’s Guide — Lonsdale",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2473/lonsdale"
+      }
+    ],
+    "photoRemoteUrl": "https://cdn.diffordsguide.com/cocktail/r8ay2O/default/0/512x.webp",
+    "photoSource": "https://www.diffordsguide.com/cocktails/recipe/2473/lonsdale",
+    "photoCredit": "Difford’s Guide — Lonsdale",
+    "ingredientAccessibility": "仅1瓶金酒；其余为商售蜂蜜糖浆、苹果汁、柠檬与罗勒。",
+    "photo": "assets/photos/innovation-lonsdale.webp"
+  },
+  {
+    "id": "innovation-dry-daiquiri",
+    "name": "Dry Daiquiri",
+    "zh": "苦甜黛绮莉",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "百香果",
+      "酸甜",
+      "微苦"
+    ],
+    "color": "#dc9a76",
+    "method": "摇和",
+    "glass": "碟形鸡尾酒杯",
+    "garnish": "橙皮",
+    "ingredients": [
+      {
+        "name": "浅金色朗姆酒（1–3年）",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "鲜榨青柠汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "Campari 类意式红苦酒",
+        "amount": 7.5,
+        "unit": "ml"
+      },
+      {
+        "name": "浓糖浆（2:1）",
+        "amount": 7.5,
+        "unit": "ml"
+      },
+      {
+        "name": "百香果糖浆",
+        "amount": 5,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备",
+        "text": "预冷碟杯，准备橙皮。"
+      },
+      {
+        "title": "摇和",
+        "text": "全部原料加冰摇和，再细滤入杯。"
+      },
+      {
+        "title": "装饰",
+        "text": "来源使用火烤橙皮挤油装饰。"
+      }
+    ],
+    "tip": "时长仅在来源明确给出时标注。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.diffordsguide.com/cocktails/recipe/2386/dry-daiquiri",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "公开版本",
+        "text": "采用Difford公开改编版；来源追溯到Kevin Armstrong约2005年于Match Bar的创作，后来在Trailer Happiness传播。"
+      },
+      {
+        "title": "可选盐",
+        "text": "来源另列2滴20%盐水或极少量盐为可选项；此处不把盐水设为必做预制原料。"
+      }
+    ],
+    "bar": {
+      "name": "Match Bar",
+      "city": "London",
+      "country": "英国",
+      "rank": 27,
+      "rankYear": 2009,
+      "rankingSource": "https://www.the50.com/bars/previous-lists"
+    },
+    "creator": "Kevin Armstrong",
+    "flavorDescription": "百香果的甜香、青柠的酸与红苦酒的微苦。",
+    "sourceTitle": "Difford’s Guide — Dry Daiquiri",
+    "recipeSources": [
+      {
+        "title": "Difford’s Guide — Dry Daiquiri",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2386/dry-daiquiri"
+      }
+    ],
+    "photoRemoteUrl": "https://cdn.diffordsguide.com/cocktail/OXMEER/default/1/512x.webp",
+    "photoSource": "https://www.diffordsguide.com/cocktails/recipe/2386/dry-daiquiri",
+    "photoCredit": "Difford’s Guide — Dry Daiquiri",
+    "ingredientAccessibility": "朗姆酒与Campari共2瓶酒，成品浓糖浆、百香果糖浆和青柠。",
+    "photo": "assets/photos/innovation-dry-daiquiri.webp"
+  },
+  {
+    "id": "innovation-enzoni",
+    "name": "Enzoni",
+    "zh": "恩佐尼",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "葡萄",
+      "酸甜",
+      "微苦"
+    ],
+    "color": "#e88754",
+    "method": "摇和",
+    "glass": "古典杯",
+    "garnish": "橙片、白葡萄串",
+    "ingredients": [
+      {
+        "name": "无籽白葡萄",
+        "amount": 4,
+        "unit": "颗",
+        "note": "步骤按葡萄大小可用4–6颗"
+      },
+      {
+        "name": "伦敦干金酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "Campari",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "普通糖浆（1:1）",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "压果",
+        "text": "轻压4–6颗葡萄使其出汁，不压成泥。"
+      },
+      {
+        "title": "摇和",
+        "text": "加入其他原料与冰块，摇10–12秒。"
+      },
+      {
+        "title": "出杯",
+        "text": "双重过滤进放冰的古典杯，以橙片和串好的葡萄装饰。"
+      }
+    ],
+    "tip": "时长仅在来源明确给出时标注。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.cocktailreporter.com/2021/03/08/enzoni/",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "来源版本",
+        "text": "采用采访创作者的Cocktail Reporter公开45:15配方，非网络常见的30:30版。"
+      },
+      {
+        "title": "糖浆",
+        "text": "普通1:1糖浆可买成品；自制时等量糖、水混匀至糖溶解。"
+      }
+    ],
+    "bar": {
+      "name": "Match Bar",
+      "city": "London",
+      "country": "英国",
+      "rank": 27,
+      "rankYear": 2009,
+      "rankingSource": "https://www.the50.com/bars/previous-lists"
+    },
+    "creator": "Vincenzo Errico",
+    "flavorDescription": "新鲜葡萄的圆润甜香缓和Campari，柠檬带出明亮酸度。",
+    "sourceTitle": "Cocktail Reporter — Enzoni / Vincenzo Errico 访谈",
+    "recipeSources": [
+      {
+        "title": "Cocktail Reporter — Enzoni / Vincenzo Errico 访谈",
+        "url": "https://www.cocktailreporter.com/2021/03/08/enzoni/"
+      }
+    ],
+    "photoRemoteUrl": "https://www.cocktailreporter.com/wp-content/uploads/2021/01/Enzoni-Cocktail-reporter-1280x853.jpg",
+    "photoSource": "https://www.cocktailreporter.com/2021/03/08/enzoni/",
+    "photoCredit": "Cocktail Reporter — Enzoni / Vincenzo Errico 访谈",
+    "ingredientAccessibility": "金酒与Campari共2瓶酒；葡萄、柠檬、橙和普通糖浆。",
+    "photo": "assets/photos/innovation-enzoni.webp"
+  },
+  {
+    "id": "innovation-golden-boy",
+    "name": "Golden Boy",
+    "zh": "金色男孩",
+    "base": "雪莉酒",
+    "bases": [
+      "雪莉酒",
+      "利口酒",
+      "皮斯科"
+    ],
+    "tags": [
+      "接骨木花",
+      "柠檬酸香",
+      "花果香"
+    ],
+    "color": "#dfd9a7",
+    "method": "搅拌",
+    "glass": "碟形鸡尾酒杯",
+    "garnish": "柠檬皮扭条",
+    "ingredients": [
+      {
+        "name": "Fino 干型雪莉酒",
+        "amount": 40,
+        "unit": "ml",
+        "note": "提前冷藏；原网页 1⅓ fl oz"
+      },
+      {
+        "name": "接骨木花利口酒",
+        "amount": 30,
+        "unit": "ml",
+        "note": "原网页 1 fl oz"
+      },
+      {
+        "name": "皮斯科",
+        "amount": 5,
+        "unit": "ml",
+        "note": "原网页 ⅙ fl oz"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 10,
+        "unit": "ml",
+        "note": "原网页 ⅓ fl oz"
+      },
+      {
+        "name": "橙味苦精",
+        "amount": 1,
+        "unit": "dash"
+      }
+    ],
+    "steps": [
+      {
+        "title": "冰杯与备料",
+        "text": "提前冷却碟形鸡尾酒杯，准备一条柠檬皮。"
+      },
+      {
+        "title": "加冰搅拌",
+        "text": "将全部配料加入搅拌杯，加冰搅拌至冷却。虽然含柠檬汁，该公开配方明确采用搅拌法。"
+      },
+      {
+        "title": "滤出与装饰",
+        "text": "滤入冷杯；在酒面上挤出柠檬皮油，再放入皮条装饰。"
+      }
+    ],
+    "tip": "花香甜感由接骨木花利口酒带出，Fino与柠檬提供干爽酸度。按来源采用搅拌法。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.diffordsguide.com/cocktails/recipe/40147/golden-boy-by-bar-leone",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "公开版本",
+        "text": "采用 Difford’s Guide 标明 adapted 的 Bar Leone 招牌酒公开版本，不称酒吧最初原方。"
+      },
+      {
+        "title": "量杯换算",
+        "text": "原网页为 1⅓、1、⅙、⅓ fl oz；本页按调酒量杯 1 fl oz=30 ml 显示为40、30、5、10 ml，保留原比例。"
+      },
+      {
+        "title": "可选盐与时间",
+        "text": "来源允许少许盐或盐水，盐不是必需配料；如使用，直接加入一小撮盐即可。来源未给搅拌秒数，不自行补写。"
+      }
+    ],
+    "bar": {
+      "name": "Bar Leone",
+      "city": "Hong Kong",
+      "country": "中国",
+      "rank": 1,
+      "rankYear": 2025,
+      "rankingSource": "https://www.the50.com/stories/News/bar-leone-hong-kong-the-worlds-best-bar-2025.html"
+    },
+    "creator": "Lorenzo Antinori / Bar Leone",
+    "flavorDescription": "接骨木花甜香、柠檬酸感与干型雪莉酒结合，少量皮斯科带来葡萄芳香。",
+    "sourceTitle": "Difford’s Guide — Golden Boy (by Bar Leone)",
+    "recipeSources": [
+      {
+        "title": "Difford’s Guide — Golden Boy (by Bar Leone)",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/40147/golden-boy-by-bar-leone"
+      }
+    ],
+    "photoRemoteUrl": "https://cdn.diffordsguide.com/cocktail/AmdbeR/default/1/512x.webp",
+    "photoSource": "https://www.diffordsguide.com/cocktails/recipe/40147/golden-boy-by-bar-leone",
+    "photoCredit": "Difford’s Guide · Golden Boy (by Bar Leone)",
+    "ingredientAccessibility": "需3瓶常规酒类（Fino雪莉、接骨木花利口酒、皮斯科）及1瓶常规橙味苦精；另加柠檬，无自制特殊原料。",
+    "sourceNote": "Bar Leone 招牌配方的 Difford’s Guide 公开改编版；香港酒吧，2025年全球榜第1。",
+    "photo": "assets/photos/innovation-golden-boy.webp"
+  },
+  {
+    "id": "innovation-missouri-mule",
+    "name": "Missouri Mule",
+    "zh": "密苏里骡子",
+    "base": "威士忌",
+    "bases": [
+      "威士忌",
+      "白兰地"
+    ],
+    "tags": [
+      "苹果",
+      "柑橘酸香",
+      "微苦"
+    ],
+    "color": "#bd7744",
+    "method": "摇和",
+    "glass": "古典杯",
+    "garnish": "橙皮",
+    "ingredients": [
+      {
+        "name": "波本威士忌",
+        "amount": 0.5,
+        "unit": "fl oz"
+      },
+      {
+        "name": "Applejack 苹果白兰地",
+        "amount": 0.5,
+        "unit": "fl oz"
+      },
+      {
+        "name": "Campari 金巴利",
+        "amount": 0.25,
+        "unit": "fl oz"
+      },
+      {
+        "name": "Cointreau 君度橙酒",
+        "amount": 0.25,
+        "unit": "fl oz"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 0.5,
+        "unit": "fl oz"
+      }
+    ],
+    "steps": [
+      {
+        "title": "备杯",
+        "text": "准备古典杯和冰块，并削取一条橙皮。"
+      },
+      {
+        "title": "加冰摇和",
+        "text": "将除橙皮外的所有配料放入摇壶，加冰摇和至冷却。来源未指定摇和秒数。"
+      },
+      {
+        "title": "滤出装饰",
+        "text": "滤入装有冰块的古典杯，以橙皮装饰。原文也允许滤入冷却的鸡尾酒杯；照片采用加冰古典杯。"
+      }
+    ],
+    "tip": "这是含柠檬的摇和版本；果酸让波本、苹果白兰地和橙味利口酒更鲜明。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.jollybartender.com/2015/06/missouri-mule.html",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "版本边界",
+        "text": "采用 Nate Wilkinson 在 The Jolly Bartender 发布的含柠檬版本，与实拍一致。网上另有无柠檬、搅拌版本，本页不混用。"
+      },
+      {
+        "title": "制作方法",
+        "text": "来源给出摇和后滤出，可用冷鸡尾酒杯或加冰古典杯；没有摇和秒数，未自行补写。"
+      },
+      {
+        "title": "历史原创",
+        "text": "酒款历史归属 Joe Gilmore 与伦敦 Savoy American Bar；这是历史原创酒，不是近期推出的创新。"
+      }
+    ],
+    "bar": {
+      "name": "American Bar at The Savoy",
+      "city": "London",
+      "country": "英国",
+      "rank": 1,
+      "rankYear": 2017,
+      "rankingSource": "https://www.the50.com/bars/previous-lists"
+    },
+    "creator": "Joe Gilmore",
+    "flavorDescription": "柠檬酸感衬托苹果白兰地与橙味利口酒，波本与金巴利带来木质香和微苦。",
+    "sourceTitle": "The Jolly Bartender — Missouri Mule",
+    "recipeSources": [
+      {
+        "title": "The Jolly Bartender — Missouri Mule（本页配方及实拍）",
+        "url": "https://www.jollybartender.com/2015/06/missouri-mule.html"
+      },
+      {
+        "title": "St. Louis Magazine — Missouri Mule（历史归属，另有无柠檬版本）",
+        "url": "https://www.stlmag.com/dining/how-to-make-a-missouri-mule/"
+      }
+    ],
+    "photoRemoteUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidPB3qWaGOA47JFYBNpudDRy-_l1sK9Enj4xCo5LRMmkkaw_1F151suE37d9SXXwJgUvzVaYimhId7OrDNu_eH4VjdzUtnEH2GYbAgwLn3EHvKM3XJUVFoi2RiSbdWBI4Fs2hK1qRhxwnC/s640/IMG_1473.jpg",
+    "photoSource": "https://www.jollybartender.com/2015/06/missouri-mule.html",
+    "photoCredit": "Nate Wilkinson / The Jolly Bartender",
+    "ingredientAccessibility": "波本、苹果白兰地、Campari、Cointreau共4瓶常规酒；不需要糖浆或预制液。",
+    "sourceNote": "Joe Gilmore / Savoy 酒款的 The Jolly Bartender 家用公开版本，含柠檬汁；不声称是原店精确规格。",
+    "photo": "assets/photos/innovation-missouri-mule.webp"
+  },
+  {
+    "id": "innovation-espresso-martiki",
+    "name": "Espresso Martiki",
+    "zh": "热带浓缩咖啡",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "咖啡",
+      "菠萝",
+      "杏仁"
+    ],
+    "color": "#dcc6ab",
+    "method": "摇和",
+    "glass": "郁金香杯",
+    "garnish": "原配方未指定",
+    "ingredients": [
+      {
+        "name": "Matusalem Gran Reserva 15 朗姆酒",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "Mr Black 咖啡利口酒",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "菠萝汁",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "杏仁糖浆 Orgeat",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "意式浓缩咖啡",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "量取原料",
+        "text": "将五种原料加入摇壶。"
+      },
+      {
+        "title": "摇和出杯",
+        "text": "一起摇匀，倒入郁金香杯。"
+      }
+    ],
+    "tip": "原文未提供具体调制秒数；操作以所列步骤为准。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://matusalem.com/ron-matusalem-espresso-martiki-cocktail-recipe/",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "杏仁糖浆",
+        "text": "使用成品 Orgeat；来源未另列定制糖浆。"
+      }
+    ],
+    "bar": {
+      "name": "Maybe Sammy",
+      "city": "悉尼",
+      "country": "澳大利亚",
+      "rank": 22,
+      "rankYear": 2021,
+      "rankingSource": "https://www.the50.com/stories/News/world-50-best-bars-2021-list-in-pictures.html"
+    },
+    "creator": "Martin Hudak",
+    "flavorDescription": "咖啡、菠萝与杏仁交叠的热带甜酸风味。",
+    "sourceTitle": "Ron Matusalem Espresso Martiki cocktail recipe",
+    "recipeSources": [
+      {
+        "title": "Ron Matusalem Espresso Martiki cocktail recipe",
+        "url": "https://matusalem.com/ron-matusalem-espresso-martiki-cocktail-recipe/"
+      }
+    ],
+    "photoRemoteUrl": "https://matusalem.com/wp-content/uploads/2023/04/Expresso-Martikki.jpg",
+    "photoSource": "https://matusalem.com/ron-matusalem-espresso-martiki-cocktail-recipe/",
+    "photoCredit": "Ron Matusalem / Maybe Sammy",
+    "sourceNote": "采用品牌注明创作者和酒吧的公开版本。原文只要求摇和与倒入杯中，未写冰量、时长或过滤方式。",
+    "ingredientAccessibility": "需朗姆酒、咖啡利口酒 2 瓶酒，加成品杏仁糖浆；菠萝汁与咖啡均无需预处理。",
+    "photo": "assets/photos/innovation-espresso-martiki.webp",
+    "illustration": "assets/illustrations/innovation-espresso-martiki.webp"
+  },
+  {
+    "id": "innovation-pink-lemonade",
+    "name": "Pink Lemonade",
+    "zh": "粉红柠檬汽水",
+    "base": "龙舌兰",
+    "bases": [
+      "龙舌兰"
+    ],
+    "tags": [
+      "草莓",
+      "酸甜",
+      "清爽"
+    ],
+    "color": "#ebcbd2",
+    "method": "摇和后补苏打",
+    "glass": "高球杯",
+    "garnish": "紫苏叶",
+    "ingredients": [
+      {
+        "name": "糖渍水果",
+        "amount": 1,
+        "unit": "茶匙",
+        "note": "原文未指定水果品种"
+      },
+      {
+        "name": "草莓糖浆",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "Blanco 龙舌兰酒",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "柠檬汁",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "苏打水",
+        "amount": null,
+        "unit": "补满",
+        "note": "补满"
+      }
+    ],
+    "steps": [
+      {
+        "title": "摇和",
+        "text": "除苏打水外，全部原料加冰摇和。"
+      },
+      {
+        "title": "过滤与补水",
+        "text": "过滤入高球杯，加满冰后补苏打水，以紫苏叶装饰。"
+      }
+    ],
+    "tip": "原文未提供具体调制秒数；操作以所列步骤为准。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.boothby.com.au/this-is-not-your-average-pink-lemonade-from-cantina-ok/",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "糖浆",
+        "text": "草莓糖浆可用成品，来源没有指定自制版本。"
+      }
+    ],
+    "bar": {
+      "name": "Cantina OK!",
+      "city": "悉尼",
+      "country": "澳大利亚",
+      "rank": 23,
+      "rankYear": 2021,
+      "rankingSource": "https://www.the50.com/stories/News/world-50-best-bars-2021-list-in-pictures.html"
+    },
+    "creator": "Cantina OK! 团队",
+    "flavorDescription": "草莓与糖渍水果的甜香，柠檬和汽泡带来清爽。",
+    "sourceTitle": "This is not your average Pink Lemonade, from Cantina OK!",
+    "recipeSources": [
+      {
+        "title": "This is not your average Pink Lemonade, from Cantina OK!",
+        "url": "https://www.boothby.com.au/this-is-not-your-average-pink-lemonade-from-cantina-ok/"
+      }
+    ],
+    "photoRemoteUrl": "https://storage.ghost.io/c/16/ea/16ea42af-bd14-44b7-b952-dde2e51da580/content/images/size/w1200/2021/07/IMG_6537-scaled.jpg",
+    "photoSource": "https://www.boothby.com.au/this-is-not-your-average-pink-lemonade-from-cantina-ok/",
+    "photoCredit": "Boothby",
+    "ingredientAccessibility": "只需 1 瓶龙舌兰酒，成品草莓糖浆、糖渍水果、柠檬和苏打水；紫苏叶用于装饰。",
+    "photo": "assets/photos/innovation-pink-lemonade.webp",
+    "illustration": "assets/illustrations/innovation-pink-lemonade.webp"
+  },
+  {
+    "id": "innovation-the-business",
+    "name": "The Business",
+    "zh": "正经生意",
+    "bar": {
+      "name": "Milk & Honey",
+      "city": "New York",
+      "country": "美国",
+      "rank": 2,
+      "rankYear": 2009,
+      "rankingSource": "https://www.the50.com/bars/previous-lists"
+    },
+    "creator": "Sasha Petraske",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "青柠",
+      "蜂蜜",
+      "偏酸"
+    ],
+    "color": "#e5e7bb",
+    "method": "摇和",
+    "glass": "碟形鸡尾酒杯",
+    "garnish": "青柠皮卷",
+    "ingredients": [
+      {
+        "name": "伦敦干金酒",
+        "amount": 60,
+        "unit": "ml",
+        "note": "来源展示 Hayman’s；类别为 London Dry Gin"
+      },
+      {
+        "name": "鲜榨青柠汁",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "蜂蜜水",
+        "amount": 20,
+        "unit": "ml",
+        "note": "蜂蜜 : 水 = 3 : 1，按重量调配"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备",
+        "text": "预冷碟形杯，削一条青柠皮。蜂蜜与水按重量 3:1 混匀，例如 30 g 蜂蜜加 10 g 水，再量取 20 ml。"
+      },
+      {
+        "title": "加冰摇和",
+        "text": "将金酒、青柠汁与蜂蜜水加入摇壶，加冰摇和。"
+      },
+      {
+        "title": "细滤与装饰",
+        "text": "细滤进预冷杯，在酒面上挤出青柠皮油，再放入皮卷。"
+      }
+    ],
+    "tip": "青柠的明亮酸感由蜂蜜柔化；只需一款基酒。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.diffordsguide.com/cocktails/recipe/3088/the-business",
+    "sourceTitle": "Difford’s Guide · The Business（公开调整版）",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "公开调整版",
+        "text": "采用 Difford’s Guide 的 60 / 30 / 20 ml 版本。该页同时引述原书的蜂蜜水为 22.5 ml；这里保留当前公开版本，不混用两套用量。"
+      },
+      {
+        "title": "蜂蜜水",
+        "text": "3:1 指重量比。蜂蜜与水混匀即可，无需特制原料；量取时仍按配方的 ml 使用。"
+      },
+      {
+        "title": "操作时长",
+        "text": "来源没有指定摇和秒数，因此不补写固定时长。"
+      }
+    ],
+    "recipeSources": [
+      {
+        "title": "Difford’s Guide · The Business",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/3088/the-business"
+      }
+    ],
+    "photoRemoteUrl": "https://cdn.diffordsguide.com/cocktail/Ov8wPA/default/0/512x.webp",
+    "photoSource": "https://www.diffordsguide.com/cocktails/recipe/3088/the-business",
+    "photoCredit": "Difford’s Guide",
+    "flavorDescription": "青柠鲜酸、蜂蜜柔甜，金酒草本香收尾；整体偏酸清爽。",
+    "ingredientAccessibility": "1 瓶伦敦干金酒；青柠、蜂蜜与水均属普通超市材料。蜂蜜水仅按重量 3:1 混匀。",
+    "photo": "assets/photos/innovation-the-business.webp"
+  },
+  {
+    "id": "innovation-cold-irish-coffee",
+    "name": "Cold Irish Coffee",
+    "zh": "冷爱尔兰咖啡",
+    "base": "爱尔兰威士忌",
+    "bases": [
+      "爱尔兰威士忌"
+    ],
+    "tags": [
+      "咖啡",
+      "奶香",
+      "甜润"
+    ],
+    "color": "#d9c7af",
+    "method": "直调与分层",
+    "glass": "玻璃杯（来源未指定杯型）",
+    "garnish": "原配方未指定",
+    "ingredients": [
+      {
+        "name": "爱尔兰威士忌",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "蜂蜜黑糖甜味混合液",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "冷却的洪都拉斯滤泡咖啡",
+        "amount": 120,
+        "unit": "ml"
+      },
+      {
+        "name": "冷双倍奶油 Double Cream",
+        "amount": 50,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "混合基底",
+        "text": "威士忌、甜味混合液和冷咖啡直接入杯，搅拌。"
+      },
+      {
+        "title": "铺奶油层",
+        "text": "将冷奶油轻轻铺在表面。"
+      }
+    ],
+    "tip": "原文未提供具体调制秒数；操作以所列步骤为准。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.boothby.com.au/doty-cold-irish-coffee-recipe/",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "甜味混合液",
+        "text": "蜂蜜、Muscovado 深色蔗糖、水等份混合。没有浸泡或发酵工序；原文未注明按重量还是体积。"
+      }
+    ],
+    "bar": {
+      "name": "Maybe Sammy",
+      "city": "悉尼",
+      "country": "澳大利亚",
+      "rank": 22,
+      "rankYear": 2021,
+      "rankingSource": "https://www.the50.com/stories/News/world-50-best-bars-2021-list-in-pictures.html"
+    },
+    "creator": "Martin Hudak",
+    "flavorDescription": "冰凉咖啡与奶油，带蜂蜜和黑糖的甜润。",
+    "sourceTitle": "This is Maybe Sammy’s recipe for a winning Cold Irish Coffee",
+    "recipeSources": [
+      {
+        "title": "This is Maybe Sammy’s recipe for a winning Cold Irish Coffee",
+        "url": "https://www.boothby.com.au/doty-cold-irish-coffee-recipe/"
+      }
+    ],
+    "photoRemoteUrl": "https://storage.ghost.io/c/16/ea/16ea42af-bd14-44b7-b952-dde2e51da580/content/images/size/w1200/2022/11/COLD-IRISH-COFFEE-2.jpg",
+    "photoSource": "https://www.boothby.com.au/doty-cold-irish-coffee-recipe/",
+    "photoCredit": "Maybe Sammy / Boothby",
+    "ingredientAccessibility": "只需 1 瓶爱尔兰威士忌；咖啡、蜂蜜、深色蔗糖、水与奶油可直接混合，无需浸泡。",
+    "photo": "assets/photos/innovation-cold-irish-coffee.webp",
+    "illustration": "assets/illustrations/innovation-cold-irish-coffee.webp"
+  },
+  {
+    "id": "innovation-perfidia-no-2",
+    "name": "Perfidia #2",
+    "zh": "背信者二号",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "柑橘",
+      "薄荷",
+      "酸甜"
+    ],
+    "color": "#e6d5a8",
+    "method": "捣压与摇和",
+    "glass": "平底杯",
+    "garnish": "薄荷枝",
+    "ingredients": [
+      {
+        "name": "橙片",
+        "amount": 3,
+        "unit": "片"
+      },
+      {
+        "name": "柠檬片",
+        "amount": 3,
+        "unit": "片"
+      },
+      {
+        "name": "薄荷叶",
+        "amount": 6,
+        "unit": "片"
+      },
+      {
+        "name": "糖浆（1:1）",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "Angostura 芳香苦精",
+        "amount": 3,
+        "unit": "dash"
+      },
+      {
+        "name": "Sailor Jerry 香料朗姆酒",
+        "amount": 60,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "先捣压",
+        "text": "橙片、柠檬片、薄荷叶和糖浆入摇壶，捣压。"
+      },
+      {
+        "title": "加酒摇和",
+        "text": "再加苦精和朗姆酒，与一块中等大小的冰一起摇和。"
+      },
+      {
+        "title": "过滤出杯",
+        "text": "滤入装有小冰块的平底杯，以薄荷枝装饰。"
+      }
+    ],
+    "tip": "原文未提供具体调制秒数；操作以所列步骤为准。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.broadsheet.com.au/melbourne/food-and-drink/article/perfidia-2-cocktail-everleigh",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "糖浆",
+        "text": "细砂糖与水 1:1 混匀，也可选成品简单糖浆。"
+      }
+    ],
+    "bar": {
+      "name": "The Everleigh",
+      "city": "墨尔本",
+      "country": "澳大利亚",
+      "rank": 24,
+      "rankYear": 2013,
+      "rankingSource": "https://drinksint.com/artesian-retains-top-spot-in-worlds-50-best-bars-2013/"
+    },
+    "creator": "Lauren Schell",
+    "flavorDescription": "鲜柑橘、薄荷和香料朗姆酒，果酸清爽。",
+    "sourceTitle": "The Perfidia #2 – A Cocktail By The Everleigh",
+    "recipeSources": [
+      {
+        "title": "The Perfidia #2 – A Cocktail By The Everleigh",
+        "url": "https://www.broadsheet.com.au/melbourne/food-and-drink/article/perfidia-2-cocktail-everleigh"
+      }
+    ],
+    "photoRemoteUrl": "https://cdn.broadsheet.com.au/cache/6e/56/6e56cf69fb9e89687e19d575536e43bb.jpg",
+    "photoSource": "https://www.broadsheet.com.au/melbourne/food-and-drink/article/perfidia-2-cocktail-everleigh",
+    "photoCredit": "Harvard Wang / Broadsheet",
+    "ingredientAccessibility": "需香料朗姆酒 1 瓶与常用安格式苦精 1 小瓶；其余为鲜柑橘、薄荷和简单糖浆。",
+    "photo": "assets/photos/innovation-perfidia-no-2.webp",
+    "illustration": "assets/illustrations/innovation-perfidia-no-2.webp"
+  },
+  {
+    "id": "innovation-dantes-peak",
+    "name": "Dante’s Peak",
+    "zh": "但丁峰",
+    "base": "苏格兰威士忌",
+    "bases": [
+      "苏格兰威士忌"
+    ],
+    "tags": [
+      "柑橘",
+      "樱桃",
+      "酸甜"
+    ],
+    "color": "#eac9ae",
+    "method": "摇和后补苏打",
+    "glass": "柯林斯杯",
+    "garnish": "橙片和樱桃",
+    "ingredients": [
+      {
+        "name": "调和苏格兰威士忌",
+        "amount": 1,
+        "unit": "oz",
+        "note": "作者使用 Johnnie Walker Black"
+      },
+      {
+        "name": "鲜柠檬汁",
+        "amount": 0.6666666666666666,
+        "unit": "oz"
+      },
+      {
+        "name": "Campari 金巴利",
+        "amount": 0.5,
+        "unit": "oz"
+      },
+      {
+        "name": "鲜橙汁",
+        "amount": 0.5,
+        "unit": "oz"
+      },
+      {
+        "name": "Cherry Heering 樱桃利口酒",
+        "amount": 2,
+        "unit": "茶匙"
+      },
+      {
+        "name": "简单糖浆（1:1）",
+        "amount": 2,
+        "unit": "茶匙"
+      },
+      {
+        "name": "冰镇苏打水",
+        "amount": 1,
+        "unit": "oz",
+        "note": "出杯时如有需要可继续补入"
+      }
+    ],
+    "steps": [
+      {
+        "title": "单块冰摇和",
+        "text": "除苏打水外，所有原料与一块冰一起摇和，直到这块冰融化。"
+      },
+      {
+        "title": "加苏打出杯",
+        "text": "摇壶内加入 1 oz 冰镇苏打水，倒入装冰的杯子；需要时再补苏打。以橙片和樱桃装饰。"
+      }
+    ],
+    "tip": "原文未提供具体调制秒数；操作以所列步骤为准。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://imbibemagazine.com/recipe/bulletin-place-dantes-peak/",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "简单糖浆",
+        "text": "糖与水 1:1 混匀，或购买成品简单糖浆。"
+      },
+      {
+        "title": "摇和终点",
+        "text": "来源明确要求摇到单块冰融化，没有提供冰块重量或具体秒数。"
+      }
+    ],
+    "bar": {
+      "name": "Bulletin Place",
+      "city": "悉尼",
+      "country": "澳大利亚",
+      "rank": 26,
+      "rankYear": 2013,
+      "rankingSource": "https://drinksint.com/artesian-retains-top-spot-in-worlds-50-best-bars-2013/"
+    },
+    "creator": "Phil Spector",
+    "flavorDescription": "橙柠檬的酸甜，带樱桃、金巴利和威士忌的层次。",
+    "sourceTitle": "Bulletin Place Cocktail: Dante’s Peak",
+    "recipeSources": [
+      {
+        "title": "Bulletin Place Cocktail: Dante’s Peak",
+        "url": "https://imbibemagazine.com/recipe/bulletin-place-dantes-peak/"
+      }
+    ],
+    "photoRemoteUrl": "https://imbibemagazine.com/wp-content/uploads/2017/10/sydney-bulletinplace-dantes-peak-crdt-alanadimou.jpg",
+    "photoSource": "https://imbibemagazine.com/recipe/bulletin-place-dantes-peak/",
+    "photoCredit": "Alana Dimou / Imbibe",
+    "ingredientAccessibility": "需威士忌、金巴利、樱桃利口酒 3 瓶酒；鲜橙柠檬、简单糖浆与苏打水，无自制风味组件。",
+    "photo": "assets/photos/innovation-dantes-peak.webp",
+    "illustration": "assets/illustrations/innovation-dantes-peak.webp"
+  },
+  {
+    "id": "innovation-raspberry-bramble",
+    "name": "Raspberry Bramble",
+    "zh": "覆盆子荆棘",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "覆盆子",
+      "酸甜",
+      "清爽"
+    ],
+    "color": "#e8c2d1",
+    "method": "杯中直调",
+    "glass": "高杯",
+    "garnish": "青柠片及额外覆盆子",
+    "ingredients": [
+      {
+        "name": "新鲜覆盆子",
+        "amount": 4,
+        "unit": "颗"
+      },
+      {
+        "name": "金酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "简单糖浆（1:1）",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备碎冰",
+        "text": "用茶巾包裹冰块后敲碎。"
+      },
+      {
+        "title": "压果加料",
+        "text": "在高杯中轻压覆盆子，倒入其他原料，加满碎冰。"
+      },
+      {
+        "title": "轻搅装饰",
+        "text": "轻轻搅匀，放青柠片与额外覆盆子。"
+      }
+    ],
+    "tip": "原文未提供具体调制秒数；操作以所列步骤为准。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.broadsheet.com.au/national/food-and-drink/article/recipe-bulletin-places-raspberry-bramble",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "简单糖浆",
+        "text": "细砂糖与热水按 1:1 混匀。"
+      }
+    ],
+    "bar": {
+      "name": "Bulletin Place",
+      "city": "悉尼",
+      "country": "澳大利亚",
+      "rank": 26,
+      "rankYear": 2013,
+      "rankingSource": "https://drinksint.com/artesian-retains-top-spot-in-worlds-50-best-bars-2013/"
+    },
+    "creator": "Bulletin Place 团队",
+    "flavorDescription": "鲜覆盆子与柠檬的直接果酸，简单清爽。",
+    "sourceTitle": "Recipe: Bulletin Place’s Raspberry Bramble",
+    "recipeSources": [
+      {
+        "title": "Recipe: Bulletin Place’s Raspberry Bramble",
+        "url": "https://www.broadsheet.com.au/national/food-and-drink/article/recipe-bulletin-places-raspberry-bramble"
+      }
+    ],
+    "photoRemoteUrl": "https://cdn.broadsheet.com.au/cache/37/86/3786e3336d8f14dd7cf26b5b8e1f7093.jpg",
+    "photoSource": "https://www.broadsheet.com.au/national/food-and-drink/article/recipe-bulletin-places-raspberry-bramble",
+    "photoCredit": "Bulletin Place / Broadsheet",
+    "sourceNote": "这是 Bulletin Place 公开的覆盆子改编，与 IBA Bramble 分开收录。",
+    "ingredientAccessibility": "只需 1 瓶金酒；鲜覆盆子、柠檬、青柠和简单糖浆，配方没有果味利口酒。",
+    "photo": "assets/photos/innovation-raspberry-bramble.webp",
+    "illustration": "assets/illustrations/innovation-raspberry-bramble.webp"
+  },
+  {
+    "id": "innovation-beekeeper",
+    "name": "Beekeeper",
+    "zh": "养蜂人",
+    "base": "威士忌",
+    "bases": [
+      "威士忌"
+    ],
+    "tags": [
+      "蜂蜜",
+      "草本",
+      "甜润"
+    ],
+    "color": "#e8d0a5",
+    "method": "搅拌",
+    "glass": "古典杯",
+    "garnish": "柠檬皮",
+    "ingredients": [
+      {
+        "name": "蜂蜜",
+        "amount": 1,
+        "unit": "茶匙",
+        "note": "偏好甜口可用满满一匙"
+      },
+      {
+        "name": "苦艾酒 Absinthe",
+        "amount": 4,
+        "unit": "dash"
+      },
+      {
+        "name": "Angostura 芳香苦精",
+        "amount": 2,
+        "unit": "dash"
+      },
+      {
+        "name": "Starward Two-Fold 威士忌",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "热水",
+        "amount": 1,
+        "unit": "茶匙"
+      }
+    ],
+    "steps": [
+      {
+        "title": "溶解蜂蜜",
+        "text": "调酒杯中将蜂蜜与一茶匙热水搅拌溶解。"
+      },
+      {
+        "title": "搅拌基底",
+        "text": "加入足量冰、苦精和威士忌，搅拌至刚混合。"
+      },
+      {
+        "title": "涮杯出杯",
+        "text": "用苦艾酒涮预冷的古典杯内壁，放一块新大冰。将基底过滤入杯，以柠檬皮装饰。"
+      }
+    ],
+    "tip": "原文未提供具体调制秒数；操作以所列步骤为准。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://drinkmelbourne.com.au/2021/05/drink-me-beekeeper-by-the-everleigh-for-australian-cocktail-month-recipe/",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [],
+    "bar": {
+      "name": "The Everleigh",
+      "city": "墨尔本",
+      "country": "澳大利亚",
+      "rank": 24,
+      "rankYear": 2013,
+      "rankingSource": "https://drinksint.com/artesian-retains-top-spot-in-worlds-50-best-bars-2013/"
+    },
+    "creator": "The Everleigh 团队",
+    "flavorDescription": "蜂蜜柔甜配威士忌，少量苦艾酒提供茴香气息。",
+    "sourceTitle": "Beekeeper by The Everleigh for Australian Cocktail Month",
+    "recipeSources": [
+      {
+        "title": "Beekeeper by The Everleigh for Australian Cocktail Month",
+        "url": "https://drinkmelbourne.com.au/2021/05/drink-me-beekeeper-by-the-everleigh-for-australian-cocktail-month-recipe/"
+      }
+    ],
+    "photoRemoteUrl": "https://drinkmelbourne.com.au/wp-content/uploads/2021/05/The-Everleigh-3.jpg",
+    "photoSource": "https://drinkmelbourne.com.au/2021/05/drink-me-beekeeper-by-the-everleigh-for-australian-cocktail-month-recipe/",
+    "photoCredit": "The Everleigh / Drink Melbourne",
+    "sourceNote": "来源明确标注为酒吧提供的居家版本；不是另行自行简化。",
+    "ingredientAccessibility": "需威士忌 1 瓶、苦艾酒 1 瓶及安格式苦精 1 小瓶；蜂蜜加水即时混合，无浸泡组件。",
+    "photo": "assets/photos/innovation-beekeeper.webp",
+    "illustration": "assets/illustrations/innovation-beekeeper.webp"
+  },
+  {
+    "id": "innovation-yuzu-whiskey-sour",
+    "name": "Yuzu Whiskey Sour",
+    "zh": "柚子威士忌酸",
+    "base": "波本威士忌",
+    "bases": [
+      "波本威士忌"
+    ],
+    "tags": [
+      "柚子",
+      "酸甜",
+      "绵密"
+    ],
+    "color": "#eadfb3",
+    "method": "摇和",
+    "glass": "玻璃杯（原文未指定）",
+    "garnish": "百里香枝",
+    "ingredients": [
+      {
+        "name": "波本威士忌",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "蛋白",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "柠檬汁",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "韩式柚子果酱",
+        "amount": 2,
+        "unit": "茶匙"
+      },
+      {
+        "name": "接骨木花利口酒（如 St-Germain）",
+        "amount": 5,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "摇和",
+        "text": "所有原料放入摇壶摇匀。"
+      },
+      {
+        "title": "出杯",
+        "text": "过滤入杯，以百里香枝装饰。"
+      }
+    ],
+    "tip": "原文未提供具体调制秒数；操作以所列步骤为准。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://silverkris.singaporeair.com/experience/food-drink/home-cocktails-singapore-bars/",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [],
+    "bar": {
+      "name": "Jigger & Pony",
+      "city": "新加坡",
+      "country": "新加坡",
+      "rank": 9,
+      "rankYear": 2021,
+      "rankingSource": "https://www.the50.com/stories/News/world-50-best-bars-2021-list-in-pictures.html"
+    },
+    "creator": "Jigger & Pony 团队；Jerrold Khoo 分享",
+    "flavorDescription": "柚子果酱带来果皮香与甜，柠檬提酸。",
+    "sourceTitle": "Staying home? Sip on these cocktails from Asia’s top bars",
+    "recipeSources": [
+      {
+        "title": "Staying home? Sip on these cocktails from Asia’s top bars",
+        "url": "https://silverkris.singaporeair.com/experience/food-drink/home-cocktails-singapore-bars/"
+      }
+    ],
+    "photoRemoteUrl": "https://silverkris.singaporeair.com/wp-content/uploads/2020/04/Yuzu-Whiskey-Sour.jpg",
+    "photoSource": "https://silverkris.singaporeair.com/experience/food-drink/home-cocktails-singapore-bars/",
+    "photoCredit": "Jigger & Pony / SilverKris",
+    "sourceNote": "酒吧主管公开的家用版本；原文未写冰量、时长或干摇步骤。",
+    "ingredientAccessibility": "需波本、接骨木花利口酒 2 瓶酒；用商购韩式柚子果酱、柠檬、蛋白，无自制组件。",
+    "photo": "assets/photos/innovation-yuzu-whiskey-sour.webp",
+    "illustration": "assets/illustrations/innovation-yuzu-whiskey-sour.webp"
+  },
+  {
+    "id": "innovation-atlas-martini",
+    "name": "ATLAS Martini",
+    "zh": "阿特拉斯马天尼",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "草本",
+      "微酸",
+      "干爽"
+    ],
+    "color": "#e7e7d8",
+    "method": "搅拌",
+    "glass": "马天尼杯",
+    "garnish": "原配方未指定",
+    "ingredients": [
+      {
+        "name": "橙味苦精",
+        "amount": 2,
+        "unit": "dash"
+      },
+      {
+        "name": "香槟醋或白葡萄酒醋",
+        "amount": 5,
+        "unit": "dash",
+        "note": "白葡萄酒醋是原文明确允许的替代"
+      },
+      {
+        "name": "白味美思",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "干金酒",
+        "amount": 60,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "搅拌",
+        "text": "所有原料放入搅拌容器，加冰搅拌。"
+      },
+      {
+        "title": "出杯",
+        "text": "过滤入预冷马天尼杯。"
+      }
+    ],
+    "tip": "原文未提供具体调制秒数；操作以所列步骤为准。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://silverkris.singaporeair.com/experience/food-drink/home-cocktails-singapore-bars/",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [],
+    "bar": {
+      "name": "ATLAS",
+      "city": "新加坡",
+      "country": "新加坡",
+      "rank": 16,
+      "rankYear": 2021,
+      "rankingSource": "https://www.the50.com/stories/News/world-50-best-bars-2021-list-in-pictures.html"
+    },
+    "creator": "ATLAS 团队；Jesse Vida 分享",
+    "flavorDescription": "干爽金酒中带轻微醋酸和橙香。",
+    "sourceTitle": "Staying home? Sip on these cocktails from Asia’s top bars",
+    "recipeSources": [
+      {
+        "title": "Staying home? Sip on these cocktails from Asia’s top bars",
+        "url": "https://silverkris.singaporeair.com/experience/food-drink/home-cocktails-singapore-bars/"
+      }
+    ],
+    "photoRemoteUrl": "https://silverkris.singaporeair.com/wp-content/uploads/2020/04/ATLAS_ATLAS-Martini-1.jpg",
+    "photoSource": "https://silverkris.singaporeair.com/experience/food-drink/home-cocktails-singapore-bars/",
+    "photoCredit": "ATLAS / SilverKris",
+    "sourceNote": "酒吧主管公开的家用版本；原文明确允许用白葡萄酒醋代替香槟醋。",
+    "ingredientAccessibility": "需干金酒、白味美思 2 瓶酒及成品橙味苦精 1 小瓶；白葡萄酒醋可直接购买。",
+    "photo": "assets/photos/innovation-atlas-martini.webp",
+    "illustration": "assets/illustrations/innovation-atlas-martini.webp"
+  },
+  {
+    "id": "innovation-crystal-clear-milk-punch",
+    "name": "Crystal Clear Milk Punch",
+    "zh": "澄澈奶洗潘趣",
+    "base": "伏特加",
+    "bases": [
+      "伏特加"
+    ],
+    "tags": [
+      "柑橘",
+      "酸甜"
+    ],
+    "color": "#e5cf93",
+    "method": "奶洗 / 过滤",
+    "glass": "古典杯",
+    "garnish": "无",
+    "ingredients": [
+      {
+        "name": "泡好的红茶",
+        "amount": 3,
+        "unit": "cup"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 3,
+        "unit": "cup"
+      },
+      {
+        "name": "鲜榨橙汁",
+        "amount": 3,
+        "unit": "cup"
+      },
+      {
+        "name": "普通糖浆",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "伏特加",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "全脂牛奶",
+        "amount": 3,
+        "unit": "cup"
+      },
+      {
+        "name": "伏特加",
+        "amount": 1.5,
+        "unit": "oz",
+        "note": "每杯出杯另加；不倒入整批基底",
+        "scope": "serve"
+      }
+    ],
+    "steps": [
+      {
+        "title": "混合",
+        "text": "混合除牛奶以外的整批材料。"
+      },
+      {
+        "title": "奶洗 · 1–24 小时",
+        "text": "牛奶加热至将沸，立即倒入混合液；盖好冷藏 1–24 小时。"
+      },
+      {
+        "title": "过滤与沉降",
+        "text": "用纱布细筛过滤，冷藏至冷；舀取清液，留下沉淀。"
+      },
+      {
+        "title": "每杯出杯 · 30 秒",
+        "text": "取基底 2 oz 加伏特加 1.5 oz，加冰摇约 30 秒，滤入加冰古典杯。"
+      }
+    ],
+    "tip": "过滤耗时；备好细筛、滤布或咖啡滤纸。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.bonappetit.com/recipe/crystal-clear-milk-punch",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [],
+    "bar": {
+      "name": "Betony",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "creator": "Betony",
+    "flavorDescription": "柑橘酸甜、红茶香。",
+    "sourceTitle": "Crystal Clear Milk Punch",
+    "recipeSources": [
+      {
+        "title": "Crystal Clear Milk Punch 原配方",
+        "url": "https://www.bonappetit.com/recipe/crystal-clear-milk-punch"
+      }
+    ],
+    "photoRemoteUrl": "https://assets.bonappetit.com/photos/57ad5216f1c801a1038bcb7a/16:9/w_1280,c_limit/milkpunch_betony.jpg",
+    "photoSource": "https://www.bonappetit.com/recipe/crystal-clear-milk-punch",
+    "photoCredit": "Matt Duckor / Bon Appétit",
+    "photo": "assets/photos/innovation-crystal-clear-milk-punch.webp",
+    "illustration": "assets/illustrations/innovation-crystal-clear-milk-punch.webp",
+    "ingredientAccessibility": "需 1 瓶伏特加；其余为茶、水果、牛奶、普通成品糖浆。",
+    "milkWashed": true,
+    "provenanceType": "milk-supplement",
+    "servingUnit": "批",
+    "batchServings": 16,
+    "yieldNote": "原页标注 16 份；清单为整批基底，最后一项为每杯追加量。",
+    "sourceNote": "普通糖浆原文未标浓度；计量保留美制 cup / oz。",
+    "preparationTime": "冷藏 1–24 小时，另需过滤"
+  },
+  {
+    "id": "innovation-pineapple-milk-punch",
+    "name": "Pineapple Milk Punch",
+    "zh": "菠萝奶洗潘趣",
+    "base": "伏特加",
+    "bases": [
+      "伏特加",
+      "朗姆酒"
+    ],
+    "tags": [
+      "菠萝",
+      "酸甜"
+    ],
+    "color": "#e5cf93",
+    "method": "奶洗 / 过滤",
+    "glass": "古典杯",
+    "garnish": "无",
+    "ingredients": [
+      {
+        "name": "阿萨姆红茶包",
+        "amount": 16,
+        "unit": "包"
+      },
+      {
+        "name": "沸水",
+        "amount": 1,
+        "unit": "quart"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 1,
+        "unit": "quart"
+      },
+      {
+        "name": "鲜榨菠萝汁",
+        "amount": 1,
+        "unit": "quart"
+      },
+      {
+        "name": "1:1 糖浆",
+        "amount": 1,
+        "unit": "quart"
+      },
+      {
+        "name": "全脂牛奶",
+        "amount": 1,
+        "unit": "quart"
+      },
+      {
+        "name": "伏特加",
+        "amount": 2,
+        "unit": "cup"
+      },
+      {
+        "name": "白朗姆／金酒／卡莎萨",
+        "amount": 1.75,
+        "unit": "oz",
+        "note": "三选一；每杯出杯另加，不加入整批基底",
+        "scope": "serve"
+      },
+      {
+        "name": "1:1 糖浆",
+        "amount": null,
+        "unit": "",
+        "note": "出杯可选加 1–2 滴",
+        "scope": "serve"
+      }
+    ],
+    "steps": [
+      {
+        "title": "泡茶 · 4 分钟",
+        "text": "茶包加沸水浸泡 4 分钟，去茶包，加入两种果汁及糖浆。"
+      },
+      {
+        "title": "热奶倒入茶液",
+        "text": "全脂奶加热至微沸，倒入茶液，搅数秒使其形成凝乳。"
+      },
+      {
+        "title": "反复过滤 · 约 48 小时",
+        "text": "细筛铺白滤布或四层纱布，下放接液碗。慢慢倒入混合液，再把已滤液舀回凝乳上，反复至清澈；来源提示可能约 48 小时，必要时更换滤布。 家庭操作建议全程冷藏过滤；原文只明确最后一轮冷藏，不能据此理解为此前常温放置。"
+      },
+      {
+        "title": "最后一轮 · 冷藏过夜",
+        "text": "最后一轮连筛与接液碗一起放冰箱，过滤过夜。"
+      },
+      {
+        "title": "加入伏特加",
+        "text": "澄清后再加入整批的 2 cup 伏特加，装入密闭容器。"
+      },
+      {
+        "title": "每杯出杯",
+        "text": "基底 1.75 oz 与所选透明烈酒 1.75 oz 搅匀，倒入加冰古典杯。可按原方追加 1–2 滴糖浆。"
+      }
+    ],
+    "tip": "过滤耗时；备好细筛、滤布或咖啡滤纸。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.tastingtable.com/687509/pineapple-milk-punch/",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "糖浆",
+        "text": "成品 1:1 糖浆即可；来源比例为一份糖、一份水。"
+      },
+      {
+        "title": "过滤环境",
+        "text": "来源只明确最后一轮冷藏过夜，未说明此前约 48 小时的温度；家庭制作建议全程冷藏过滤（操作建议，非原文规定）。"
+      },
+      {
+        "title": "图片说明",
+        "text": "Betony 奶洗系列示例，来源未注明是否菠萝版本；手绘按这张系列实拍制作。"
+      }
+    ],
+    "bar": {
+      "name": "Betony",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "creator": "Eamon Rockey",
+    "flavorDescription": "菠萝与柠檬的酸甜，带红茶香。",
+    "sourceTitle": "Pineapple Milk Punch",
+    "recipeSources": [
+      {
+        "title": "Pineapple Milk Punch 原配方",
+        "url": "https://www.tastingtable.com/687509/pineapple-milk-punch/"
+      }
+    ],
+    "photoRemoteUrl": "https://content.fortune.com/wp-content/uploads/2019/07/Rockeys-Milk-Punch-04.jpg",
+    "photoSource": "https://fortune.com/longform/rockeys-milk-punch-fine-dining/",
+    "photoCredit": "Ashley Sears / Betony",
+    "photo": "assets/photos/innovation-pineapple-milk-punch.webp",
+    "illustration": "assets/illustrations/innovation-pineapple-milk-punch.webp",
+    "ingredientAccessibility": "需伏特加及白朗姆/金酒/卡莎萨任选 1 瓶；水果、茶包、牛奶、糖浆均可零售购买。",
+    "milkWashed": true,
+    "provenanceType": "milk-supplement",
+    "servingUnit": "批",
+    "batchServings": null,
+    "yieldNote": "来源预计得到约 5 美制 quart 基底（约 4.73 L）；清单包含整批基底及标明的每杯追加项。",
+    "sourceNote": "保留来源美制 cup、quart、oz；1 quart 约 946 ml。按长过滤步骤安排时间，不使用网页概括的 55 分钟总时长。 实拍与手绘均为 Betony 奶洗系列示例，未核实为菠萝口味。",
+    "preparationTime": "约 48 小时回滤，最后冷藏过夜",
+    "photoNote": "Betony 奶洗系列示例，来源未注明是否菠萝版本；手绘按这张系列实拍制作。"
+  },
+  {
+    "id": "innovation-fog-lights-milk-punch",
+    "name": "Fog Lights Milk Punch",
+    "zh": "雾灯奶洗潘趣",
+    "base": "威士忌",
+    "bases": [
+      "威士忌",
+      "白兰地",
+      "朗姆酒"
+    ],
+    "tags": [
+      "伯爵茶",
+      "酸甜"
+    ],
+    "color": "#e5cf93",
+    "method": "奶洗 / 过滤",
+    "glass": "古典杯",
+    "garnish": "现刨肉豆蔻",
+    "ingredients": [
+      {
+        "name": "波本威士忌",
+        "amount": 2,
+        "unit": "cup"
+      },
+      {
+        "name": "白兰地",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "牙买加朗姆酒",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "伯爵茶糖浆",
+        "amount": 1.75,
+        "unit": "cup",
+        "note": "泡好的伯爵茶与白砂糖 1:1 混合"
+      },
+      {
+        "name": "柠檬汁",
+        "amount": 1.75,
+        "unit": "cup"
+      },
+      {
+        "name": "全脂牛奶",
+        "amount": 1.6666666666666667,
+        "unit": "cup",
+        "note": "即 1⅔ cup"
+      },
+      {
+        "name": "Half-and-half 奶油奶",
+        "amount": 0.75,
+        "unit": "cup",
+        "note": "成品半奶半奶油"
+      },
+      {
+        "name": "柠檬外皮",
+        "amount": 1,
+        "unit": "个柠檬的量",
+        "note": "可选"
+      },
+      {
+        "name": "香草精",
+        "amount": 1,
+        "unit": "dash",
+        "note": "可选"
+      },
+      {
+        "name": "肉豆蔻",
+        "amount": null,
+        "unit": "",
+        "note": "少许，现刨装饰"
+      }
+    ],
+    "steps": [
+      {
+        "title": "混合酒液",
+        "text": "波本、白兰地、朗姆、伯爵茶糖浆和柠檬汁混合于不发生反应的容器中。"
+      },
+      {
+        "title": "加热乳品",
+        "text": "全脂奶和 half-and-half 入锅；若使用柠檬皮、香草精，一同加入。加热至 180°F（约 82°C）。"
+      },
+      {
+        "title": "奶倒入酒 · 约 3 分钟",
+        "text": "热乳倒入酒液，静置约 3 分钟。"
+      },
+      {
+        "title": "初滤",
+        "text": "细筛铺一层薄纱布或咖啡滤纸，过滤；保留凝乳。流速减慢后，把带凝乳的筛移到另一干净容器。"
+      },
+      {
+        "title": "回滤",
+        "text": "第一次收集的液体慢慢倒回凝乳上，继续至全部滤过；原文未限定总过滤时长。"
+      },
+      {
+        "title": "出杯",
+        "text": "古典杯放大冰块，倒入酒液，刨少许肉豆蔻。"
+      }
+    ],
+    "tip": "过滤耗时；备好细筛、滤布或咖啡滤纸。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://punchdrink.com/recipes/fog-lights-milk-punch/",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [
+      {
+        "title": "Half-and-half 家庭备料建议",
+        "text": "可参考 Food Network Kitchen，用等体积全脂奶与淡奶油混合。本方 ¾ cup 可用两者各 ⅜ cup；这是家庭替代建议，不是调酒师原配方。"
+      }
+    ],
+    "bar": {
+      "name": "Eastern Standard",
+      "city": "波士顿",
+      "country": "美国"
+    },
+    "creator": "Diego Peña",
+    "flavorDescription": "伯爵茶、柠檬与香料，三种陈年酒带来厚实香气。",
+    "sourceTitle": "Fog Lights Milk Punch",
+    "recipeSources": [
+      {
+        "title": "Fog Lights Milk Punch 原配方",
+        "url": "https://punchdrink.com/recipes/fog-lights-milk-punch/"
+      },
+      {
+        "title": "Food Network Kitchen：Half-and-half 备料替代",
+        "url": "https://www.foodnetwork.com/how-to/packages/food-network-essentials/what-is-half-and-half"
+      }
+    ],
+    "photoRemoteUrl": "https://punchdrink.com/wp-content/uploads/2019/11/Social-Fog-Lights-Milk-Punch-Cocktail-Recipe.jpg",
+    "photoSource": "https://punchdrink.com/recipes/fog-lights-milk-punch/",
+    "photoCredit": "Lizzie Munro / PUNCH",
+    "photo": "assets/photos/innovation-fog-lights-milk-punch.webp",
+    "illustration": "assets/illustrations/innovation-fog-lights-milk-punch.webp",
+    "ingredientAccessibility": "需波本、白兰地、牙买加朗姆共 3 瓶；另需常见茶、牛奶、half-and-half 奶油奶、柠檬与厨房香料。",
+    "milkWashed": true,
+    "provenanceType": "milk-supplement",
+    "servingUnit": "批",
+    "batchServings": null,
+    "yieldNote": "来源整批产量为 3 美制 quart（约 2.84 L）；未给固定单杯容量。",
+    "sourceNote": "保留美制 cup / quart。伯爵茶糖浆仅需茶与砂糖 1:1；原文未限定泡茶浓度或时间。 1:1 未注明按重量还是体积，不额外推定。",
+    "preparationTime": "静置约 3 分钟，另需过滤"
+  },
+  {
+    "id": "innovation-clarified-new-york-sour",
+    "name": "Clarified New York Sour",
+    "zh": "澄清纽约酸",
+    "base": "威士忌",
+    "bases": [
+      "威士忌",
+      "葡萄酒"
+    ],
+    "tags": [
+      "红酒",
+      "酸甜"
+    ],
+    "color": "#e5cf93",
+    "method": "奶洗 / 过滤",
+    "glass": "古典杯",
+    "garnish": "无",
+    "ingredients": [
+      {
+        "name": "波本或黑麦威士忌",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "柠檬汁",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "普通糖浆",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "全脂牛奶",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "黑皮诺红葡萄酒",
+        "amount": 22.5,
+        "unit": "ml",
+        "note": "过滤完成后浮在表面"
+      }
+    ],
+    "steps": [
+      {
+        "title": "预混",
+        "text": "威士忌、柠檬汁、糖浆装入密封罐摇匀；原文未标秒数。"
+      },
+      {
+        "title": "酒液倒奶 · 冷藏 2 小时",
+        "text": "将混合酒液倒入全脂奶中，放冰箱静置 2 小时。"
+      },
+      {
+        "title": "过滤",
+        "text": "凝乳形成后，用咖啡滤纸过滤至清澈；原文未另外指定回滤次数。"
+      },
+      {
+        "title": "红酒浮层",
+        "text": "澄清酒倒入加冰古典杯，最后在表面浮上红葡萄酒。"
+      }
+    ],
+    "tip": "过滤耗时；备好细筛、滤布或咖啡滤纸。",
+    "category": "innovations",
+    "categoryOriginal": "Innovations",
+    "source": "https://www.holycityhandcraft.com/recipes/clarified-new-york-sour",
+    "checkedAt": "2026-11-03",
+    "recipeNotes": [],
+    "bar": {
+      "name": "Holy City Handcraft",
+      "city": "查尔斯顿",
+      "country": "美国"
+    },
+    "creator": "Miguel Buencamino",
+    "flavorDescription": "轻柔柠檬酸甜，配红酒果香浮层。",
+    "sourceTitle": "Clarified New York Sour",
+    "recipeSources": [
+      {
+        "title": "Clarified New York Sour 原配方",
+        "url": "https://www.holycityhandcraft.com/recipes/clarified-new-york-sour"
+      }
+    ],
+    "photoRemoteUrl": "https://images.squarespace-cdn.com/content/v1/5b5df6325417fc3a7af6bc92/88973b09-b4a4-4727-8d5f-7c60b34d21ba/Clarified%2BNew%2BYork%2BSour-10.png",
+    "photoSource": "https://www.holycityhandcraft.com/recipes/clarified-new-york-sour",
+    "photoCredit": "Miguel Buencamino / Holy City Handcraft",
+    "photo": "assets/photos/innovation-clarified-new-york-sour.webp",
+    "illustration": "assets/illustrations/innovation-clarified-new-york-sour.webp",
+    "ingredientAccessibility": "需波本或黑麦 1 瓶、红葡萄酒 1 瓶；其余为普通柠檬、糖浆、全脂奶。",
+    "milkWashed": true,
+    "provenanceType": "milk-supplement",
+    "servingUnit": "杯",
+    "batchServings": 1,
+    "yieldNote": "来源单份配方；奶洗过滤会损耗体积。",
+    "sourceNote": "原页材料表与简介写黑皮诺，末步却写赤霞珠，两处文字不一致；本页材料按材料表保留黑皮诺。毫升数采用作者自己给出的换算。",
+    "preparationTime": "冷藏 2 小时，另需过滤"
+  }
+]

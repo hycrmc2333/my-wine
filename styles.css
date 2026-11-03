@@ -10,5 +10,52 @@
 @media(max-width:767px){.category-filters{gap:14px;padding-top:14px;display:flex;overflow-x:auto;scrollbar-width:none}.category-filter{flex:none;min-height:64px;padding-bottom:10px;min-width:110px}.category-filter>span:first-child{font-size:13px}.category-filter>span[lang]{font-size:10px}.category-filters+.collection-toolbar{padding-top:15px}.collection-toolbar .filters{gap:4px}.collection-toolbar .filter{padding-inline:13px}}
 @media(max-width:480px){.intro-art img{width:124px;height:150px}.card-copy h2{font-size:clamp(15px,4.6vw,18px)}.category-filters{gap:17px}.category-filter{min-width:106px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+.category-filters{grid-template-columns:repeat(var(--category-count,4),minmax(0,1fr))}
+.intro-eyebrow{font-family:var(--display);letter-spacing:.02em;color:var(--green)!important;margin-bottom:10px!important}
+.innovations-intro .intro-note{max-width:170px;overflow-wrap:anywhere}
+.innovation-context{border-top:1px solid var(--line);padding:20px 0 4px;display:flex;justify-content:space-between;align-items:baseline;gap:20px;color:var(--muted);font-size:12px}
+.innovation-context p{margin:0}.innovation-context span{white-space:nowrap;font-family:var(--display)}
+.innovation-context+.collection-toolbar{border-top:0}
+.card-top.card-bar{max-width:calc(100% - 20px);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.bar-provenance{margin:0 0 20px;font-size:12px;color:var(--muted)}
+.bar-provenance p{margin:0 0 5px}.bar-provenance strong{font-family:var(--display);font-size:16px;color:var(--ink);font-weight:600;margin-right:12px}
+.bar-provenance a{display:inline-flex;align-items:center;gap:5px;text-decoration:underline;text-underline-offset:3px;font-size:11px}
+.bar-provenance .icon,.recipe-references .icon{width:13px;height:13px}
+.bar-provenance .recipe-creator{margin-top:8px;font-size:11px}.bar-provenance .flavor-description{margin-top:13px;font-size:13px;line-height:1.85;color:var(--ink)}
+.recipe-references{border-top:1px solid var(--line);margin-top:22px;padding-top:19px;font-size:12px;line-height:1.8}
+.recipe-references h2{font-size:14px;font-weight:500;margin:0 0 9px}.recipe-references ul{margin:0;padding:0;list-style:none;display:grid;gap:8px}
+.recipe-references a{display:inline;overflow-wrap:anywhere;text-decoration:underline;text-underline-offset:3px}.recipe-references a .icon{display:inline;vertical-align:middle;margin-left:4px}
+.recipe-references>p{color:var(--muted);font-size:11px;margin-bottom:0}
+@media(max-width:767px){.site-header{height:auto;min-height:115px;flex-wrap:wrap;padding-top:15px;gap:6px}.site-header nav{width:100%;margin-left:0;justify-content:space-between;gap:16px}.nav-link{font-size:13px;min-height:43px}.innovation-context{align-items:flex-start;flex-direction:column;gap:5px;padding-top:16px}.innovations-intro .intro-note{max-width:125px}.innovations-intro .intro-eyebrow{font-size:12px}.bar-provenance strong{font-size:17px}}
 
-.nav-link[hidden]{display:none}
+.gallery-slide.photo-slide.innovation-photo>img{object-fit:contain;object-position:center}
+
+/* Shared photo/art framing: normalized assets retain the same center and safe margins. */
+.gallery-slide>img,.gallery-slide.photo-slide>img{inset:0;width:100%;height:100%;object-fit:contain;object-position:center}
+
+.bar-provenance .ingredient-accessibility{margin-top:13px;padding:12px 14px;background:var(--wash);border-radius:8px;line-height:1.8;font-size:12px}.ingredient-accessibility strong{font-family:var(--body);font-size:12px;display:block;margin:0 0 3px}
+
+/* Innovations: preparation choices and source-sized clarification batches. */
+.preparation-filters{padding:0 0 16px;gap:8px;flex-wrap:wrap}.preparation-filters span{margin-left:5px;opacity:.65;font-variant-numeric:tabular-nums}.batch-label{padding:9px 13px;color:var(--green)}.yield-note{font-size:13px;line-height:1.7;color:var(--muted);padding:12px 15px;background:#eef0e6;border-radius:8px;margin:0 0 10px}
+
+.ingredient-group{padding:22px 0 8px;font-weight:600;font-size:13px;color:var(--ink);list-style:none}.supplement-label{font-size:12px;color:var(--muted)}
+
+.unit-note{font-size:11px;color:var(--muted);line-height:1.8;margin:12px 0}.gallery-tabs button{white-space:nowrap}@media(max-width:480px){.gallery-bottom{flex-wrap:wrap;gap:8px}.swipe-hint{width:100%;margin:0}.gallery-tabs{flex-shrink:0}}
+@media(max-width:480px){.innovations-intro{grid-template-columns:minmax(0,1fr) 100px}.innovations-intro h1{font-size:clamp(25px,7vw,30px)}.innovations-intro .intro-art img{width:100px;height:134px}.innovations-intro .intro-art:before{width:96px;height:96px}.preparation-filters{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}.preparation-filters .filter{font-size:12px;padding-inline:7px}.preparation-filters span{margin-left:3px}}
+
+.recipe-facts .preparation-time{grid-column:1/-1}.preparation-time dd{line-height:1.65}
+
+/* Innovations shares the original category row and catalogue hero. */
+.category-filters+.innovation-context{border-top:0}
+@media(max-width:767px){.site-header{height:83px;min-height:0;flex-wrap:nowrap;padding-top:0;gap:15px}.site-header nav{width:auto;margin-left:auto;justify-content:flex-start;gap:20px}.nav-link{font-size:12px}.category-filters{scrollbar-width:thin;scroll-padding-inline:4px}.intro{grid-template-columns:minmax(0,1fr) 140px}.intro h1{white-space:normal}}
+@media(max-width:480px){.intro{grid-template-columns:minmax(0,1fr) 100px}.intro h1{font-size:clamp(25px,7vw,29px)}.intro-art img{width:100px;height:145px}.intro-art:before{width:96px;height:96px}.site-header nav{gap:14px}.nav-link{font-size:11px}}
+
+/* The home bar sits below the base filter, within the same catalogue. */
+.pantry-panel{border:1px solid var(--line);border-radius:12px;padding:20px 22px;margin:0 0 22px;background:#ffffff40}
+.pantry-heading{display:flex;align-items:center;justify-content:space-between;gap:20px}.pantry-heading h2{font-size:16px;font-weight:600;margin:0}.pantry-heading h2 span{font-size:11px;font-weight:400;color:var(--muted);margin-left:10px}.pantry-heading p{font-size:12px;color:var(--muted);margin:4px 0 0}
+.pantry-mode{display:flex;align-items:center;gap:8px;font-size:12px;cursor:pointer;flex-shrink:0}.pantry-panel input[type=checkbox]{accent-color:var(--green);width:16px;height:16px;flex:none;cursor:pointer}.pantry-picker>summary{font-size:12px;color:var(--green);padding:13px 0;cursor:pointer;width:fit-content}.pantry-search{display:flex;gap:8px;align-items:center;border-bottom:1px solid var(--line);padding:8px 0;margin-bottom:14px;max-width:380px}.pantry-search input{width:100%;min-width:0;border:0;outline:0;background:transparent;font-size:12px}.pantry-search:focus-within{border-color:var(--green);outline:2px solid var(--green);outline-offset:4px}.pantry-search .icon{width:16px;height:16px}
+.pantry-groups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}.pantry-group{min-width:0}.pantry-group>summary{font-size:13px;font-weight:500;cursor:pointer;padding:0 0 9px}.pantry-group>summary span{display:block;color:var(--muted);font-size:10px;font-weight:400;margin:3px 0 0 14px}.pantry-options{max-height:180px;overflow-y:auto;scrollbar-width:thin;overscroll-behavior:contain;padding:2px 8px 2px 0}.pantry-option{display:flex;align-items:center;gap:7px;min-height:34px;font-size:12px;line-height:1.5;cursor:pointer;border-radius:5px;padding:3px 2px}.pantry-option:hover{background:var(--wash)}.pantry-option span{overflow-wrap:anywhere}.pantry-option:has(input:checked){color:var(--green);font-weight:500}.pantry-panel [hidden]{display:none!important}
+.pantry-selected{display:flex;gap:7px;flex-wrap:wrap}.pantry-selected:not(:empty){padding:14px 0 5px}.pantry-chip{display:flex;align-items:center;gap:9px;min-height:33px;padding:5px 11px;background:var(--wash);border-radius:18px;font-size:11px;text-align:left}.pantry-chip span{font-size:16px;color:var(--muted)}.pantry-chip:hover{background:#dfe5d7}.pantry-bottom{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-top:10px}.pantry-bottom p{font-size:10px;line-height:1.8;color:var(--muted);max-width:850px;margin:0}.pantry-bottom button{font-size:11px;color:var(--muted);white-space:nowrap;text-decoration:underline;text-underline-offset:3px;min-height:32px}#pantry-search-empty{color:var(--muted);font-size:12px}
+@media(max-width:767px){.pantry-panel{padding:16px;margin-bottom:18px}.pantry-heading{align-items:flex-start;flex-direction:column;gap:10px}.pantry-mode{min-height:32px}.pantry-groups{grid-template-columns:1fr;gap:12px}.pantry-group>summary{border-bottom:1px solid var(--line)}.pantry-options{max-height:144px;margin-top:6px}.pantry-option{min-height:38px}.pantry-bottom{flex-direction:column;gap:4px}.pantry-chip{min-height:36px;max-width:100%}.pantry-heading h2{font-size:15px}}
+
+.flavor-panel{border-top:1px solid var(--line);padding:17px 0 19px}.flavor-heading{display:flex;align-items:baseline;flex-wrap:wrap;gap:8px 18px;margin-bottom:12px}.flavor-heading h2{font-size:14px;font-weight:500;margin:0}.flavor-heading p,.flavor-note{font-size:11px;color:var(--muted);margin:0}.flavor-filters{display:flex;flex-wrap:wrap;gap:7px}.flavor-filters .filter{border:1px solid var(--line);min-height:36px;padding:5px 15px;font-size:12px}.flavor-filters .filter[aria-pressed=true]{border-color:var(--green)}.flavor-note{margin-top:10px;font-size:10px}.flavor-panel+.pantry-panel{margin-top:0}@media(max-width:767px){.flavor-heading{display:block}.flavor-heading p{margin-top:5px}.flavor-filters{gap:7px}.flavor-filters .filter{min-height:38px;padding-inline:13px}}

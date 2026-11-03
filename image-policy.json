@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "maxEdge": 640,
+  "subjectEdge": 480,
+  "quality": 82,
+  "photoFramingRequired": true,
+  "description": "Same publication policy for GitHub Pages and ChatGPT Sites. Preserve originals locally; center the glass with 12.5% minimum framing margin.",
+  "photoPadding": "solid source corner color; never stretch source-edge pixels"
+}

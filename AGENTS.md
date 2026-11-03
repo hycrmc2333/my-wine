@@ -1,0 +1,9 @@
+# Image and deployment requirements
+
+- Current changes are local-only until the user explicitly requests deployment.
+- Match the ChatGPT Sites image policy: published raster images have a longest edge of at most 640px; cocktail canvases use 640px, with centered glass subjects up to 480px and safe margins. Preserve transparency/aspect ratio; SVG icons are exempt.
+- Keep high-resolution originals locally outside this public repository, under `../image-originals/` and the authoring project's `artwork-originals/`. Never upload originals or include them in archives.
+- Run `npm run prepare:deploy` before every requested push/deployment. It prepares images, checks every published raster size and hash, checks photo framing, and tests actual app startup. New or replaced photos require visually reviewed source bounds in `image-framing.json`.
+- Keep `image-policy.json`, `image-framing.json`, and `scripts/prepare-images.mjs` aligned with `../cocktail-atlas/`. When the user completes new content there, validate the authoring collection before synchronizing its finished static output here. Preserve the GitHub repository metadata and tooling.
+- Photo and artwork gallery images share the same centered frame. Do not restore bottom-aligned `object-fit:cover` cropping. Preserve the optional-recipe startup fix.
+- Explicit user clarification: directly reuse already prepared local images, styles, framing annotations and review records; do not regenerate, re-crop, recompress or manually re-review unchanged assets for another chat or deployment. Synchronize `assets/image-manifest.json` with the prepared assets and their policy/framing files so the existing hash checks can skip completed work. Only new/modified images or concrete failed checks need further processing; retain routine deployment checks.
