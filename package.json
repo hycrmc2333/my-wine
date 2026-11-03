@@ -1,0 +1,6 @@
+{
+  "name": "my-wine-pages",
+  "private": true,
+  "scripts": { "test": "node --test tests/startup.test.cjs" },
+  "devDependencies": { "jsdom": "26.1.0" }
+}

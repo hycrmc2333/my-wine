@@ -10,3 +10,5 @@
 @media(max-width:767px){.category-filters{gap:14px;padding-top:14px;display:flex;overflow-x:auto;scrollbar-width:none}.category-filter{flex:none;min-height:64px;padding-bottom:10px;min-width:110px}.category-filter>span:first-child{font-size:13px}.category-filter>span[lang]{font-size:10px}.category-filters+.collection-toolbar{padding-top:15px}.collection-toolbar .filters{gap:4px}.collection-toolbar .filter{padding-inline:13px}}
 @media(max-width:480px){.intro-art img{width:124px;height:150px}.card-copy h2{font-size:clamp(15px,4.6vw,18px)}.category-filters{gap:17px}.category-filter{min-width:106px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+.nav-link[hidden]{display:none}

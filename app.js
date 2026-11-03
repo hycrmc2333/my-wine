@@ -42,7 +42,9 @@
   };
   function updateNav() {
     document.querySelector('#favorite-count').textContent = favorites.size;
-    document.querySelector('#catalog-size').textContent = `${cocktails.filter(c=>!isInnovation(c)).length} 款 IBA 经典 · ${cocktails.filter(isInnovation).length} 款酒吧原创`;
+    const innovationCount = cocktails.filter(isInnovation).length;
+    document.querySelector('#nav-innovations').hidden = innovationCount === 0;
+    document.querySelector('#catalog-size').textContent = `${cocktails.filter(c=>!isInnovation(c)).length} 款 IBA 经典${innovationCount ? ` · ${innovationCount} 款酒吧原创` : ''}`;
     const saved = location.hash === '#favorites';
     const innovation = location.hash === '#innovations' || (location.hash.startsWith('#cocktail/') && detailIsInnovation);
     for (const [id, active] of [['nav-collection', !saved && !innovation], ['nav-innovations', !saved && innovation], ['nav-favorites', saved]]) {
@@ -139,6 +141,9 @@
     track.scrollTo({left:track.clientWidth * activeSlide, behavior:matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth'});
   }
   function renderRoute() {
+    if (location.hash === '#innovations' && !cocktails.some(isInnovation)) {
+      history.replaceState(null, '', location.pathname + location.search);
+    }
     const hash = location.hash;
     if (hash.startsWith('#cocktail/')) {
       const c = cocktails.find(c => c.id === hash.slice(10));
@@ -210,20 +215,29 @@
     img.replaceWith(message);
   },true);
   window.addEventListener('hashchange',renderRoute);
+  async function loadRecipes(file) {
+    const response = await fetch(file, {cache:'no-cache'});
+    if (!response.ok) throw new Error('recipe fetch failed');
+    const data = await response.json();
+    if (!Array.isArray(data)) throw new Error('invalid recipe data');
+    return data;
+  }
   async function start() {
     try {
-      const datasets = await Promise.all(['cocktails.json','innovations.json'].map(async file => {
-        const response = await fetch(file, {cache:'no-cache'}); if (!response.ok) throw new Error('recipe fetch failed');
-        const data = await response.json(); if (!Array.isArray(data)) throw new Error('invalid recipe data'); return data;
-      }));
-      cocktails = datasets.flat();
-      if (!Array.isArray(cocktails) || !cocktails.length) throw new Error('empty recipe data');
-      favorites = new Set([...favorites].filter(id => cocktails.some(c=>c.id===id)));
+      cocktails = await loadRecipes('cocktails.json');
+      if (!cocktails.length) throw new Error('empty recipe data');
       renderRoute();
     } catch {
       main.innerHTML = `<section class="empty-state"><h1>酒单暂时没有打开。</h1><p>请检查连接，再试一次。</p><button class="solid-button" id="retry">重新加载酒单</button></section>`;
       document.getElementById('retry').addEventListener('click',start);
+      return;
     }
+    // Optional collections must never delay or prevent the classic menu from opening.
+    const innovations = await loadRecipes('innovations.json').catch(() => []);
+    cocktails.push(...innovations);
+    favorites = new Set([...favorites].filter(id => cocktails.some(c=>c.id===id)));
+    updateNav();
+    if (location.hash === '#favorites') renderGrid();
   }
   start();
 })();
