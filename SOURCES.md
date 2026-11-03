@@ -1,0 +1,112 @@
+# IBA 官方来源 · 完整酒单
+
+核对日期：2026-11-02。共 102 款，逐页与 [IBA 全部酒单](https://iba-world.com/cocktails/all-cocktails/) 对照。
+
+配方数值以官方页面为准；步骤为中文整理。中文译名、风味标签和部分杯型建议属于编辑说明。官网缺失单位或文字矛盾在对应酒款来源说明中保留。
+
+实拍为 IBA 官网作品，仅注明来源，不主张开放许可。手绘图为依据实拍生成的风格化演绎。
+
+| 酒款 | 分类 | 配方 | 原始摄影 |
+|---|---|---|---|
+| Alexander · 亚历山大 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/alexander/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-alexander-669491364f7f2.webp) |
+| Americano · 美国佬 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/americano/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-americano-669490fe3cb42.webp) |
+| Angel Face · 天使之颜 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/angel-face/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-angel-face-669490fe6df67.webp) |
+| Aviation · 飞行 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/aviation/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-aviation-66949102296a4.webp) |
+| Bee’s Knees · 蜂之膝 | New Era | [IBA](https://iba-world.com/iba-cocktail/bees-knees/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-bees-knees-6695d397e26c1.webp) |
+| Bellini · 贝里尼 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/bellini/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-bellini-6695cda4217da.webp) |
+| Between the Sheets · 床笫之间 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/between-the-sheets/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-between-the-sheets-669491023d7af.webp) |
+| Black Russian · 黑俄罗斯 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/black-russian/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-black-russian-6695cda4183dc.webp) |
+| Bloody Mary · 血腥玛丽 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/bloody-mary/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-bloody-mary-6695cda72fe0f.webp) |
+| Boulevardier · 林荫大道 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/boulevardier/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-boulevardier-6694910552acd.webp) |
+| Bramble · 黑莓 | New Era | [IBA](https://iba-world.com/iba-cocktail/bramble/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-bramble-6695d398036e1.webp) |
+| Brandy Crusta · 白兰地克鲁斯塔 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/brandy-crusta/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-brandy-crusta-6694910571bcb.webp) |
+| Caipirinha · 凯匹林纳 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/caipirinha/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-caipirinha-6695cda74b13a.webp) |
+| Canchanchara · 坎钱查拉 | New Era | [IBA](https://iba-world.com/iba-cocktail/canchanchara/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-canchanchara-6695d39b24d7e.webp) |
+| Cardinale · 红衣主教 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/cardinale/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-cardinale-6695cdaa5f0d8.webp) |
+| Casino · 卡西诺 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/casino/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-casino-6694910882cd6.webp) |
+| Champagne Cocktail · 香槟鸡尾酒 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/champagne-cocktail/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-champagne-cocktail-6695cdaa71bb2.webp) |
+| Chartreuse Swizzle · 查特酒旋调 | New Era | [IBA](https://iba-world.com/iba-cocktail/chartreuse-swizzle/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-chartreuse-swizzle-6695d39b326e0.webp) |
+| Clover Club · 三叶草俱乐部 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/clover-club/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-clover-club-66949108a3e54.webp) |
+| Corpse Reviver #2 · 亡者复苏二号 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/corpse-reviver-2/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-corpse-reviver-2-6695cdad6da15.webp) |
+| Cosmopolitan · 大都会 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/cosmopolitan/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-cosmopolitan-6695cdae389dc.webp) |
+| Cuba Libre · 自由古巴 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/cuba-libre/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-cuba-libre-6695cdb0a6f80.webp) |
+| Daiquiri · 戴基里 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/daiquiri/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-daiquiri-6694910c5866e.webp) |
+| Dark ‘N’ Stormy · 黑暗风暴 | New Era | [IBA](https://iba-world.com/iba-cocktail/dark-n-stormy/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-dark-n-stormy-6695d39e2bd94.webp) |
+| Don's Special Daiquiri · 唐氏特调戴基里 | New Era | [IBA](https://iba-world.com/iba-cocktail/dons-special-daiquiri/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-dons-special-daiquiri-6695d39e89fd7.webp) |
+| Dry Martini · 干马天尼 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/dry-martini/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-dry-martini-6694910fb500c.webp) |
+| Espresso Martini · 浓缩咖啡马天尼 | New Era | [IBA](https://iba-world.com/iba-cocktail/espresso-martini/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-espresso-martini-6695d3a172fd3.webp) |
+| Fernandito · 费尔南迪托 | New Era | [IBA](https://iba-world.com/iba-cocktail/fernandito/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-fernandito-6695d3a1a3586.webp) |
+| French 75 · 法式七五 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/french-75/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-french-75-6695cdb175e06.webp) |
+| French Connection · 法国连接 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/french-connection/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-french-connection-6695cdb3cc15f.webp) |
+| French Martini · 法式马天尼 | New Era | [IBA](https://iba-world.com/iba-cocktail/french-martini/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-french-martini-6695d3a4acf5f.webp) |
+| Garibaldi · 加里波第 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/garibaldi/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-garibaldi-6695cdb4cbf81.webp) |
+| Gin Basil Smash · 金酒罗勒司马殊 | New Era | [IBA](https://iba-world.com/iba-cocktail/gin-basil-smash/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-gin-basil-smash-6695d3a4c0967.webp) |
+| Gin Fizz · 金菲士 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/gin-fizz/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-gin-fizz-6694910fc2eab.webp) |
+| Grand Margarita · 柑曼怡玛格丽特 | New Era | [IBA](https://iba-world.com/iba-cocktail/grand-margarita/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-tommys-margarita-6695d3c7171ef.webp) |
+| Grasshopper · 蚱蜢 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/grasshopper/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-grasshopper-6695cdb737498.webp) |
+| Hanky Panky · 花招 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/hanky-panky/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-hanky-panky-66949112edbf5.webp) |
+| Hemingway Special · 海明威特调 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/hemingway-special/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-hemingway-special-6695cdb814e5a.webp) |
+| Horse’s Neck · 马颈 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/horses-neck/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-horses-neck-6695cdba5fadc.webp) |
+| IBA Tiki · IBA 提基 | New Era | [IBA](https://iba-world.com/iba-cocktail/iba-tiki/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-iba-tiki-6695d3a7e33fd.webp) |
+| Illegal · 非法 | New Era | [IBA](https://iba-world.com/iba-cocktail/illegal/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-illegal-6695d3a7de51f.webp) |
+| Irish Coffee · 爱尔兰咖啡 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/irish-coffee/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-irish-coffee-copy-6695cdbb430cd.webp) |
+| John Collins · 约翰柯林斯 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/john-collins/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-john-collins-669491130ef87.webp) |
+| Jungle Bird · 丛林鸟 | New Era | [IBA](https://iba-world.com/iba-cocktail/jungle-bird/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-jungle-bird-6695d3ab45a87.webp) |
+| Kir · 基尔 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/kir/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-kir-6695cdbdbb2e1.webp) |
+| Last Word · 最后一语 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/last-word/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-last-word-6694911607ddf.webp) |
+| Lemon Drop Martini · 柠檬滴马天尼 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/lemon-drop-martini/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-lemon-drop-martini-6695cdbe3eed7.webp) |
+| Long Island Iced Tea · 长岛冰茶 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/long-island-iced-tea/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-long-island-iced-tea-6695cdc10c463.webp) |
+| Mai-Tai · 迈泰 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/mai-tai/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-mai-tai-6695cdc169ea3.webp) |
+| Manhattan · 曼哈顿 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/manhattan/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-manhattan-6694911627de7.webp) |
+| Margarita · 玛格丽特 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/margarita/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-margarita-6695cdd7505e0.webp) |
+| Martinez · 马丁内斯 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/martinez/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-martinez-6694911927849.webp) |
+| Mary Pickford · 玛丽·碧克馥 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/mary-pickford/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-mary-pickford-6694911933ea7.webp) |
+| Mimosa · 含羞草 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/mimosa/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-mimosa-6695cdc4463c9.webp) |
+| Mint Julep · 薄荷朱利普 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/mint-julep/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-mint-julep-6695cdc4aa398.webp) |
+| Missionary's Downfall · 传教士的堕落 | New Era | [IBA](https://iba-world.com/iba-cocktail/missionarys-downfall/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-missionarys-downfall-6695d3ab4d4c5.webp) |
+| Mojito · 莫吉托 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/mojito/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-mojito-6695cdc755626.webp) |
+| Monkey Gland · 猴腺 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/monkey-gland/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-monkey-gland-6694911cbf5a2.webp) |
+| Moscow Mule · 莫斯科骡子 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/moscow-mule/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-moscow-mule-6695cdc7d8cb2.webp) |
+| Naked and Famous · 赤裸与成名 | New Era | [IBA](https://iba-world.com/iba-cocktail/naked-and-famous/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-naked-and-famous-6695d3ae8e1dc.webp) |
+| Negroni · 尼格罗尼 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/negroni/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-negroni-6694911cc3b65.webp) |
+| New York Sour · 纽约酸 | New Era | [IBA](https://iba-world.com/iba-cocktail/new-york-sour/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-new-york-sour-6695d3ae88cd2.webp) |
+| Old Cuban · 古巴往事 | New Era | [IBA](https://iba-world.com/iba-cocktail/old-cuban/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-old-cuban-6695d3b18c692.webp) |
+| Old Fashioned · 古典鸡尾酒 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/old-fashioned/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-old-fashioned-6694911fce360.webp) |
+| Paloma · 帕洛玛 | New Era | [IBA](https://iba-world.com/iba-cocktail/paloma/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-paloma-6695d3b19cda4.webp) |
+| Paper Plane · 纸飞机 | New Era | [IBA](https://iba-world.com/iba-cocktail/paper-plane/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-paper-plane-6695d3b4745eb.webp) |
+| Paradise · 天堂 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/paradise/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-paradise-6694911fdbd4b.webp) |
+| Penicillin · 盘尼西林 | New Era | [IBA](https://iba-world.com/iba-cocktail/penicillin/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-penicillin-6695d3b47b79f.webp) |
+| Pisco Punch · 皮斯科潘趣 | New Era | [IBA](https://iba-world.com/iba-cocktail/pisco-punch/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-pisco-punch-6695d3b74b9f5.webp) |
+| Pisco Sour · 皮斯科酸 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/pisco-sour/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-pisco-sour-6695cdcaf1122.webp) |
+| Piña Colada · 椰林飘香 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/pina-colada/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-pina-colada-6695cdcabbf00.webp) |
+| Planters Punch · 种植园潘趣 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/planters-punch/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-planters-punch-66949122d41fb.webp) |
+| Porn Star Martini · 色情明星马天尼 | New Era | [IBA](https://iba-world.com/iba-cocktail/porn-star-martini/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-porn-star-martini-6695d3b771b97.webp) |
+| Porto Flip · 波特菲利普 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/porto-flip/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-porto-flip-669491230cea4.webp) |
+| Rabo de Galo · 拉博·德·加洛 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/rabo-de-galo/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-rabo-de-galo-6695cdcdb2df1.webp) |
+| Ramos Fizz · 拉莫斯菲士 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/ramos-fizz/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-ramos-fizz-669491260ca6c.webp) |
+| Remember the Maine · 铭记缅因号 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/remember-the-maine/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-remember-the-main-6694912622959.webp) |
+| Russian Spring Punch · 俄罗斯春日潘趣 | New Era | [IBA](https://iba-world.com/iba-cocktail/russian-spring-punch/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-russian-spring-punch-6695d3ba314f1.webp) |
+| Rusty Nail · 锈钉 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/rusty-nail/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-rusty-nail-66949129acfd1.webp) |
+| Sazerac · 萨泽拉克 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/sazerac/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-sazerac-66949129b50d1.webp) |
+| Sea Breeze · 海风 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/sea-breeze/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-sea-breeze-6695cdce015a8.webp) |
+| Sex on the Beach · 性感海滩 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/sex-on-the-beach/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-sex-on-the-beach-6695cdd0aecf3.webp) |
+| Sherry Cobbler · 雪莉科布勒 | New Era | [IBA](https://iba-world.com/iba-cocktail/sherry-cobbler/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-sherry-cobbler-6695d3ba8bdb7.webp) |
+| Sidecar · 边车 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/sidecar/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-sidecar-6694912cb8aa9.webp) |
+| Singapore Sling · 新加坡司令 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/singapore-sling/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-singapore-sling-6695cdd136426.webp) |
+| South Side · 南区 | New Era | [IBA](https://iba-world.com/iba-cocktail/south-side/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-south-side-6695d3bdcc9fe.webp) |
+| Spicy Fifty · 辛辣五十 | New Era | [IBA](https://iba-world.com/iba-cocktail/spicy-fifty/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-spicy-fifty-6695d3bdd14b1.webp) |
+| Spritz · 斯普利兹 | New Era | [IBA](https://iba-world.com/iba-cocktail/spritz/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-spritz-6695d3c0f113f.webp) |
+| Stinger · 毒刺 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/stinger/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-stinger-6694912ce0b8d.webp) |
+| Suffering Bastard · 受苦的混蛋 | New Era | [IBA](https://iba-world.com/iba-cocktail/suffering-bastard/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-suffering-bastard-6695d3c1081c4.webp) |
+| Tequila Sunrise · 龙舌兰日出 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/tequila-sunrise/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-tequila-sunrise-6695cdd3da10a.webp) |
+| Three Dots and a Dash · 三点一划 | New Era | [IBA](https://iba-world.com/iba-cocktail/three-dots-and-a-dash/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-three-dots-and-a-dash-6695d3c3e2d24.webp) |
+| Tipperary · 蒂珀雷里 | New Era | [IBA](https://iba-world.com/iba-cocktail/tipperary/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-tipperary-6695d3c453fd3.webp) |
+| Tommy's Margarita · 汤米玛格丽特 | New Era | [IBA](https://iba-world.com/iba-cocktail/tommys-margarita/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-tommys-margarita-6695d3c7171ef.webp) |
+| Trinidad Sour · 特立尼达酸 | New Era | [IBA](https://iba-world.com/iba-cocktail/trinidad-sour/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-trinidad-sour-6695d3c794a43.webp) |
+| Tuxedo · 燕尾服 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/tuxedo/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-tuxedo-6694912fd3b8f.webp) |
+| Ve.N.To · 维恩托 | New Era | [IBA](https://iba-world.com/iba-cocktail/ve-n-to/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-vento-6695d3ca45bc2.webp) |
+| Vesper · 维斯珀 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/vesper/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-vesper-6695cdd43284b.webp) |
+| Vieux Carré · 老广场 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/vieux-carre/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-vieux-carre-6694913015248.webp) |
+| Whiskey Sour · 威士忌酸 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/whiskey-sour/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-whiskey-sour-66949132e6ae9.webp) |
+| White Lady · 白色佳人 | The unforgettables | [IBA](https://iba-world.com/iba-cocktail/white-lady/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-white-lady-6694913318105.webp) |
+| Zombie · 僵尸 | Contemporary Classics | [IBA](https://iba-world.com/iba-cocktail/zombie/) | [实拍](https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-zombie-6695cdd6cef05.webp) |

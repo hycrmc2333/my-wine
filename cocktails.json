@@ -1,0 +1,6277 @@
+[
+  {
+    "id": "negroni",
+    "name": "Negroni",
+    "zh": "尼格罗尼",
+    "base": "金酒",
+    "tags": [
+      "苦甜",
+      "草本"
+    ],
+    "color": "#f2dfd4",
+    "method": "直调",
+    "glass": "古典杯",
+    "garnish": "半片橙片",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "金巴利苦酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "甜红味美思",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "冰镇酒杯",
+        "text": "将古典杯预先冰镇，再装入冰块。"
+      },
+      {
+        "title": "等份入杯",
+        "text": "量取金酒、金巴利苦酒和甜红味美思，各 30 ml，直接倒入杯中。"
+      },
+      {
+        "title": "轻搅与装饰",
+        "text": "轻轻搅拌，让原料混合并降温，以半片橙片装饰。"
+      }
+    ],
+    "tip": "记住 1 : 1 : 1，三种原料等份；甜红味美思是配方的一部分。",
+    "source": "https://iba-world.com/iba-cocktail/negroni/",
+    "photo": "assets/photos/negroni.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-negroni-6694911cc3b65.webp",
+    "categoryOriginal": "The unforgettables",
+    "checkedAt": "2026-11-02",
+    "category": "unforgettables",
+    "bases": [
+      "金酒"
+    ]
+  },
+  {
+    "id": "mojito",
+    "name": "Mojito",
+    "zh": "莫吉托",
+    "base": "朗姆酒",
+    "tags": [
+      "薄荷",
+      "清爽"
+    ],
+    "color": "#e7ebd9",
+    "method": "直调",
+    "glass": "高球杯",
+    "garnish": "薄荷枝与青柠片",
+    "ingredients": [
+      {
+        "name": "古巴白朗姆酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜薄荷枝",
+        "amount": 6,
+        "unit": "枝"
+      },
+      {
+        "name": "白蔗糖",
+        "amount": 2,
+        "unit": "茶匙"
+      },
+      {
+        "name": "苏打水",
+        "amount": null,
+        "unit": "",
+        "note": "适量，加至杯中合适位置"
+      }
+    ],
+    "steps": [
+      {
+        "title": "混合薄荷与糖",
+        "text": "在杯中将薄荷枝、白蔗糖和青柠汁混合。"
+      },
+      {
+        "title": "加苏打与冰",
+        "text": "先加少量苏打水，再将冰块装入杯中。"
+      },
+      {
+        "title": "加入朗姆酒",
+        "text": "倒入 45 ml 白朗姆酒，用苏打水补足，轻搅使原料混合。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "放上新鲜薄荷枝与青柠片。"
+      }
+    ],
+    "tip": "IBA 未规定苏打水的固定毫升数，按杯型与冰量补足即可。",
+    "source": "https://iba-world.com/iba-cocktail/mojito/",
+    "photo": "assets/photos/mojito.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-mojito-6695cdc755626.webp",
+    "categoryOriginal": "Contemporary Classics",
+    "checkedAt": "2026-11-02",
+    "category": "contemporary",
+    "bases": [
+      "朗姆酒"
+    ]
+  },
+  {
+    "id": "margarita",
+    "name": "Margarita",
+    "zh": "玛格丽特",
+    "base": "龙舌兰",
+    "tags": [
+      "柑橘",
+      "酸爽"
+    ],
+    "color": "#eee9cd",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "半圈盐口（可选）",
+    "ingredients": [
+      {
+        "name": "100% 龙舌兰酒",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "橙味利口酒 Triple Sec",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "鲜榨青柠汁",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备冷杯",
+        "text": "提前冰镇鸡尾酒杯；需要时，在半边杯口制作盐口。"
+      },
+      {
+        "title": "加冰摇和",
+        "text": "将三种原料量入雪克壶，加入冰块后摇匀。"
+      },
+      {
+        "title": "滤入杯中",
+        "text": "滤去壶内冰块，将酒液倒入冰镇的鸡尾酒杯。"
+      }
+    ],
+    "tip": "这里采用 IBA 的 50 / 20 / 15 ml 配比；盐口是可选项。",
+    "source": "https://iba-world.com/iba-cocktail/margarita/",
+    "photo": "assets/photos/margarita.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-margarita-6695cdd7505e0.webp",
+    "categoryOriginal": "Contemporary Classics",
+    "checkedAt": "2026-11-02",
+    "category": "contemporary",
+    "bases": [
+      "龙舌兰"
+    ]
+  },
+  {
+    "id": "old-fashioned",
+    "name": "Old Fashioned",
+    "zh": "古典鸡尾酒",
+    "base": "威士忌",
+    "tags": [
+      "醇厚",
+      "木质"
+    ],
+    "color": "#ead9c7",
+    "method": "直调",
+    "glass": "古典杯",
+    "garnish": "橙片或橙皮，以及鸡尾酒樱桃",
+    "ingredients": [
+      {
+        "name": "波本或黑麦威士忌",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "方糖",
+        "amount": 1,
+        "unit": "块"
+      },
+      {
+        "name": "安格仕苦精",
+        "amount": null,
+        "unit": "",
+        "note": "少许（few dashes）"
+      },
+      {
+        "name": "饮用水",
+        "amount": null,
+        "unit": "",
+        "note": "少许（few dashes）"
+      }
+    ],
+    "steps": [
+      {
+        "title": "浸润方糖",
+        "text": "把方糖放进古典杯，以少许安格仕苦精浸润，再加少许饮用水。"
+      },
+      {
+        "title": "压碎溶糖",
+        "text": "轻压方糖，直到糖充分溶解。"
+      },
+      {
+        "title": "加冰与威士忌",
+        "text": "杯中加满冰块，倒入 45 ml 威士忌，轻轻搅拌。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "以橙片或橙皮，以及一颗鸡尾酒樱桃装饰。"
+      }
+    ],
+    "tip": "IBA 对苦精与水标注为少许 dashes，并未规定固定毫升数；dash 是一次小幅倾倒，不能直接当作一滴。",
+    "source": "https://iba-world.com/iba-cocktail/old-fashioned/",
+    "photo": "assets/photos/old-fashioned.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-old-fashioned-6694911fce360.webp",
+    "categoryOriginal": "The unforgettables",
+    "checkedAt": "2026-11-02",
+    "category": "unforgettables",
+    "bases": [
+      "威士忌"
+    ]
+  },
+  {
+    "id": "dry-martini",
+    "name": "Dry Martini",
+    "zh": "干马天尼",
+    "base": "金酒",
+    "tags": [
+      "干爽",
+      "草本"
+    ],
+    "color": "#e2e9df",
+    "method": "搅拌",
+    "glass": "马天尼杯",
+    "garnish": "挤入柠檬皮油，或按喜好放绿橄榄",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "干味美思",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备冷杯",
+        "text": "提前冰镇马天尼杯，并在调酒杯中加入冰块。"
+      },
+      {
+        "title": "加酒搅拌",
+        "text": "将 60 ml 金酒和 10 ml 干味美思倒入调酒杯，充分搅拌。"
+      },
+      {
+        "title": "过滤与装饰",
+        "text": "滤入冰镇的马天尼杯，在表面挤入柠檬皮油；也可按喜好用绿橄榄装饰。"
+      }
+    ],
+    "tip": "这款 IBA 配方使用金酒，采用搅拌法；干味美思与甜红味美思不同。",
+    "source": "https://iba-world.com/iba-cocktail/dry-martini/",
+    "photo": "assets/photos/dry-martini.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-dry-martini-6694910fb500c.webp",
+    "categoryOriginal": "The unforgettables",
+    "checkedAt": "2026-11-02",
+    "category": "unforgettables",
+    "bases": [
+      "金酒"
+    ]
+  },
+  {
+    "id": "daiquiri",
+    "name": "Daiquiri",
+    "zh": "戴基里",
+    "base": "朗姆酒",
+    "tags": [
+      "青柠",
+      "轻盈"
+    ],
+    "color": "#e9ebd5",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "古巴白朗姆酒",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "超细砂糖",
+        "amount": 2,
+        "unit": "吧匙"
+      }
+    ],
+    "steps": [
+      {
+        "title": "先把糖溶解",
+        "text": "将朗姆酒、青柠汁和超细砂糖放入雪克壶，先搅拌至糖溶解。"
+      },
+      {
+        "title": "加冰摇和",
+        "text": "加入冰块后充分摇匀。"
+      },
+      {
+        "title": "滤入冷杯",
+        "text": "滤去冰块，倒入冰镇的鸡尾酒杯，无需装饰。"
+      }
+    ],
+    "tip": "IBA 使用 2 吧匙超细砂糖，未将其写成糖浆；先溶糖，再加冰。",
+    "source": "https://iba-world.com/iba-cocktail/daiquiri/",
+    "photo": "assets/photos/daiquiri.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-daiquiri-6694910c5866e.webp",
+    "categoryOriginal": "The unforgettables",
+    "checkedAt": "2026-11-02",
+    "category": "unforgettables",
+    "bases": [
+      "朗姆酒"
+    ]
+  },
+  {
+    "id": "whiskey-sour",
+    "name": "Whiskey Sour",
+    "zh": "威士忌酸",
+    "base": "威士忌",
+    "tags": [
+      "酸甜",
+      "柔滑"
+    ],
+    "color": "#f0e2c8",
+    "method": "摇和",
+    "glass": "Cobbler 杯；加冰版用古典杯",
+    "garnish": "半片橙片与酒渍樱桃，也可选橙皮",
+    "ingredients": [
+      {
+        "name": "波本威士忌",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "糖浆",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "蛋清",
+        "amount": null,
+        "unit": "",
+        "note": "几滴，可选"
+      }
+    ],
+    "steps": [
+      {
+        "title": "量入原料",
+        "text": "将威士忌、柠檬汁和糖浆倒入装有冰块的雪克壶；蛋清按喜好选择。"
+      },
+      {
+        "title": "充分摇和",
+        "text": "摇匀至酒液冷却。使用蛋清时，加大摇和力度，使泡沫融入酒液。"
+      },
+      {
+        "title": "过滤入杯",
+        "text": "滤入 Cobbler 杯；如希望加冰饮用，则滤入装有冰块的古典杯。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "以半片橙片与酒渍樱桃装饰，也可选择橙皮。"
+      }
+    ],
+    "tip": "蛋清是可选项；不加蛋清也符合这里引用的 IBA 配方。",
+    "source": "https://iba-world.com/iba-cocktail/whiskey-sour/",
+    "photo": "assets/photos/whiskey-sour.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-whiskey-sour-66949132e6ae9.webp",
+    "categoryOriginal": "The unforgettables",
+    "checkedAt": "2026-11-02",
+    "category": "unforgettables",
+    "bases": [
+      "威士忌"
+    ]
+  },
+  {
+    "id": "espresso-martini",
+    "name": "Espresso Martini",
+    "zh": "浓缩咖啡马天尼",
+    "base": "伏特加",
+    "tags": [
+      "咖啡",
+      "浓郁"
+    ],
+    "color": "#e4d9d1",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "3 颗咖啡豆",
+    "ingredients": [
+      {
+        "name": "伏特加",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "甘露咖啡利口酒 Kahlúa",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "糖浆",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "浓缩咖啡 Espresso",
+        "amount": 1,
+        "unit": "份",
+        "note": "IBA 标注 1 strong Espresso，未注明毫升数"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备原料",
+        "text": "准备一份浓缩咖啡，并提前冰镇鸡尾酒杯。"
+      },
+      {
+        "title": "加冰摇和",
+        "text": "将伏特加、咖啡利口酒、糖浆和咖啡倒入雪克壶，加冰充分摇和。"
+      },
+      {
+        "title": "过滤与装饰",
+        "text": "滤入冰镇的鸡尾酒杯，以 3 颗咖啡豆装饰。"
+      }
+    ],
+    "tip": "浓缩咖啡按 1 份计，IBA 没有给出固定毫升数。",
+    "source": "https://iba-world.com/iba-cocktail/espresso-martini/",
+    "photo": "assets/photos/espresso-martini.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-espresso-martini-6695d3a172fd3.webp",
+    "categoryOriginal": "New Era",
+    "checkedAt": "2026-11-02",
+    "category": "new-era",
+    "bases": [
+      "伏特加"
+    ]
+  },
+  {
+    "id": "cosmopolitan",
+    "name": "Cosmopolitan",
+    "zh": "大都会",
+    "base": "伏特加",
+    "tags": [
+      "莓果",
+      "柑橘"
+    ],
+    "color": "#efdae0",
+    "method": "摇和",
+    "glass": "大号鸡尾酒杯",
+    "garnish": "柠檬皮卷",
+    "ingredients": [
+      {
+        "name": "柠檬风味伏特加",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "君度橙酒 Cointreau",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "蔓越莓汁",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "备料与加冰",
+        "text": "将四种原料按配方量入装有冰块的雪克壶。"
+      },
+      {
+        "title": "充分摇和",
+        "text": "充分摇匀，使果汁与酒液混合并冷却。"
+      },
+      {
+        "title": "过滤与装饰",
+        "text": "滤入大号鸡尾酒杯，用柠檬皮卷装饰。"
+      }
+    ],
+    "tip": "这版 IBA 配方指定柠檬风味伏特加，并用柠檬皮卷装饰。",
+    "source": "https://iba-world.com/iba-cocktail/cosmopolitan/",
+    "photo": "assets/photos/cosmopolitan.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-cosmopolitan-6695cdae389dc.webp",
+    "categoryOriginal": "Contemporary Classics",
+    "checkedAt": "2026-11-02",
+    "category": "contemporary",
+    "bases": [
+      "伏特加"
+    ]
+  },
+  {
+    "id": "manhattan",
+    "name": "Manhattan",
+    "zh": "曼哈顿",
+    "base": "威士忌",
+    "tags": [
+      "醇厚",
+      "香料"
+    ],
+    "color": "#e6d8d5",
+    "method": "搅拌",
+    "glass": "鸡尾酒杯",
+    "garnish": "鸡尾酒樱桃",
+    "ingredients": [
+      {
+        "name": "黑麦威士忌",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "甜红味美思",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "安格仕苦精",
+        "amount": 1,
+        "unit": "dash",
+        "note": "一次小幅倾倒，不等同于 1 滴"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰与原料",
+        "text": "在调酒杯中加入冰块，再倒入威士忌、甜红味美思和苦精。"
+      },
+      {
+        "title": "充分搅拌",
+        "text": "搅拌至原料混合并冷却。"
+      },
+      {
+        "title": "过滤与装饰",
+        "text": "滤入冰镇的鸡尾酒杯，用一颗鸡尾酒樱桃装饰。"
+      }
+    ],
+    "tip": "IBA 版本指定黑麦威士忌，苦精为 1 dash；dash 指一次小幅倾倒。",
+    "source": "https://iba-world.com/iba-cocktail/manhattan/",
+    "photo": "assets/photos/manhattan.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-manhattan-6694911627de7.webp",
+    "categoryOriginal": "The unforgettables",
+    "checkedAt": "2026-11-02",
+    "category": "unforgettables",
+    "bases": [
+      "威士忌"
+    ]
+  },
+  {
+    "id": "pina-colada",
+    "name": "Piña Colada",
+    "zh": "椰林飘香",
+    "base": "朗姆酒",
+    "tags": [
+      "椰香",
+      "热带"
+    ],
+    "color": "#ede6cf",
+    "method": "搅打",
+    "glass": "大号饮料杯",
+    "garnish": "菠萝片与鸡尾酒樱桃",
+    "ingredients": [
+      {
+        "name": "白朗姆酒",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "椰浆 Coconut Cream",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜菠萝汁",
+        "amount": 50,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "放入搅拌机",
+        "text": "将白朗姆酒、椰浆和菠萝汁倒入电动搅拌机，加入冰块。"
+      },
+      {
+        "title": "搅打混合",
+        "text": "搅打至原料与冰充分融合。"
+      },
+      {
+        "title": "倒杯与装饰",
+        "text": "倒入大号饮料杯，配上吸管，以菠萝片和鸡尾酒樱桃装饰。"
+      }
+    ],
+    "tip": "IBA 注明可用 4 片新鲜菠萝代替菠萝汁；本页默认展示果汁版本。",
+    "source": "https://iba-world.com/iba-cocktail/pina-colada/",
+    "photo": "assets/photos/pina-colada.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-pina-colada-6695cdcabbf00.webp",
+    "categoryOriginal": "Contemporary Classics",
+    "checkedAt": "2026-11-02",
+    "category": "contemporary",
+    "bases": [
+      "朗姆酒"
+    ]
+  },
+  {
+    "id": "moscow-mule",
+    "name": "Moscow Mule",
+    "zh": "莫斯科骡子",
+    "base": "伏特加",
+    "tags": [
+      "姜香",
+      "清爽"
+    ],
+    "color": "#e3e6d5",
+    "method": "直调",
+    "glass": "骡子杯或岩石杯",
+    "garnish": "青柠片",
+    "ingredients": [
+      {
+        "name": "斯米诺伏特加",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "姜汁啤酒 Ginger Beer",
+        "amount": 120,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "混合基底",
+        "text": "在骡子杯或岩石杯中倒入伏特加与姜汁啤酒。"
+      },
+      {
+        "title": "加入青柠",
+        "text": "加入 10 ml 新鲜青柠汁。"
+      },
+      {
+        "title": "轻搅与装饰",
+        "text": "轻轻搅拌，让原料混合，以青柠片装饰。"
+      }
+    ],
+    "tip": "这里的 Ginger Beer 是姜汁啤酒；IBA 方法正文未规定冰量，可参考实拍出品方式。",
+    "source": "https://iba-world.com/iba-cocktail/moscow-mule/",
+    "photo": "assets/photos/moscow-mule.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-moscow-mule-6695cdc7d8cb2.webp",
+    "categoryOriginal": "Contemporary Classics",
+    "checkedAt": "2026-11-02",
+    "category": "contemporary",
+    "bases": [
+      "伏特加"
+    ]
+  },
+  {
+    "id": "alexander",
+    "name": "Alexander",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/alexander/",
+    "photo": "assets/photos/alexander.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-alexander-669491364f7f2.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "亚历山大",
+    "base": "白兰地",
+    "bases": [
+      "白兰地"
+    ],
+    "tags": [
+      "可可",
+      "奶香"
+    ],
+    "color": "#f0e2c8",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "现磨肉豆蔻粉",
+    "ingredients": [
+      {
+        "name": "干邑白兰地",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "棕色可可利口酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "鲜奶油",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰入壶",
+        "text": "将三种原料量入装有冰块的雪克壶。"
+      },
+      {
+        "title": "摇和过滤",
+        "text": "摇匀后滤入冰镇的鸡尾酒杯。"
+      },
+      {
+        "title": "撒上香料",
+        "text": "在表面撒少量现磨肉豆蔻粉。"
+      }
+    ],
+    "tip": "干邑、棕色可可利口酒和鲜奶油等份，表面的肉豆蔻是这版配方的装饰。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "americano",
+    "name": "Americano",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/americano/",
+    "photo": "assets/photos/americano.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-americano-669490fe3cb42.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "美国佬",
+    "base": "利口酒",
+    "bases": [
+      "利口酒",
+      "葡萄酒"
+    ],
+    "tags": [
+      "苦甜",
+      "气泡"
+    ],
+    "color": "#e7ebd9",
+    "method": "直调",
+    "glass": "古典杯",
+    "garnish": "半片橙片与柠檬皮",
+    "ingredients": [
+      {
+        "name": "金巴利苦酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "甜红味美思",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "苏打水",
+        "amount": null,
+        "unit": "",
+        "note": "少许（a splash）"
+      }
+    ],
+    "steps": [
+      {
+        "title": "原料入冰杯",
+        "text": "在装有冰块的古典杯中倒入金巴利与甜红味美思。"
+      },
+      {
+        "title": "补苏打轻搅",
+        "text": "加入少许苏打水，轻轻搅拌。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "放上半片橙片与柠檬皮。"
+      }
+    ],
+    "tip": "苏打水仅标为少许，IBA 未规定固定毫升数。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "angel-face",
+    "name": "Angel Face",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/angel-face/",
+    "photo": "assets/photos/angel-face.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-angel-face-669490fe6df67.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "天使之颜",
+    "base": "混合基酒",
+    "bases": [
+      "金酒",
+      "白兰地"
+    ],
+    "tags": [
+      "苹果",
+      "杏香"
+    ],
+    "color": "#e6d8d5",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "杏子白兰地利口酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "卡尔瓦多斯苹果白兰地",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "量入原料",
+        "text": "将金酒、杏子白兰地利口酒与卡尔瓦多斯倒入装有冰块的雪克壶。"
+      },
+      {
+        "title": "摇和出杯",
+        "text": "摇匀后滤入冰镇的鸡尾酒杯。"
+      }
+    ],
+    "tip": "三种酒各取一份；Calvados 指卡尔瓦多斯苹果白兰地。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "aviation",
+    "name": "Aviation",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/aviation/",
+    "photo": "assets/photos/aviation.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-aviation-66949102296a4.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "飞行",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "花香",
+      "柑橘"
+    ],
+    "color": "#e2e9df",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "马拉斯奇诺樱桃（可选）",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "卢萨多马拉斯奇诺樱桃利口酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "紫罗兰利口酒",
+        "amount": 1,
+        "unit": "吧匙"
+      }
+    ],
+    "steps": [
+      {
+        "title": "入壶加碎冰",
+        "text": "将所有原料量入雪克壶，加入敲碎的冰块。"
+      },
+      {
+        "title": "摇和过滤",
+        "text": "摇匀后滤入冰镇的鸡尾酒杯。"
+      },
+      {
+        "title": "按需装饰",
+        "text": "可放一颗马拉斯奇诺樱桃。"
+      }
+    ],
+    "tip": "紫罗兰利口酒按 1 吧匙计，不要自动换算成固定毫升数。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "bees-knees",
+    "name": "Bee’s Knees",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/bees-knees/",
+    "photo": "assets/photos/bees-knees.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-bees-knees-6695d397e26c1.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "蜂之膝",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "蜂蜜",
+      "柑橘"
+    ],
+    "color": "#e2e9df",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "柠檬皮或橙皮（可选）",
+    "ingredients": [
+      {
+        "name": "干金酒",
+        "amount": 52.5,
+        "unit": "ml"
+      },
+      {
+        "name": "蜂蜜糖浆",
+        "amount": 2,
+        "unit": "茶匙"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜橙汁",
+        "amount": 22.5,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "先混合蜂蜜",
+        "text": "将蜂蜜糖浆与柠檬汁、橙汁充分搅匀。"
+      },
+      {
+        "title": "加酒摇和",
+        "text": "加入干金酒与冰块，摇匀。"
+      },
+      {
+        "title": "滤入冷杯",
+        "text": "滤入冰镇的鸡尾酒杯，可用柠檬皮或橙皮装饰。"
+      }
+    ],
+    "tip": "这里忠实采用当前 IBA 页面：包含橙汁与柠檬汁各 22.5 ml，蜂蜜糖浆为 2 茶匙。",
+    "category": "new-era"
+  },
+  {
+    "id": "bellini",
+    "name": "Bellini",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/bellini/",
+    "photo": "assets/photos/bellini.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-bellini-6695cda4217da.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "贝里尼",
+    "base": "葡萄酒",
+    "bases": [
+      "葡萄酒"
+    ],
+    "tags": [
+      "白桃",
+      "气泡"
+    ],
+    "color": "#eee9cd",
+    "method": "搅拌",
+    "glass": "香槟笛形杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "普罗塞克起泡酒",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "白桃果泥",
+        "amount": 50,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "混合果泥与酒",
+        "text": "在装有冰块的调酒杯中加入白桃果泥，再倒入普罗塞克。"
+      },
+      {
+        "title": "轻搅倒杯",
+        "text": "轻轻搅拌后，倒入冰镇的香槟笛形杯。"
+      }
+    ],
+    "tip": "IBA 的变体以其他果汁或果泥替换白桃，不是额外加入。",
+    "category": "contemporary",
+    "recipeNotes": [
+      {
+        "title": "同系变体",
+        "text": "Puccini 用新鲜橘子汁；Rossini 用新鲜草莓果泥；Tintoretto 用新鲜石榴汁，分别替换白桃果泥。"
+      }
+    ]
+  },
+  {
+    "id": "between-the-sheets",
+    "name": "Between the Sheets",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/between-the-sheets/",
+    "photo": "assets/photos/between-the-sheets.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-between-the-sheets-669491023d7af.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "床笫之间",
+    "base": "混合基酒",
+    "bases": [
+      "朗姆酒",
+      "白兰地"
+    ],
+    "tags": [
+      "柑橘",
+      "醇香"
+    ],
+    "color": "#e6d8d5",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "白朗姆酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "干邑白兰地",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "橙味利口酒 Triple Sec",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "量入原料",
+        "text": "将四种原料放入雪克壶。"
+      },
+      {
+        "title": "加冰摇和",
+        "text": "加冰摇匀后，滤入冰镇的鸡尾酒杯。"
+      }
+    ],
+    "tip": "白朗姆、干邑与橙味利口酒等量，柠檬汁为 20 ml。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "black-russian",
+    "name": "Black Russian",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/black-russian/",
+    "photo": "assets/photos/black-russian.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-black-russian-6695cda4183dc.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "黑俄罗斯",
+    "base": "伏特加",
+    "bases": [
+      "伏特加"
+    ],
+    "tags": [
+      "咖啡",
+      "浓郁"
+    ],
+    "color": "#efdae0",
+    "method": "直调",
+    "glass": "古典杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "伏特加",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "咖啡利口酒",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "倒入冰杯",
+        "text": "将伏特加和咖啡利口酒倒入装有冰块的古典杯。"
+      },
+      {
+        "title": "轻搅混合",
+        "text": "轻轻搅拌，使两种酒融合。"
+      },
+      {
+        "title": "按官网顺序出杯",
+        "text": "将混合酒液滤入装有冰块的古典杯。"
+      }
+    ],
+    "tip": "白俄罗斯变体是在表面加入鲜奶油，再缓慢搅入。",
+    "category": "contemporary",
+    "recipeNotes": [
+      {
+        "title": "白俄罗斯变体",
+        "text": "White Russian：在酒液上层浮入鲜奶油，再慢慢搅入；官网未规定此处奶油的用量。"
+      }
+    ],
+    "sourceNote": "IBA 方法正文同时写有直接倒入冰杯与搅拌后滤入冰杯，本页保留这两项操作。"
+  },
+  {
+    "id": "bloody-mary",
+    "name": "Bloody Mary",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/bloody-mary/",
+    "photo": "assets/photos/bloody-mary.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-bloody-mary-6695cda72fe0f.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "血腥玛丽",
+    "base": "伏特加",
+    "bases": [
+      "伏特加"
+    ],
+    "tags": [
+      "番茄",
+      "咸鲜"
+    ],
+    "color": "#efdae0",
+    "method": "搅拌",
+    "glass": "岩石杯；加冰饮用用高球杯",
+    "garnish": "芹菜与柠檬角（可选）",
+    "ingredients": [
+      {
+        "name": "伏特加",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "番茄汁",
+        "amount": 90,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "伍斯特酱 Worcestershire Sauce",
+        "amount": 2,
+        "unit": "dash",
+        "note": "一次小幅倾倒为 1 dash，不等于一滴"
+      },
+      {
+        "name": "塔巴斯科辣椒汁、芹菜盐与胡椒",
+        "amount": null,
+        "unit": "",
+        "note": "按口味适量"
+      }
+    ],
+    "steps": [
+      {
+        "title": "冰镇混合",
+        "text": "将全部原料放入装有冰块的调酒杯，轻轻搅匀。"
+      },
+      {
+        "title": "选择杯型",
+        "text": "倒入岩石杯；若需要加冰饮用，按 IBA 备注改用高球杯。"
+      },
+      {
+        "title": "按需装饰",
+        "text": "可加芹菜与柠檬角。"
+      }
+    ],
+    "tip": "辣椒汁、芹菜盐与胡椒均按口味调整，IBA 没有为它们规定固定数量。",
+    "category": "contemporary"
+  },
+  {
+    "id": "boulevardier",
+    "name": "Boulevardier",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/boulevardier/",
+    "photo": "assets/photos/boulevardier.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-boulevardier-6694910552acd.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "林荫大道",
+    "base": "威士忌",
+    "bases": [
+      "威士忌"
+    ],
+    "tags": [
+      "苦甜",
+      "醇厚"
+    ],
+    "color": "#ead9c7",
+    "method": "搅拌",
+    "glass": "鸡尾酒杯",
+    "garnish": "橙皮；也可选柠檬皮",
+    "ingredients": [
+      {
+        "name": "波本或黑麦威士忌",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "金巴利苦酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "甜红味美思",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "入杯搅拌",
+        "text": "将全部原料倒入装有冰块的调酒杯，充分搅拌。"
+      },
+      {
+        "title": "过滤装饰",
+        "text": "滤入冰镇的鸡尾酒杯，以橙皮装饰，也可选柠檬皮。"
+      }
+    ],
+    "tip": "威士忌可选波本或黑麦；本版用量为 45 / 30 / 30 ml。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "bramble",
+    "name": "Bramble",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/bramble/",
+    "photo": "assets/photos/bramble.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-bramble-6695d398036e1.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "黑莓",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "莓果",
+      "酸甜"
+    ],
+    "color": "#e2e9df",
+    "method": "摇和",
+    "glass": "古典杯",
+    "garnish": "柠檬片与黑莓（可选）",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "糖浆",
+        "amount": 12.5,
+        "unit": "ml"
+      },
+      {
+        "name": "黑莓利口酒 Crème de Mûre",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "摇和基底",
+        "text": "将金酒、柠檬汁和糖浆入壶，加冰摇匀；黑莓利口酒先保留。"
+      },
+      {
+        "title": "滤入碎冰杯",
+        "text": "滤入冰镇、装满碎冰的古典杯。"
+      },
+      {
+        "title": "最后淋入黑莓酒",
+        "text": "沿酒面画圈淋入黑莓利口酒；可用柠檬片与黑莓装饰。"
+      }
+    ],
+    "tip": "黑莓利口酒最后从酒面淋入，不与其余原料一起摇和。",
+    "category": "new-era"
+  },
+  {
+    "id": "brandy-crusta",
+    "name": "Brandy Crusta",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/brandy-crusta/",
+    "photo": "assets/photos/brandy-crusta.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-brandy-crusta-6694910571bcb.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "白兰地克鲁斯塔",
+    "base": "白兰地",
+    "bases": [
+      "白兰地"
+    ],
+    "tags": [
+      "柑橘",
+      "甜香"
+    ],
+    "color": "#f0e2c8",
+    "method": "搅拌",
+    "glass": "细长鸡尾酒杯",
+    "garnish": "白砂糖杯口；杯内一圈橙皮或柠檬皮",
+    "ingredients": [
+      {
+        "name": "白兰地",
+        "amount": 52.5,
+        "unit": "ml"
+      },
+      {
+        "name": "卢萨多马拉斯奇诺樱桃利口酒",
+        "amount": 7.5,
+        "unit": "ml"
+      },
+      {
+        "name": "库拉索橙味利口酒",
+        "amount": 1,
+        "unit": "吧匙"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "单糖浆",
+        "amount": 1,
+        "unit": "吧匙"
+      },
+      {
+        "name": "芳香苦精",
+        "amount": 2,
+        "unit": "dash",
+        "note": "dash 为一次小幅倾倒，不等于一滴"
+      }
+    ],
+    "steps": [
+      {
+        "title": "制作糖口与果皮圈",
+        "text": "用橙片或柠檬片擦拭杯口，蘸上磨细白砂糖；将果皮小心卷在杯内侧。"
+      },
+      {
+        "title": "加冰混合",
+        "text": "将配方原料放入装有冰块的调酒杯，混合均匀。"
+      },
+      {
+        "title": "滤入备好的杯子",
+        "text": "将酒液滤入已完成糖口与果皮装饰的细长鸡尾酒杯。"
+      }
+    ],
+    "tip": "库拉索和单糖浆各为 1 吧匙；杯口白砂糖是装饰用量，官网未给出定量。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "caipirinha",
+    "name": "Caipirinha",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/caipirinha/",
+    "photo": "assets/photos/caipirinha.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-caipirinha-6695cda74b13a.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "凯匹林纳",
+    "base": "其他",
+    "bases": [
+      "其他"
+    ],
+    "tags": [
+      "青柠",
+      "甘蔗"
+    ],
+    "color": "#e3e6d5",
+    "method": "直调",
+    "glass": "双份古典杯",
+    "garnish": "无需另加装饰",
+    "ingredients": [
+      {
+        "name": "卡莎萨甘蔗蒸馏酒 Cachaça",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "青柠",
+        "amount": 1,
+        "unit": "个",
+        "note": "切成小角"
+      },
+      {
+        "name": "白蔗糖",
+        "amount": 4,
+        "unit": "茶匙"
+      }
+    ],
+    "steps": [
+      {
+        "title": "轻捣青柠与糖",
+        "text": "将青柠角和白蔗糖放入双份古典杯，轻轻捣压。"
+      },
+      {
+        "title": "加冰与卡莎萨",
+        "text": "加满敲碎的冰块，倒入卡莎萨。"
+      },
+      {
+        "title": "轻搅混合",
+        "text": "轻搅，使酒液、糖与青柠充分融合。"
+      }
+    ],
+    "tip": "原版使用卡莎萨，不把它直接当成白朗姆酒。",
+    "category": "contemporary",
+    "recipeNotes": [
+      {
+        "title": "替换变体",
+        "text": "用伏特加代替卡莎萨为 Caipiroska；用朗姆酒为 Caipirissima；用 Licor Beirão 为 Caipirão。"
+      }
+    ]
+  },
+  {
+    "id": "canchanchara",
+    "name": "Canchanchara",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/canchanchara/",
+    "photo": "assets/photos/canchanchara.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-canchanchara-6695d39b24d7e.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "坎钱查拉",
+    "base": "其他",
+    "bases": [
+      "其他"
+    ],
+    "tags": [
+      "蜂蜜",
+      "青柠"
+    ],
+    "color": "#e3e6d5",
+    "method": "直调",
+    "glass": "酒杯（官网未指定杯型）",
+    "garnish": "青柠角",
+    "ingredients": [
+      {
+        "name": "古巴甘蔗蒸馏酒 Aguardiente",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "原蜜",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "饮用水",
+        "amount": 50,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "混合蜂蜜与果汁",
+        "text": "将蜂蜜、水和青柠汁混匀，使混合液接触杯底及杯壁。"
+      },
+      {
+        "title": "加碎冰与基酒",
+        "text": "加入敲碎的冰块，再倒入古巴 Aguardiente。"
+      },
+      {
+        "title": "上下搅拌",
+        "text": "从杯底向上有力搅拌混合，以青柠角装饰。"
+      }
+    ],
+    "tip": "先把蜂蜜、水与青柠汁混合，再加入冰与基酒。",
+    "category": "new-era",
+    "sourceNote": "原料栏写 Cuban Aguardiente，方法段落称 rum；这里按原料栏保留 Aguardiente。官网方法未指定杯型。"
+  },
+  {
+    "id": "cardinale",
+    "name": "Cardinale",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/cardinale/",
+    "photo": "assets/photos/cardinale.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-cardinale-6695cdaa5f0d8.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "红衣主教",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "苦味",
+      "干爽"
+    ],
+    "color": "#e2e9df",
+    "method": "搅拌",
+    "glass": "鸡尾酒杯",
+    "garnish": "柠檬皮",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "干味美思",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "金巴利苦酒",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰搅拌",
+        "text": "将全部原料倒入装有冰块的调酒杯，充分搅拌。"
+      },
+      {
+        "title": "过滤与装饰",
+        "text": "滤入冰镇的鸡尾酒杯，以柠檬皮装饰。"
+      }
+    ],
+    "tip": "这里使用干味美思，配比为金酒 40 ml、干味美思 20 ml、金巴利 10 ml。",
+    "category": "contemporary"
+  },
+  {
+    "id": "casino",
+    "name": "Casino",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/casino/",
+    "photo": "assets/photos/casino.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-casino-6694910882cd6.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "卡西诺",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "柑橘",
+      "樱桃"
+    ],
+    "color": "#e2e9df",
+    "method": "摇和",
+    "glass": "岩石杯",
+    "garnish": "柠檬皮与马拉斯奇诺樱桃",
+    "ingredients": [
+      {
+        "name": "老汤姆金酒 Old Tom Gin",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "卢萨多马拉斯奇诺樱桃利口酒",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "橙味苦精",
+        "amount": 2,
+        "unit": "dash",
+        "note": "dash 为一次小幅倾倒，不等于一滴"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将全部原料倒入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "滤入冰杯",
+        "text": "滤入冰镇、装有冰块的岩石杯。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "以柠檬皮与马拉斯奇诺樱桃装饰。"
+      }
+    ],
+    "tip": "IBA 指定 Old Tom Gin，并用装有冰块的岩石杯出品。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "champagne-cocktail",
+    "name": "Champagne Cocktail",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/champagne-cocktail/",
+    "photo": "assets/photos/champagne-cocktail.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-champagne-cocktail-6695cdaa71bb2.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "香槟鸡尾酒",
+    "base": "葡萄酒",
+    "bases": [
+      "葡萄酒"
+    ],
+    "tags": [
+      "气泡",
+      "果香"
+    ],
+    "color": "#eee9cd",
+    "method": "直调",
+    "glass": "大号香槟杯",
+    "garnish": "橙皮与马拉斯奇诺樱桃",
+    "ingredients": [
+      {
+        "name": "冰镇香槟",
+        "amount": 90,
+        "unit": "ml"
+      },
+      {
+        "name": "干邑白兰地",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "安格仕苦精",
+        "amount": 2,
+        "unit": "dash",
+        "note": "dash 为一次小幅倾倒，不等于一滴"
+      },
+      {
+        "name": "柑曼怡橙酒 Grand Marnier",
+        "amount": null,
+        "unit": "",
+        "note": "几滴，可选"
+      },
+      {
+        "name": "方糖",
+        "amount": 1,
+        "unit": "块"
+      }
+    ],
+    "steps": [
+      {
+        "title": "以苦精浸润方糖",
+        "text": "把方糖与 2 dash 苦精放入大号香槟杯。"
+      },
+      {
+        "title": "加入干邑",
+        "text": "倒入干邑；如选用柑曼怡，加入几滴。"
+      },
+      {
+        "title": "缓缓倒香槟",
+        "text": "轻缓倒入冰镇香槟，以橙皮与马拉斯奇诺樱桃装饰。"
+      }
+    ],
+    "tip": "柑曼怡仅为可选的几滴，不是额外一份定量基酒。",
+    "category": "contemporary"
+  },
+  {
+    "id": "chartreuse-swizzle",
+    "name": "Chartreuse Swizzle",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/chartreuse-swizzle/",
+    "photo": "assets/photos/chartreuse-swizzle.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-chartreuse-swizzle-6695d39b326e0.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "查特酒旋调",
+    "base": "利口酒",
+    "bases": [
+      "利口酒"
+    ],
+    "tags": [
+      "草本",
+      "热带"
+    ],
+    "color": "#e7ebd9",
+    "method": "旋调",
+    "glass": "高杯",
+    "garnish": "薄荷叶与磨碎肉豆蔻",
+    "ingredients": [
+      {
+        "name": "绿查特利口酒 Green Chartreuse",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜菠萝汁",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "法勒南糖酒 Falernum",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "原料入杯",
+        "text": "将全部原料倒入高杯，加入颗粒冰。"
+      },
+      {
+        "title": "旋搅混合",
+        "text": "用旋搅棒或吧匙有力混合，再加颗粒冰至合适位置。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "以薄荷叶与磨碎肉豆蔻装饰。"
+      }
+    ],
+    "tip": "Falernum 是独立配方原料；旋搅后还需补入颗粒冰。",
+    "category": "new-era"
+  },
+  {
+    "id": "clover-club",
+    "name": "Clover Club",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/clover-club/",
+    "photo": "assets/photos/clover-club.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-clover-club-66949108a3e54.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "三叶草俱乐部",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "覆盆子",
+      "柔滑"
+    ],
+    "color": "#e2e9df",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "新鲜覆盆子",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "覆盆子糖浆",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "蛋清",
+        "amount": null,
+        "unit": "",
+        "note": "几滴；官网未给定量"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将所有原料倒入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "过滤入杯",
+        "text": "滤入冰镇的鸡尾酒杯。"
+      },
+      {
+        "title": "放上覆盆子",
+        "text": "以新鲜覆盆子装饰。"
+      }
+    ],
+    "tip": "这版 IBA 写的是几滴蛋清，未规定整颗蛋清或固定毫升数。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "corpse-reviver-2",
+    "name": "Corpse Reviver #2",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/corpse-reviver-2/",
+    "photo": "assets/photos/corpse-reviver-2.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-corpse-reviver-2-6695cdad6da15.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "亡者复苏二号",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "柑橘",
+      "草本"
+    ],
+    "color": "#e2e9df",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "橙皮",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "君度橙酒 Cointreau",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "丽叶白开胃酒 Lillet Blanc",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "苦艾酒 Absinthe",
+        "amount": 1,
+        "unit": "dash",
+        "note": "一次小幅倾倒，不等于一滴"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将全部原料倒入装有冰块的雪克壶，充分摇匀。"
+      },
+      {
+        "title": "过滤与装饰",
+        "text": "滤入冰镇的鸡尾酒杯，以橙皮装饰。"
+      }
+    ],
+    "tip": "前四种原料各 30 ml；苦艾酒按 1 dash 计。",
+    "category": "contemporary"
+  },
+  {
+    "id": "cuba-libre",
+    "name": "Cuba Libre",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/cuba-libre/",
+    "photo": "assets/photos/cuba-libre.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-cuba-libre-6695cdb0a6f80.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "自由古巴",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "青柠",
+      "可乐"
+    ],
+    "color": "#e9ebd5",
+    "method": "直调",
+    "glass": "高球杯",
+    "garnish": "青柠角",
+    "ingredients": [
+      {
+        "name": "白朗姆酒",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "可乐",
+        "amount": 120,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备冰杯",
+        "text": "在高球杯中加入冰块。"
+      },
+      {
+        "title": "直接混合",
+        "text": "把白朗姆、可乐和青柠汁按配方直接加入杯中。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "以青柠角装饰。"
+      }
+    ],
+    "tip": "本版除朗姆与可乐外，还有 10 ml 新鲜青柠汁。",
+    "category": "contemporary"
+  },
+  {
+    "id": "dark-n-stormy",
+    "name": "Dark ‘N’ Stormy",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/dark-n-stormy/",
+    "photo": "assets/photos/dark-n-stormy.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-dark-n-stormy-6695d39e2bd94.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "黑暗风暴",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "姜香",
+      "醇厚"
+    ],
+    "color": "#e9ebd5",
+    "method": "直调",
+    "glass": "高球杯",
+    "garnish": "青柠角或青柠片",
+    "ingredients": [
+      {
+        "name": "高斯林朗姆酒 Goslings Rum",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "姜汁啤酒 Ginger Beer",
+        "amount": 100,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "先倒姜汁啤酒",
+        "text": "在装有冰块的高球杯中倒入姜汁啤酒。"
+      },
+      {
+        "title": "浮入朗姆酒",
+        "text": "将朗姆酒浮在上层，以青柠角或青柠片装饰。"
+      }
+    ],
+    "tip": "IBA 指定 Goslings Rum；方法要求先倒姜汁啤酒，再浮入朗姆酒。",
+    "category": "new-era"
+  },
+  {
+    "id": "dons-special-daiquiri",
+    "name": "Don's Special Daiquiri",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/dons-special-daiquiri/",
+    "photo": "assets/photos/dons-special-daiquiri.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-dons-special-daiquiri-6695d39e89fd7.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "唐氏特调戴基里",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "百香果",
+      "蜂蜜"
+    ],
+    "color": "#e9ebd5",
+    "method": "搅打",
+    "glass": "带脚 Copo 杯",
+    "garnish": "半个百香果",
+    "ingredients": [
+      {
+        "name": "牙买加金朗姆酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "古巴朗姆酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "百香果糖浆",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "蜂蜜糖浆",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "短暂搅打",
+        "text": "将原料与碎冰放入奶昔搅拌机，搅打数秒。"
+      },
+      {
+        "title": "倒入杯中补冰",
+        "text": "倒入带脚 Copo 杯，再补满碎冰。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "以半个百香果装饰。"
+      }
+    ],
+    "tip": "这里使用奶昔搅拌机与碎冰，官网只要求搅打数秒。",
+    "category": "new-era"
+  },
+  {
+    "id": "fernandito",
+    "name": "Fernandito",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/fernandito/",
+    "photo": "assets/photos/fernandito.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-fernandito-6695d3a1a3586.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "费尔南迪托",
+    "base": "利口酒",
+    "bases": [
+      "利口酒"
+    ],
+    "tags": [
+      "草本",
+      "可乐"
+    ],
+    "color": "#e7ebd9",
+    "method": "直调",
+    "glass": "双份古典杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "菲奈特布兰卡苦味利口酒 Fernet Branca",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "可乐",
+        "amount": null,
+        "unit": "",
+        "note": "补足杯中合适位置"
+      }
+    ],
+    "steps": [
+      {
+        "title": "先倒苦味酒",
+        "text": "在装有冰块的双份古典杯中倒入 Fernet Branca。"
+      },
+      {
+        "title": "补可乐轻搅",
+        "text": "用可乐补足，轻轻搅拌。"
+      }
+    ],
+    "tip": "可乐为补足用量，IBA 未给出固定毫升数。",
+    "category": "new-era"
+  },
+  {
+    "id": "french-75",
+    "name": "French 75",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/french-75/",
+    "photo": "assets/photos/french-75.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-french-75-6695cdb175e06.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "法式七五",
+    "base": "混合基酒",
+    "bases": [
+      "金酒",
+      "葡萄酒"
+    ],
+    "tags": [
+      "柑橘",
+      "气泡"
+    ],
+    "color": "#e6d8d5",
+    "method": "摇和后兑入",
+    "glass": "香槟笛形杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "糖浆",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "香槟",
+        "amount": 60,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "先摇和基底",
+        "text": "将金酒、柠檬汁与糖浆放入雪克壶摇匀，香槟先保留。"
+      },
+      {
+        "title": "滤入笛形杯",
+        "text": "将基底滤入香槟笛形杯。"
+      },
+      {
+        "title": "加入香槟",
+        "text": "倒入香槟，轻轻搅拌。"
+      }
+    ],
+    "tip": "香槟最后兑入，不随其他原料一起摇和。",
+    "category": "contemporary"
+  },
+  {
+    "id": "french-connection",
+    "name": "French Connection",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/french-connection/",
+    "photo": "assets/photos/french-connection.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-french-connection-6695cdb3cc15f.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "法国连接",
+    "base": "白兰地",
+    "bases": [
+      "白兰地"
+    ],
+    "tags": [
+      "杏仁",
+      "醇香"
+    ],
+    "color": "#f0e2c8",
+    "method": "直调",
+    "glass": "古典杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "干邑白兰地",
+        "amount": 35,
+        "unit": "ml"
+      },
+      {
+        "name": "阿玛雷托杏仁利口酒",
+        "amount": 35,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "入杯",
+        "text": "将两种酒直接倒入装有冰块的古典杯。"
+      },
+      {
+        "title": "轻搅",
+        "text": "轻轻搅拌，使两种原料融合。"
+      }
+    ],
+    "tip": "干邑与杏仁利口酒等量，各为 35 ml。",
+    "category": "contemporary"
+  },
+  {
+    "id": "french-martini",
+    "name": "French Martini",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/french-martini/",
+    "photo": "assets/photos/french-martini.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-french-martini-6695d3a4acf5f.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "法式马天尼",
+    "base": "伏特加",
+    "bases": [
+      "伏特加"
+    ],
+    "tags": [
+      "莓果",
+      "菠萝"
+    ],
+    "color": "#efdae0",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "在酒面挤入柠檬皮油",
+    "ingredients": [
+      {
+        "name": "伏特加",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "覆盆子利口酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜菠萝汁",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将全部原料倒入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "过滤入冷杯",
+        "text": "滤入冰镇的鸡尾酒杯。"
+      },
+      {
+        "title": "挤入皮油",
+        "text": "在酒面挤入柠檬皮油。"
+      }
+    ],
+    "tip": "这里用覆盆子利口酒；配方中的菠萝汁与利口酒各为 15 ml。",
+    "category": "new-era"
+  },
+  {
+    "id": "garibaldi",
+    "name": "Garibaldi",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/garibaldi/",
+    "photo": "assets/photos/garibaldi.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-garibaldi-6695cdb4cbf81.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "加里波第",
+    "base": "利口酒",
+    "bases": [
+      "利口酒"
+    ],
+    "tags": [
+      "橙香",
+      "苦甜"
+    ],
+    "color": "#e7ebd9",
+    "method": "直调",
+    "glass": "高球杯",
+    "garnish": "橙角",
+    "ingredients": [
+      {
+        "name": "金巴利苦酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "鲜榨橙汁",
+        "amount": 120,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备冰杯",
+        "text": "在高球杯中加入冰块。"
+      },
+      {
+        "title": "倒入原料",
+        "text": "直接加入金巴利和鲜榨橙汁，以橙角装饰。"
+      }
+    ],
+    "tip": "IBA 配方只有金巴利和鲜榨橙汁两种定量原料。",
+    "category": "contemporary"
+  },
+  {
+    "id": "gin-basil-smash",
+    "name": "Gin Basil Smash",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/gin-basil-smash/",
+    "photo": "assets/photos/gin-basil-smash.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-gin-basil-smash-6695d3a4c0967.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "金酒罗勒司马殊",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "罗勒",
+      "清新"
+    ],
+    "color": "#e2e9df",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "糖浆",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "意大利罗勒叶",
+        "amount": 10,
+        "unit": "片"
+      }
+    ],
+    "steps": [
+      {
+        "title": "全部入壶",
+        "text": "将原料与冰块一起放入雪克壶。"
+      },
+      {
+        "title": "用力摇和",
+        "text": "充分用力摇匀，倒入冰镇的鸡尾酒杯。"
+      }
+    ],
+    "tip": "此 IBA 方法直接将罗勒与其他原料一起摇和，未另列捣压步骤。",
+    "category": "new-era"
+  },
+  {
+    "id": "gin-fizz",
+    "name": "Gin Fizz",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/gin-fizz/",
+    "photo": "assets/photos/gin-fizz.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-gin-fizz-6694910fc2eab.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "金菲士",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "柠檬",
+      "气泡"
+    ],
+    "color": "#e2e9df",
+    "method": "摇和后兑入",
+    "glass": "细长平底杯",
+    "garnish": "柠檬片，也可选柠檬皮",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "单糖浆",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "苏打水",
+        "amount": null,
+        "unit": "",
+        "note": "少许（a splash）"
+      }
+    ],
+    "steps": [
+      {
+        "title": "摇和基底",
+        "text": "将除苏打水外的原料加冰摇匀。"
+      },
+      {
+        "title": "倒杯补苏打",
+        "text": "倒入细长平底杯，加少许苏打水。"
+      },
+      {
+        "title": "不留冰出品",
+        "text": "按 IBA 备注不带冰出品，以柠檬片或柠檬皮装饰。"
+      }
+    ],
+    "tip": "冰用于摇和降温；IBA 明确注明出品时不带冰。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "grand-margarita",
+    "name": "Grand Margarita",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/grand-margarita/",
+    "photo": "assets/photos/grand-margarita.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-tommys-margarita-6695d3c7171ef.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "柑曼怡玛格丽特",
+    "base": "龙舌兰",
+    "bases": [
+      "龙舌兰"
+    ],
+    "tags": [
+      "柑橘",
+      "酸爽"
+    ],
+    "color": "#eee9cd",
+    "method": "摇和",
+    "glass": "岩石杯",
+    "garnish": "海盐杯口与青柠片",
+    "ingredients": [
+      {
+        "name": "100% 龙舌兰酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "柑曼怡橙酒 Grand Marnier",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "制作盐口",
+        "text": "以优质海盐制作岩石杯盐口。"
+      },
+      {
+        "title": "加冰摇和",
+        "text": "把原料倒入雪克壶，杯子与壶内都加入冰块，用力摇和 10 秒。"
+      },
+      {
+        "title": "过滤与装饰",
+        "text": "滤入备好的冰杯，以青柠片装饰。"
+      }
+    ],
+    "tip": "这版 IBA 指定 Grand Marnier，并明确写出用力摇和 10 秒。",
+    "category": "new-era",
+    "sourceNote": "IBA 官网为本酒与 Tommy’s Margarita 使用同一张展示图；配方仍按各自酒款页列出。"
+  },
+  {
+    "id": "grasshopper",
+    "name": "Grasshopper",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/grasshopper/",
+    "photo": "assets/photos/grasshopper.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-grasshopper-6695cdb737498.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "蚱蜢",
+    "base": "利口酒",
+    "bases": [
+      "利口酒"
+    ],
+    "tags": [
+      "薄荷",
+      "奶香"
+    ],
+    "color": "#e7ebd9",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "可不装饰，也可放薄荷叶",
+    "ingredients": [
+      {
+        "name": "白色可可利口酒",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "绿色薄荷利口酒",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "鲜奶油",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰入壶",
+        "text": "将三种原料倒入装有冰块的雪克壶。"
+      },
+      {
+        "title": "短暂摇和出杯",
+        "text": "快速摇和数秒，滤入冰镇的鸡尾酒杯；可用薄荷叶装饰。"
+      }
+    ],
+    "tip": "白色可可利口酒、绿色薄荷利口酒与鲜奶油各取等份。",
+    "category": "contemporary"
+  },
+  {
+    "id": "hanky-panky",
+    "name": "Hanky Panky",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/hanky-panky/",
+    "photo": "assets/photos/hanky-panky.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-hanky-panky-66949112edbf5.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "花招",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "草本",
+      "苦甜"
+    ],
+    "color": "#e2e9df",
+    "method": "搅拌",
+    "glass": "鸡尾酒杯",
+    "garnish": "橙皮",
+    "ingredients": [
+      {
+        "name": "伦敦干金酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "甜红味美思",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "菲奈特苦味利口酒 Fernet",
+        "amount": 7.5,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰搅拌",
+        "text": "将全部原料倒入装有冰块的调酒杯，充分搅拌。"
+      },
+      {
+        "title": "过滤与装饰",
+        "text": "滤入冰镇的鸡尾酒杯，以橙皮装饰。"
+      }
+    ],
+    "tip": "Fernet 的用量为 7.5 ml，金酒与甜红味美思各 45 ml。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "hemingway-special",
+    "name": "Hemingway Special",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/hemingway-special/",
+    "photo": "assets/photos/hemingway-special.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-hemingway-special-6695cdb814e5a.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "海明威特调",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "西柚",
+      "柑橘"
+    ],
+    "color": "#e9ebd5",
+    "method": "摇和",
+    "glass": "大号鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "朗姆酒",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "西柚汁",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "卢萨多马拉斯奇诺樱桃利口酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 15,
+        "unit": "ml",
+        "note": "官网原料名简写为 Fresh Lime，按 ml 计"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将所有原料倒入装有冰块的雪克壶，充分摇匀。"
+      },
+      {
+        "title": "过滤出杯",
+        "text": "滤入大号鸡尾酒杯，无需装饰。"
+      }
+    ],
+    "tip": "此 IBA 配方没有另外列糖浆，甜味原料包含马拉斯奇诺利口酒。",
+    "category": "contemporary"
+  },
+  {
+    "id": "horses-neck",
+    "name": "Horse’s Neck",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/horses-neck/",
+    "photo": "assets/photos/horses-neck.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-horses-neck-6695cdba5fadc.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "马颈",
+    "base": "白兰地",
+    "bases": [
+      "白兰地"
+    ],
+    "tags": [
+      "姜香",
+      "柠檬"
+    ],
+    "color": "#f0e2c8",
+    "method": "直调",
+    "glass": "高球杯",
+    "garnish": "一整颗柠檬的螺旋长皮",
+    "ingredients": [
+      {
+        "name": "干邑白兰地",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "姜汁汽水 Ginger Ale",
+        "amount": 120,
+        "unit": "ml"
+      },
+      {
+        "name": "安格仕苦精",
+        "amount": null,
+        "unit": "",
+        "note": "少许 dash，可选；一次小幅倾倒为 1 dash"
+      }
+    ],
+    "steps": [
+      {
+        "title": "入杯混合",
+        "text": "将干邑与姜汁汽水直接倒入装有冰块的高球杯，轻搅。"
+      },
+      {
+        "title": "按需加苦精",
+        "text": "按喜好加入少许安格仕苦精。"
+      },
+      {
+        "title": "完成长皮装饰",
+        "text": "用一整颗柠檬削出的螺旋长皮装饰。"
+      }
+    ],
+    "tip": "这杯使用 Ginger Ale 姜汁汽水；苦精属于可选项。",
+    "category": "contemporary"
+  },
+  {
+    "id": "iba-tiki",
+    "name": "IBA Tiki",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/iba-tiki/",
+    "photo": "assets/photos/iba-tiki.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-iba-tiki-6695d3a7e33fd.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "IBA 提基",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "热带",
+      "香料"
+    ],
+    "color": "#e9ebd5",
+    "method": "摇和",
+    "glass": "提基杯",
+    "garnish": "柑橘类水果与脱水菠萝片",
+    "ingredients": [
+      {
+        "name": "哈瓦那俱乐部 Profundo 朗姆酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "哈瓦那俱乐部 Smoky 朗姆酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "阿玛雷托杏仁利口酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "芳津榛果利口酒 Frangelico",
+        "amount": 5,
+        "unit": "ml"
+      },
+      {
+        "name": "卢萨多马拉斯奇诺樱桃利口酒",
+        "amount": 5,
+        "unit": "滴"
+      },
+      {
+        "name": "百香果果泥",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜菠萝汁",
+        "amount": null,
+        "unit": "",
+        "note": "官网列为 90，未注明单位"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": null,
+        "unit": "",
+        "note": "官网列为 30，未注明单位"
+      },
+      {
+        "name": "薄姜片",
+        "amount": 1,
+        "unit": "片"
+      }
+    ],
+    "steps": [
+      {
+        "title": "先捣姜片",
+        "text": "在雪克壶中轻捣一片薄姜片。"
+      },
+      {
+        "title": "加入其余原料",
+        "text": "确认官网未标明单位的两项果汁用量后，加入其余原料。"
+      },
+      {
+        "title": "加冰用力摇和",
+        "text": "加入冰块，用力摇匀。"
+      },
+      {
+        "title": "过滤与装饰",
+        "text": "滤入冰镇、装有颗粒冰的提基杯，以柑橘类水果与脱水菠萝片装饰。"
+      }
+    ],
+    "tip": "官网的菠萝汁 90 与青柠汁 30 均缺少单位，本页不擅自补成 ml；实际调制前需进一步确认。",
+    "category": "new-era",
+    "sourceNote": "IBA 原料表写 90 Fresh Pineapple Juice 和 30 Fresh Lime Juice，缺少单位。为避免伪造定量，这两项不参与杯数换算。"
+  },
+  {
+    "id": "illegal",
+    "name": "Illegal",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/illegal/",
+    "photo": "assets/photos/illegal.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-illegal-6695d3a7de51f.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "非法",
+    "base": "混合基酒",
+    "bases": [
+      "龙舌兰",
+      "朗姆酒"
+    ],
+    "tags": [
+      "烟熏",
+      "青柠"
+    ],
+    "color": "#e6d8d5",
+    "method": "摇和",
+    "glass": "鸡尾酒杯；加冰版可用传统陶杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "埃斯帕丁梅斯卡尔",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "牙买加高度白朗姆酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "法勒南糖酒 Falernum",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "卢萨多马拉斯奇诺樱桃利口酒",
+        "amount": 1,
+        "unit": "吧匙"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "单糖浆",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "蛋清",
+        "amount": null,
+        "unit": "",
+        "note": "几滴，可选"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将原料倒入雪克壶，按喜好加入可选蛋清，加冰用力摇匀。"
+      },
+      {
+        "title": "选择出品方式",
+        "text": "滤入冰镇鸡尾酒杯；也可按加冰方式滤入传统黏土杯或赤陶杯。"
+      }
+    ],
+    "tip": "梅斯卡尔与高度白朗姆共同构成酒体；蛋清是可选项。",
+    "category": "new-era"
+  },
+  {
+    "id": "irish-coffee",
+    "name": "Irish Coffee",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/irish-coffee/",
+    "photo": "assets/photos/irish-coffee.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-irish-coffee-copy-6695cdbb430cd.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "爱尔兰咖啡",
+    "base": "威士忌",
+    "bases": [
+      "威士忌"
+    ],
+    "tags": [
+      "咖啡",
+      "奶香"
+    ],
+    "color": "#ead9c7",
+    "method": "直调",
+    "glass": "预热的爱尔兰咖啡杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "爱尔兰威士忌",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "热黑咖啡",
+        "amount": 120,
+        "unit": "ml"
+      },
+      {
+        "name": "冷藏鲜奶油",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "糖",
+        "amount": 1,
+        "unit": "茶匙",
+        "note": "方法正文写至少 1 茶匙"
+      }
+    ],
+    "steps": [
+      {
+        "title": "预热杯并倒咖啡",
+        "text": "将热黑咖啡倒入预热的爱尔兰咖啡杯。"
+      },
+      {
+        "title": "加入威士忌和糖",
+        "text": "加入威士忌与糖，搅拌至糖溶解。"
+      },
+      {
+        "title": "浮上奶油",
+        "text": "把吧匙背面停在咖啡表面上方，沿匙背缓缓倒入冷藏浓稠鲜奶油，让奶油浮在上面，不与咖啡混合。"
+      }
+    ],
+    "tip": "冷藏奶油浮在表面，保持与咖啡分层；IBA 允许以糖浆替代白糖，但未给替代毫升数。",
+    "category": "contemporary",
+    "recipeNotes": [
+      {
+        "title": "糖的说明",
+        "text": "原料表为 1 茶匙糖，方法描述为至少 1 茶匙；官网另允许用糖浆替代，未规定换算比例。"
+      }
+    ]
+  },
+  {
+    "id": "john-collins",
+    "name": "John Collins",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/john-collins/",
+    "photo": "assets/photos/john-collins.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-john-collins-669491130ef87.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "约翰柯林斯",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "柠檬",
+      "气泡"
+    ],
+    "color": "#e2e9df",
+    "method": "直调",
+    "glass": "高球杯",
+    "garnish": "柠檬片与马拉斯奇诺樱桃",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "单糖浆",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "苏打水",
+        "amount": 60,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "直接入冰杯",
+        "text": "将全部原料倒入装有冰块的高球杯。"
+      },
+      {
+        "title": "轻搅装饰",
+        "text": "轻轻搅拌，以柠檬片与马拉斯奇诺樱桃装饰。"
+      }
+    ],
+    "tip": "如果将金酒改用 Old Tom Gin，这个变体称为 Tom Collins。",
+    "category": "unforgettables",
+    "recipeNotes": [
+      {
+        "title": "汤姆柯林斯变体",
+        "text": "Tom Collins 使用老汤姆金酒（Old Tom Gin）代替此处的金酒。"
+      }
+    ]
+  },
+  {
+    "id": "jungle-bird",
+    "name": "Jungle Bird",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/jungle-bird/",
+    "photo": "assets/photos/jungle-bird.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-jungle-bird-6695d3ab45a87.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "丛林鸟",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "菠萝",
+      "苦甜"
+    ],
+    "color": "#e9ebd5",
+    "method": "摇和",
+    "glass": "岩石杯",
+    "garnish": "菠萝角",
+    "ingredients": [
+      {
+        "name": "黑糖蜜朗姆酒 Blackstrap Rum",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "金巴利苦酒",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "菠萝汁",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "鲜榨青柠汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "德梅拉拉蔗糖糖浆",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将所有原料倒入装有冰块的雪克壶并摇匀。"
+      },
+      {
+        "title": "过滤装饰",
+        "text": "滤入装有冰块的岩石杯，以菠萝角装饰。"
+      }
+    ],
+    "tip": "糖浆指定 Demerara 蔗糖糖浆，基酒指定 Blackstrap Rum。",
+    "category": "new-era"
+  },
+  {
+    "id": "kir",
+    "name": "Kir",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/kir/",
+    "photo": "assets/photos/kir.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-kir-6695cdbdbb2e1.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "基尔",
+    "base": "葡萄酒",
+    "bases": [
+      "葡萄酒"
+    ],
+    "tags": [
+      "黑加仑",
+      "果香"
+    ],
+    "color": "#eee9cd",
+    "method": "直调",
+    "glass": "酒杯（官网未指定杯型）",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "干白葡萄酒",
+        "amount": 90,
+        "unit": "ml"
+      },
+      {
+        "name": "黑加仑利口酒 Crème de Cassis",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "先倒利口酒",
+        "text": "先将黑加仑利口酒倒入杯中。"
+      },
+      {
+        "title": "加入白葡萄酒",
+        "text": "倒入配方量的干白葡萄酒。"
+      }
+    ],
+    "tip": "以香槟替换干白葡萄酒，便是 IBA 备注中的 Kir Royal。",
+    "category": "contemporary",
+    "recipeNotes": [
+      {
+        "title": "皇家基尔变体",
+        "text": "Kir Royal 用香槟替代干白葡萄酒。"
+      }
+    ],
+    "sourceNote": "IBA 方法仅写 glass，未指定具体杯型。"
+  },
+  {
+    "id": "last-word",
+    "name": "Last Word",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/last-word/",
+    "photo": "assets/photos/last-word.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-last-word-6694911607ddf.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "最后一语",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "草本",
+      "青柠"
+    ],
+    "color": "#e2e9df",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "绿查特利口酒 Green Chartreuse",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "卢萨多马拉斯奇诺樱桃利口酒",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 22.5,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "等份入壶",
+        "text": "将四种等份原料放入雪克壶。"
+      },
+      {
+        "title": "加冰摇和过滤",
+        "text": "加冰摇匀，滤入冰镇的鸡尾酒杯。"
+      }
+    ],
+    "tip": "金酒、绿查特、马拉斯奇诺与青柠汁都是 22.5 ml。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "lemon-drop-martini",
+    "name": "Lemon Drop Martini",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/lemon-drop-martini/",
+    "photo": "assets/photos/lemon-drop-martini.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-lemon-drop-martini-6695cdbe3eed7.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "柠檬滴马天尼",
+    "base": "伏特加",
+    "bases": [
+      "伏特加"
+    ],
+    "tags": [
+      "柠檬",
+      "酸爽"
+    ],
+    "color": "#efdae0",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "伏特加",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "橙味利口酒 Triple Sec",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "鲜榨柠檬汁",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将全部原料倒入装有冰块的雪克壶，充分摇匀。"
+      },
+      {
+        "title": "滤入冷杯",
+        "text": "滤入冰镇的鸡尾酒杯。"
+      }
+    ],
+    "tip": "这里采用 IBA 的三原料版本，官网未另列糖浆或糖口。",
+    "category": "contemporary"
+  },
+  {
+    "id": "long-island-iced-tea",
+    "name": "Long Island Iced Tea",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/long-island-iced-tea/",
+    "photo": "assets/photos/long-island-iced-tea.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-long-island-iced-tea-6695cdc10c463.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "长岛冰茶",
+    "base": "混合基酒",
+    "bases": [
+      "伏特加",
+      "龙舌兰",
+      "朗姆酒",
+      "金酒"
+    ],
+    "tags": [
+      "柑橘",
+      "可乐"
+    ],
+    "color": "#e6d8d5",
+    "method": "直调",
+    "glass": "高球杯",
+    "garnish": "柠檬片（可选）",
+    "ingredients": [
+      {
+        "name": "伏特加",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "龙舌兰酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "白朗姆酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "金酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "君度橙酒 Cointreau",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "柠檬汁",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "单糖浆",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "可乐",
+        "amount": null,
+        "unit": "",
+        "note": "补足杯中合适位置"
+      }
+    ],
+    "steps": [
+      {
+        "title": "原料直接入杯",
+        "text": "在装有冰块的高球杯中，加入各类酒、柠檬汁与糖浆。"
+      },
+      {
+        "title": "补可乐轻搅",
+        "text": "以可乐补足，轻轻搅拌。"
+      },
+      {
+        "title": "按需装饰",
+        "text": "可放柠檬片装饰。"
+      }
+    ],
+    "tip": "四种蒸馏酒和君度各 15 ml；可乐是补足用量，官网没有列固定毫升数。",
+    "category": "contemporary"
+  },
+  {
+    "id": "mai-tai",
+    "name": "Mai-Tai",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/mai-tai/",
+    "photo": "assets/photos/mai-tai.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-mai-tai-6695cdc169ea3.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "迈泰",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "杏仁",
+      "柑橘"
+    ],
+    "color": "#e9ebd5",
+    "method": "摇和",
+    "glass": "双份岩石杯或高球杯",
+    "garnish": "菠萝长条、薄荷叶与青柠皮",
+    "ingredients": [
+      {
+        "name": "牙买加琥珀色朗姆酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "马提尼克糖蜜朗姆酒",
+        "amount": 30,
+        "unit": "ml",
+        "note": "IBA 特别注明不是 Agricole 甘蔗汁朗姆"
+      },
+      {
+        "name": "橙味库拉索利口酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "杏仁糖浆 Orgeat",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "鲜榨青柠汁",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "单糖浆",
+        "amount": 7.5,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将全部原料倒入装有冰块的雪克壶，摇匀。"
+      },
+      {
+        "title": "倒入酒杯",
+        "text": "倒入双份岩石杯或高球杯。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "以菠萝长条、薄荷叶与青柠皮装饰。"
+      }
+    ],
+    "tip": "IBA 特别说明，Trader Vic 使用的马提尼克朗姆是糖蜜原料，并非 Agricole 甘蔗汁朗姆。",
+    "category": "contemporary",
+    "recipeNotes": [
+      {
+        "title": "朗姆原料说明",
+        "text": "第二款朗姆应按官网所列选马提尼克糖蜜朗姆；不要把产地名自动理解为 Agricole Rhum。"
+      }
+    ]
+  },
+  {
+    "id": "martinez",
+    "name": "Martinez",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/martinez/",
+    "photo": "assets/photos/martinez.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-martinez-6694911927849.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "马丁内斯",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "草本",
+      "圆润"
+    ],
+    "color": "#ead9c7",
+    "method": "搅拌",
+    "glass": "鸡尾酒杯",
+    "garnish": "柠檬皮",
+    "ingredients": [
+      {
+        "name": "伦敦干金酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "甜红味美思",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "Luxardo 马拉斯奇诺樱桃利口酒",
+        "amount": 1,
+        "unit": "吧匙"
+      },
+      {
+        "name": "橙味苦精",
+        "amount": 2,
+        "unit": "dash"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰搅拌",
+        "text": "将全部原料倒入装有冰块的调酒杯，充分搅拌。"
+      },
+      {
+        "title": "过滤装饰",
+        "text": "滤入预先冰镇的鸡尾酒杯，以柠檬皮装饰。"
+      }
+    ],
+    "tip": "金酒与甜红味美思等量；樱桃利口酒用吧匙量取。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "mary-pickford",
+    "name": "Mary Pickford",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/mary-pickford/",
+    "photo": "assets/photos/mary-pickford.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-mary-pickford-6694911933ea7.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "玛丽·碧克馥",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "菠萝",
+      "果甜"
+    ],
+    "color": "#efdae0",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "白朗姆酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜菠萝汁",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "Luxardo 马拉斯奇诺樱桃利口酒",
+        "amount": 7.5,
+        "unit": "ml"
+      },
+      {
+        "name": "石榴糖浆",
+        "amount": 5,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "摇和",
+        "text": "将所有原料加入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "过滤入杯",
+        "text": "滤入预先冰镇的鸡尾酒杯。"
+      }
+    ],
+    "tip": "IBA 此配方无需装饰，菠萝汁与白朗姆酒等量。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "mimosa",
+    "name": "Mimosa",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/mimosa/",
+    "photo": "assets/photos/mimosa.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-mimosa-6695cdc4463c9.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "含羞草",
+    "base": "葡萄酒",
+    "bases": [
+      "葡萄酒"
+    ],
+    "tags": [
+      "橙香",
+      "气泡"
+    ],
+    "color": "#f0e2c8",
+    "method": "直调",
+    "glass": "香槟笛形杯",
+    "garnish": "橙皮卷（可选）",
+    "ingredients": [
+      {
+        "name": "鲜榨橙汁",
+        "amount": 75,
+        "unit": "ml"
+      },
+      {
+        "name": "普罗塞克起泡酒",
+        "amount": 75,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "先倒橙汁",
+        "text": "将橙汁倒入香槟笛形杯。"
+      },
+      {
+        "title": "加入起泡酒",
+        "text": "缓缓倒入普罗塞克，轻轻搅匀；可用橙皮卷装饰。"
+      }
+    ],
+    "tip": "两种原料按 1 : 1 调配，倒酒和搅拌都应轻柔。",
+    "category": "contemporary",
+    "recipeNotes": [
+      {
+        "title": "IBA 别名",
+        "text": "IBA 此页也将其称作 Buck’s Fizz。"
+      }
+    ]
+  },
+  {
+    "id": "mint-julep",
+    "name": "Mint Julep",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/mint-julep/",
+    "photo": "assets/photos/mint-julep.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-mint-julep-6695cdc4aa398.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "薄荷朱利普",
+    "base": "威士忌",
+    "bases": [
+      "威士忌"
+    ],
+    "tags": [
+      "薄荷",
+      "清凉"
+    ],
+    "color": "#e7ebd9",
+    "method": "直调",
+    "glass": "不锈钢朱利普杯",
+    "garnish": "薄荷枝",
+    "ingredients": [
+      {
+        "name": "波本威士忌",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜薄荷枝",
+        "amount": 4,
+        "unit": "枝"
+      },
+      {
+        "name": "糖粉",
+        "amount": 1,
+        "unit": "茶匙"
+      },
+      {
+        "name": "水",
+        "amount": 2,
+        "unit": "茶匙"
+      }
+    ],
+    "steps": [
+      {
+        "title": "轻压薄荷",
+        "text": "在不锈钢朱利普杯中，将薄荷与糖粉、水轻轻压混。"
+      },
+      {
+        "title": "加冰与酒",
+        "text": "加满碎裂冰，倒入波本威士忌。"
+      },
+      {
+        "title": "搅至杯壁结霜",
+        "text": "充分搅拌至金属杯外壁结霜，再放上薄荷枝。"
+      }
+    ],
+    "tip": "轻压薄荷即可；杯壁结霜是 IBA 给出的搅拌完成标志。",
+    "category": "contemporary"
+  },
+  {
+    "id": "missionarys-downfall",
+    "name": "Missionary's Downfall",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/missionarys-downfall/",
+    "photo": "assets/photos/missionarys-downfall.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-missionarys-downfall-6695d3ab4d4c5.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "传教士的堕落",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "薄荷",
+      "热带果香"
+    ],
+    "color": "#e7ebd9",
+    "method": "搅打",
+    "glass": "大型 Coppa 杯",
+    "garnish": "薄荷枝与菠萝片",
+    "ingredients": [
+      {
+        "name": "白朗姆酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "桃味白兰地（Peach Brandy）",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "蜂蜜混合液（Honey Mix）",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "薄荷叶",
+        "amount": 10,
+        "unit": "片"
+      },
+      {
+        "name": "菠萝块",
+        "amount": null,
+        "unit": "",
+        "note": "3–4 块"
+      },
+      {
+        "name": "碎冰",
+        "amount": 0.5,
+        "unit": "杯",
+        "note": "用于搅打"
+      }
+    ],
+    "steps": [
+      {
+        "title": "搅打成饮",
+        "text": "把全部原料与半杯碎冰放入搅拌机搅打。"
+      },
+      {
+        "title": "倒入大杯",
+        "text": "倒入大型 Coppa 杯，以薄荷枝和菠萝片装饰。"
+      }
+    ],
+    "tip": "搅打所用碎冰为半杯；菠萝按块数取用。",
+    "category": "new-era",
+    "recipeNotes": [
+      {
+        "title": "蜂蜜混合液",
+        "text": "IBA 指定 Honey Mix，但未在此页给出蜂蜜与水的调配比例。"
+      }
+    ]
+  },
+  {
+    "id": "monkey-gland",
+    "name": "Monkey Gland",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/monkey-gland/",
+    "photo": "assets/photos/monkey-gland.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-monkey-gland-6694911cbf5a2.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "猴腺",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "橙香",
+      "茴香"
+    ],
+    "color": "#f2dfd4",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "干金酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜橙汁",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "苦艾酒",
+        "amount": 1,
+        "unit": "汤匙"
+      },
+      {
+        "name": "石榴糖浆",
+        "amount": 1,
+        "unit": "汤匙"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将全部原料倒入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "过滤入杯",
+        "text": "滤入预先冰镇的鸡尾酒杯。"
+      }
+    ],
+    "tip": "此处采用当前 IBA 页面的汤匙用量，汤匙与吧匙不能混用。",
+    "category": "unforgettables",
+    "sourceNote": "当前 IBA 页面将苦艾酒和石榴糖浆均列为 1 Tablespoon，本酒单按各 1 汤匙收录。"
+  },
+  {
+    "id": "naked-and-famous",
+    "name": "Naked and Famous",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/naked-and-famous/",
+    "photo": "assets/photos/naked-and-famous.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-naked-and-famous-6695d3ae8e1dc.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "赤裸与成名",
+    "base": "龙舌兰",
+    "bases": [
+      "龙舌兰"
+    ],
+    "tags": [
+      "烟熏",
+      "草本"
+    ],
+    "color": "#f0e2c8",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "梅斯卡尔（Mezcal）",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "黄色 Chartreuse 草本利口酒",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "Aperol 开胃酒",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 22.5,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "四等份摇和",
+        "text": "将四种原料等量倒入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "过滤入杯",
+        "text": "滤入预先冰镇的鸡尾酒杯。"
+      }
+    ],
+    "tip": "四种原料各占四分之一；应选黄色 Chartreuse。",
+    "category": "new-era"
+  },
+  {
+    "id": "new-york-sour",
+    "name": "New York Sour",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/new-york-sour/",
+    "photo": "assets/photos/new-york-sour.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-new-york-sour-6695d3ae88cd2.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "纽约酸",
+    "base": "威士忌",
+    "bases": [
+      "威士忌"
+    ],
+    "tags": [
+      "酸甜",
+      "葡萄酒香"
+    ],
+    "color": "#e6d8d5",
+    "method": "摇和／漂浮",
+    "glass": "岩石杯",
+    "garnish": "柠檬皮或橙皮，配樱桃",
+    "ingredients": [
+      {
+        "name": "黑麦或波本威士忌",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "简单糖浆",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "蛋清",
+        "amount": null,
+        "unit": "",
+        "note": "几滴"
+      },
+      {
+        "name": "红葡萄酒",
+        "amount": 15,
+        "unit": "ml",
+        "note": "西拉或马尔贝克，留作漂浮层"
+      }
+    ],
+    "steps": [
+      {
+        "title": "摇和主体",
+        "text": "红葡萄酒留待最后使用；将其余原料加入雪克壶，加冰用力摇匀。"
+      },
+      {
+        "title": "滤入冰杯",
+        "text": "滤入预先冰镇并装有冰块的岩石杯。"
+      },
+      {
+        "title": "制作酒层",
+        "text": "将红葡萄酒轻轻浮在表面，用柠檬皮或橙皮搭配樱桃装饰。"
+      }
+    ],
+    "tip": "先完成酸酒主体，再加入红葡萄酒漂浮层。",
+    "category": "new-era",
+    "sourceNote": "IBA 方法首句写入全部原料，但末句明确要求葡萄酒漂浮；此处按末句将红酒保留至最后。原文葡萄品种 Malbech 按马尔贝克译。"
+  },
+  {
+    "id": "old-cuban",
+    "name": "Old Cuban",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/old-cuban/",
+    "photo": "assets/photos/old-cuban.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-old-cuban-6695d3b18c692.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "古巴往事",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "薄荷",
+      "气泡"
+    ],
+    "color": "#e9ebd5",
+    "method": "摇和／兑入",
+    "glass": "鸡尾酒杯",
+    "garnish": "薄荷枝",
+    "ingredients": [
+      {
+        "name": "薄荷叶",
+        "amount": null,
+        "unit": "",
+        "note": "6–8 片"
+      },
+      {
+        "name": "陈年朗姆酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "简单糖浆",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "安格仕苦精",
+        "amount": 2,
+        "unit": "dash"
+      },
+      {
+        "name": "Brut 干型香槟或普罗塞克起泡酒",
+        "amount": 60,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "摇和主体",
+        "text": "起泡酒留用，其余原料加入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "滤入冷杯",
+        "text": "滤入预先冰镇的鸡尾酒杯。"
+      },
+      {
+        "title": "加入气泡",
+        "text": "补入起泡酒，以薄荷枝装饰。"
+      }
+    ],
+    "tip": "起泡酒在摇和后加入，勿放进雪克壶一起摇。",
+    "category": "new-era"
+  },
+  {
+    "id": "paloma",
+    "name": "Paloma",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/paloma/",
+    "photo": "assets/photos/paloma.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-paloma-6695d3b19cda4.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "帕洛玛",
+    "base": "龙舌兰",
+    "bases": [
+      "龙舌兰"
+    ],
+    "tags": [
+      "西柚",
+      "清爽"
+    ],
+    "color": "#efdae0",
+    "method": "直调",
+    "glass": "高球杯",
+    "garnish": "青柠片",
+    "ingredients": [
+      {
+        "name": "100% 龙舌兰酒",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 5,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": null,
+        "unit": "",
+        "note": "一撮"
+      },
+      {
+        "name": "粉红西柚汽水",
+        "amount": 100,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加入基酒与青柠",
+        "text": "将龙舌兰酒倒入高球杯，加入新鲜青柠汁。"
+      },
+      {
+        "title": "补入汽水",
+        "text": "加入冰块和一撮盐，倒入粉红西柚汽水。"
+      },
+      {
+        "title": "轻搅装饰",
+        "text": "轻轻搅匀，以青柠片装饰。"
+      }
+    ],
+    "tip": "盐直接加入饮料；IBA 此配方并未要求制作盐口。",
+    "category": "new-era"
+  },
+  {
+    "id": "paper-plane",
+    "name": "Paper Plane",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/paper-plane/",
+    "photo": "assets/photos/paper-plane.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-paper-plane-6695d3b4745eb.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "纸飞机",
+    "base": "威士忌",
+    "bases": [
+      "威士忌"
+    ],
+    "tags": [
+      "苦甜",
+      "柑橘"
+    ],
+    "color": "#f2dfd4",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "波本威士忌",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "Nonino 阿玛罗草本苦味酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "Aperol 开胃酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "等量摇和",
+        "text": "将四种原料各量取 30 ml，倒入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "过滤入杯",
+        "text": "滤入预先冰镇的鸡尾酒杯。"
+      }
+    ],
+    "tip": "四种原料等量，Nonino 阿玛罗是官方配方指定的草本苦味酒。",
+    "category": "new-era"
+  },
+  {
+    "id": "paradise",
+    "name": "Paradise",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/paradise/",
+    "photo": "assets/photos/paradise.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-paradise-6694911fdbd4b.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "天堂",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "杏香",
+      "橙香"
+    ],
+    "color": "#f0e2c8",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "杏味白兰地（Apricot Brandy）",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜橙汁",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将所有原料加入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "过滤入杯",
+        "text": "滤入预先冰镇的鸡尾酒杯。"
+      }
+    ],
+    "tip": "IBA 未另加糖浆，甜味主要由杏味白兰地与橙汁提供。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "penicillin",
+    "name": "Penicillin",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/penicillin/",
+    "photo": "assets/photos/penicillin.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-penicillin-6695d3b47b79f.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "盘尼西林",
+    "base": "威士忌",
+    "bases": [
+      "威士忌"
+    ],
+    "tags": [
+      "姜辛",
+      "烟熏"
+    ],
+    "color": "#eee9cd",
+    "method": "摇和／漂浮",
+    "glass": "古典杯",
+    "garnish": "糖渍姜片",
+    "ingredients": [
+      {
+        "name": "调和苏格兰威士忌",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "乐加维林 16 年单一麦芽威士忌",
+        "amount": 7.5,
+        "unit": "ml",
+        "note": "用于漂浮层"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "蜂蜜糖浆",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜姜片",
+        "amount": null,
+        "unit": "",
+        "note": "2–3 片，大小约一枚美制 25 美分硬币"
+      }
+    ],
+    "steps": [
+      {
+        "title": "压姜调和",
+        "text": "在雪克壶中压碎姜片，加入除单一麦芽威士忌外的其余原料。"
+      },
+      {
+        "title": "加冰摇和",
+        "text": "加冰摇匀，以细滤网滤入预先冰镇且装有冰块的古典杯。"
+      },
+      {
+        "title": "添加烟熏酒层",
+        "text": "将单一麦芽威士忌浮在表面，以糖渍姜片装饰。"
+      }
+    ],
+    "tip": "乐加维林 16 年留作最后的漂浮层，以保留表面的烟熏香气。",
+    "category": "new-era"
+  },
+  {
+    "id": "pisco-punch",
+    "name": "Pisco Punch",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/pisco-punch/",
+    "photo": "assets/photos/pisco-punch.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-pisco-punch-6695d3b74b9f5.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "皮斯科潘趣",
+    "base": "白兰地",
+    "bases": [
+      "白兰地"
+    ],
+    "tags": [
+      "菠萝",
+      "丁香"
+    ],
+    "color": "#ede6cf",
+    "method": "摇和／兑入",
+    "glass": "大型高脚杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "皮斯科（Pisco）",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜菠萝汁",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "简单糖浆",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "干白葡萄酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "丁香",
+        "amount": 3,
+        "unit": "颗"
+      }
+    ],
+    "steps": [
+      {
+        "title": "轻压丁香",
+        "text": "用简单糖浆轻轻压混丁香，再加入除白葡萄酒外的其余原料。"
+      },
+      {
+        "title": "摇和细滤",
+        "text": "用力摇和，经双重过滤倒入大型高脚杯。"
+      },
+      {
+        "title": "加入葡萄酒",
+        "text": "最后加入干白葡萄酒，轻轻搅匀。"
+      }
+    ],
+    "tip": "先以糖浆压丁香，再双重过滤，避免香料碎屑留在酒中。",
+    "category": "new-era",
+    "sourceNote": "IBA 此页未说明摇和时的加冰量，也未要求成品杯中加冰。"
+  },
+  {
+    "id": "pisco-sour",
+    "name": "Pisco Sour",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/pisco-sour/",
+    "photo": "assets/photos/pisco-sour.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-pisco-sour-6695cdcaf1122.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "皮斯科酸",
+    "base": "白兰地",
+    "bases": [
+      "白兰地"
+    ],
+    "tags": [
+      "酸甜",
+      "绵密"
+    ],
+    "color": "#ede6cf",
+    "method": "摇和",
+    "glass": "高脚杯",
+    "garnish": "表面点入少许 Amargo 苦精",
+    "ingredients": [
+      {
+        "name": "皮斯科（Pisco）",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "简单糖浆",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "生蛋清",
+        "amount": 1,
+        "unit": "个",
+        "note": "一整枚鸡蛋的蛋清"
+      },
+      {
+        "name": "Amargo 苦精",
+        "amount": null,
+        "unit": "",
+        "note": "少许（few dashes），作为表面芳香装饰"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将皮斯科、柠檬汁、糖浆和蛋清加入雪克壶，加冰摇匀。"
+      },
+      {
+        "title": "滤入冷杯",
+        "text": "滤入预先冰镇的高脚杯。"
+      },
+      {
+        "title": "表面点香",
+        "text": "在表面点入少许 Amargo 苦精作为芳香装饰。"
+      }
+    ],
+    "tip": "使用一整枚鸡蛋的蛋清；苦精在成品表面加入。",
+    "category": "contemporary"
+  },
+  {
+    "id": "planters-punch",
+    "name": "Planters Punch",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/planters-punch/",
+    "photo": "assets/photos/planters-punch.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-planters-punch-66949122d41fb.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "种植园潘趣",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "蔗香",
+      "酸甜"
+    ],
+    "color": "#f0e2c8",
+    "method": "直调",
+    "glass": "小平底杯或传统陶土杯",
+    "garnish": "橙皮",
+    "ingredients": [
+      {
+        "name": "牙买加朗姆酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "青柠汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "甘蔗汁",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "水、冰或新鲜果汁",
+        "amount": null,
+        "unit": "",
+        "note": "按口味添加，用于稀释"
+      }
+    ],
+    "steps": [
+      {
+        "title": "直接入杯",
+        "text": "将朗姆酒、青柠汁与甘蔗汁直接倒入小平底杯或传统陶土杯。"
+      },
+      {
+        "title": "调整与装饰",
+        "text": "按口味用水、冰或新鲜果汁调整稀释程度，以橙皮装饰。"
+      }
+    ],
+    "tip": "配方使用甘蔗汁；稀释方式和用量可按口味选择。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "porn-star-martini",
+    "name": "Porn Star Martini",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/porn-star-martini/",
+    "photo": "assets/photos/porn-star-martini.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-porn-star-martini-6695d3b771b97.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "色情明星马天尼",
+    "base": "伏特加",
+    "bases": [
+      "伏特加"
+    ],
+    "tags": [
+      "百香果",
+      "香草"
+    ],
+    "color": "#eee9cd",
+    "method": "摇和",
+    "glass": "大型鸡尾酒杯，另附香槟小杯",
+    "garnish": "百香果半壳与糖",
+    "ingredients": [
+      {
+        "name": "香草伏特加",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "百香果利口酒",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "百香果果泥",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "香草糖",
+        "amount": 2,
+        "unit": "吧匙"
+      },
+      {
+        "name": "香槟",
+        "amount": 50,
+        "unit": "ml",
+        "note": "另杯随饮品提供"
+      }
+    ],
+    "steps": [
+      {
+        "title": "摇和主体",
+        "text": "将香槟以外的原料加入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "双重过滤",
+        "text": "双重过滤至预先冰镇的大型鸡尾酒杯，以百香果半壳与糖装饰。"
+      },
+      {
+        "title": "另附香槟",
+        "text": "将 50 ml 香槟装入小杯，摆在鸡尾酒旁一同提供。"
+      }
+    ],
+    "tip": "香槟另杯供应；配方中的香草糖用吧匙量取。",
+    "category": "new-era",
+    "sourceNote": "IBA 装饰写 passion fruit cup，此处译为百香果半壳；页面未给装饰糖的用量。"
+  },
+  {
+    "id": "porto-flip",
+    "name": "Porto Flip",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/porto-flip/",
+    "photo": "assets/photos/porto-flip.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-porto-flip-669491230cea4.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "波特菲利普",
+    "base": "葡萄酒",
+    "bases": [
+      "葡萄酒",
+      "白兰地"
+    ],
+    "tags": [
+      "圆润",
+      "肉豆蔻"
+    ],
+    "color": "#e6d8d5",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "现磨肉豆蔻",
+    "ingredients": [
+      {
+        "name": "白兰地",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "茶色波特酒（Tawny Port）",
+        "amount": 45,
+        "unit": "ml",
+        "note": "IBA 原文为 Red Tawny Port Wine"
+      },
+      {
+        "name": "蛋黄",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将白兰地、波特酒和蛋黄放入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "过滤与装饰",
+        "text": "滤入预先冰镇的鸡尾酒杯，在表面撒上现磨肉豆蔻。"
+      }
+    ],
+    "tip": "此配方使用 10 ml 蛋黄，不是蛋清或整蛋。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "rabo-de-galo",
+    "name": "Rabo de Galo",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/rabo-de-galo/",
+    "photo": "assets/photos/rabo-de-galo.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-rabo-de-galo-6695cdcdb2df1.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "拉博·德·加洛",
+    "base": "其他",
+    "bases": [
+      "其他"
+    ],
+    "tags": [
+      "草本",
+      "甘蔗"
+    ],
+    "color": "#ead9c7",
+    "method": "直调",
+    "glass": "岩石杯",
+    "garnish": "橙皮卷",
+    "ingredients": [
+      {
+        "name": "卡莎萨（Cachaça）",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "仙山露红甜味美思（Cinzano Rosso）",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "Cynar 朝鲜蓟苦味酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "安格仕苦精",
+        "amount": 2,
+        "unit": "滴",
+        "note": "可选；IBA 此处写 drops"
+      }
+    ],
+    "steps": [
+      {
+        "title": "入杯加冰",
+        "text": "将所有原料倒入岩石杯，再加入冰块。"
+      },
+      {
+        "title": "短暂搅拌",
+        "text": "短暂搅拌使原料混合，以橙皮卷装饰。"
+      }
+    ],
+    "tip": "安格仕苦精是可选项，此处官方单位为滴（drops）。",
+    "category": "contemporary"
+  },
+  {
+    "id": "ramos-fizz",
+    "name": "Ramos Fizz",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/ramos-fizz/",
+    "photo": "assets/photos/ramos-fizz.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-ramos-fizz-669491260ca6c.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "拉莫斯菲士",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "奶香",
+      "橙花"
+    ],
+    "color": "#ede6cf",
+    "method": "摇和／干摇",
+    "glass": "高球杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "糖浆",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "奶油",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "蛋清",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "橙花水",
+        "amount": 3,
+        "unit": "dash"
+      },
+      {
+        "name": "香草精",
+        "amount": 2,
+        "unit": "滴"
+      },
+      {
+        "name": "苏打水",
+        "amount": null,
+        "unit": "",
+        "note": "最后补足"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰长摇",
+        "text": "将苏打水以外的原料倒入雪克壶，加冰摇和 2 分钟。"
+      },
+      {
+        "title": "过滤后干摇",
+        "text": "将酒液双重过滤到杯中，再倒回雪克壶，不加冰用力摇 1 分钟。"
+      },
+      {
+        "title": "入杯补苏打",
+        "text": "滤入高球杯，最后以苏打水补足。"
+      }
+    ],
+    "tip": "按 IBA 顺序先加冰摇 2 分钟，再滤去冰块干摇 1 分钟。",
+    "category": "unforgettables",
+    "recipeNotes": [
+      {
+        "title": "历史备注",
+        "text": "IBA 记载此酒由 Henry Ramos 于 1888 年在新奥尔良创制；早期曾由调酒师接力摇和 12 分钟，当前操作以页面所列的 2 分钟加冰摇和及 1 分钟干摇为准。"
+      }
+    ]
+  },
+  {
+    "id": "remember-the-maine",
+    "name": "Remember the Maine",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/remember-the-maine/",
+    "photo": "assets/photos/remember-the-maine.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-remember-the-main-6694912622959.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "铭记缅因号",
+    "base": "威士忌",
+    "bases": [
+      "威士忌"
+    ],
+    "tags": [
+      "樱桃",
+      "草本"
+    ],
+    "color": "#e6d8d5",
+    "method": "搅拌",
+    "glass": "碟形香槟杯（Coupe）",
+    "garnish": "柠檬皮",
+    "ingredients": [
+      {
+        "name": "黑麦威士忌",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "甜味美思",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "Luxardo 樱桃利口酒（Cherry Brandy）",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "苦艾酒",
+        "amount": 7.5,
+        "unit": "ml",
+        "note": "用于润杯，随后倒掉"
+      }
+    ],
+    "steps": [
+      {
+        "title": "苦艾酒润杯",
+        "text": "将苦艾酒倒入 Coupe 杯，旋转杯身使内壁沾匀，再倒掉苦艾酒。"
+      },
+      {
+        "title": "加冰搅拌",
+        "text": "其他原料倒入调酒杯，加冰至杯容量约四分之三，搅拌至冷却。"
+      },
+      {
+        "title": "滤入润杯",
+        "text": "滤入准备好的 Coupe 杯，以柠檬皮装饰。"
+      }
+    ],
+    "tip": "7.5 ml 苦艾酒用于润杯，完成后应倒掉。",
+    "category": "unforgettables",
+    "sourceNote": "IBA 原料名为 Cherry Brandy Luxardo；此处补足“利口酒”说明，以区分无糖樱桃蒸馏酒。品牌官方将该类产品列为 Cherry Liqueur。"
+  },
+  {
+    "id": "russian-spring-punch",
+    "name": "Russian Spring Punch",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/russian-spring-punch/",
+    "photo": "assets/photos/russian-spring-punch.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-russian-spring-punch-6695d3ba314f1.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "俄罗斯春日潘趣",
+    "base": "伏特加",
+    "bases": [
+      "伏特加"
+    ],
+    "tags": [
+      "黑醋栗",
+      "气泡"
+    ],
+    "color": "#efdae0",
+    "method": "摇和／兑入",
+    "glass": "高身平底杯",
+    "garnish": "黑莓，可另加柠檬片",
+    "ingredients": [
+      {
+        "name": "伏特加",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "黑醋栗利口酒（Crème de Cassis）",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "糖浆",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "起泡酒",
+        "amount": null,
+        "unit": "",
+        "note": "最后补足"
+      }
+    ],
+    "steps": [
+      {
+        "title": "摇和主体",
+        "text": "将起泡酒以外的原料放入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "滤入冰杯",
+        "text": "滤入预先冰镇且装有冰块的高身平底杯。"
+      },
+      {
+        "title": "加入起泡酒",
+        "text": "用起泡酒补足，以黑莓装饰，可另加柠檬片。"
+      }
+    ],
+    "tip": "起泡酒最后加入；IBA 没有规定补酒的固定毫升数。",
+    "category": "new-era"
+  },
+  {
+    "id": "rusty-nail",
+    "name": "Rusty Nail",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/rusty-nail/",
+    "photo": "assets/photos/rusty-nail.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-rusty-nail-66949129acfd1.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "锈钉",
+    "base": "威士忌",
+    "bases": [
+      "威士忌"
+    ],
+    "tags": [
+      "蜂蜜",
+      "草本"
+    ],
+    "color": "#ead9c7",
+    "method": "直调",
+    "glass": "古典杯",
+    "garnish": "柠檬皮",
+    "ingredients": [
+      {
+        "name": "苏格兰威士忌",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "杜林标利口酒（Drambuie）",
+        "amount": 25,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "倒入冰杯",
+        "text": "将两种酒直接倒入装有冰块的古典杯。"
+      },
+      {
+        "title": "轻搅装饰",
+        "text": "轻轻搅匀，以柠檬皮装饰。"
+      }
+    ],
+    "tip": "直接在饮用杯中调配，杜林标提供蜂蜜与草本风味。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "sazerac",
+    "name": "Sazerac",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/sazerac/",
+    "photo": "assets/photos/sazerac.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-sazerac-66949129b50d1.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "萨泽拉克",
+    "base": "白兰地",
+    "bases": [
+      "白兰地"
+    ],
+    "tags": [
+      "茴香",
+      "醇厚"
+    ],
+    "color": "#ead9c7",
+    "method": "搅拌",
+    "glass": "古典杯",
+    "garnish": "柠檬皮",
+    "ingredients": [
+      {
+        "name": "干邑白兰地",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "苦艾酒",
+        "amount": 10,
+        "unit": "ml",
+        "note": "用于润杯；倒掉多余部分"
+      },
+      {
+        "name": "方糖",
+        "amount": 1,
+        "unit": "块"
+      },
+      {
+        "name": "Peychaud’s 苦精",
+        "amount": 2,
+        "unit": "dash"
+      }
+    ],
+    "steps": [
+      {
+        "title": "润杯冰镇",
+        "text": "以苦艾酒润洗预先冰镇的古典杯，加入碎冰后放在一旁。"
+      },
+      {
+        "title": "搅拌主体",
+        "text": "将干邑、方糖和苦精放入调酒杯，加冰搅拌。"
+      },
+      {
+        "title": "弃冰过滤",
+        "text": "倒掉饮用杯中的碎冰和多余苦艾酒，将调好的酒液滤入杯中，以柠檬皮装饰。"
+      }
+    ],
+    "tip": "饮用杯中的碎冰和多余苦艾酒都应在倒入成品前弃去。",
+    "category": "unforgettables",
+    "recipeNotes": [
+      {
+        "title": "IBA 历史备注",
+        "text": "IBA 说明美国南北战争后干邑曾因难以取得而被黑麦威士忌替代；本页列出的标准原料仍为 50 ml 干邑。"
+      }
+    ]
+  },
+  {
+    "id": "sea-breeze",
+    "name": "Sea Breeze",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/sea-breeze/",
+    "photo": "assets/photos/sea-breeze.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-sea-breeze-6695cdce015a8.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "海风",
+    "base": "伏特加",
+    "bases": [
+      "伏特加"
+    ],
+    "tags": [
+      "莓果",
+      "西柚"
+    ],
+    "color": "#efdae0",
+    "method": "直调",
+    "glass": "高球杯",
+    "garnish": "橙皮与樱桃",
+    "ingredients": [
+      {
+        "name": "伏特加",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "蔓越莓汁",
+        "amount": 120,
+        "unit": "ml"
+      },
+      {
+        "name": "西柚汁",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "直接调配",
+        "text": "在高球杯中装入冰块，依次倒入全部原料。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "以橙皮和樱桃装饰。"
+      }
+    ],
+    "tip": "蔓越莓汁用量为伏特加的三倍，全部原料直接入杯。",
+    "category": "contemporary"
+  },
+  {
+    "id": "sex-on-the-beach",
+    "name": "Sex on the Beach",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/sex-on-the-beach/",
+    "photo": "assets/photos/sex-on-the-beach.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-sex-on-the-beach-6695cdd0aecf3.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "性感海滩",
+    "base": "伏特加",
+    "bases": [
+      "伏特加"
+    ],
+    "tags": [
+      "桃香",
+      "莓果"
+    ],
+    "color": "#f2dfd4",
+    "method": "直调",
+    "glass": "高球杯",
+    "garnish": "半片橙片",
+    "ingredients": [
+      {
+        "name": "伏特加",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "桃味利口酒（Peach Schnapps）",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜橙汁",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "蔓越莓汁",
+        "amount": 40,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "直接调配",
+        "text": "将全部原料倒入装有冰块的高球杯。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "以半片橙片装饰。"
+      }
+    ],
+    "tip": "伏特加、橙汁与蔓越莓汁各 40 ml，桃味利口酒为其一半。",
+    "category": "contemporary"
+  },
+  {
+    "id": "sherry-cobbler",
+    "name": "Sherry Cobbler",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/sherry-cobbler/",
+    "photo": "assets/photos/sherry-cobbler.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-sherry-cobbler-6695d3ba8bdb7.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "雪莉科布勒",
+    "base": "葡萄酒",
+    "bases": [
+      "葡萄酒"
+    ],
+    "tags": [
+      "坚果",
+      "柑橘"
+    ],
+    "color": "#f0e2c8",
+    "method": "摇和",
+    "glass": "朱利普杯",
+    "garnish": "新鲜莓果，另加四分之一片橙片与四分之一片柠檬片；配吸管",
+    "ingredients": [
+      {
+        "name": "阿蒙蒂亚多雪莉酒（Amontillado）",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "帕罗卡塔多雪莉酒（Palo Cortado）",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "特细砂糖或普通砂糖",
+        "amount": 1,
+        "unit": "茶匙"
+      },
+      {
+        "name": "圆橙片",
+        "amount": 0.5,
+        "unit": "片",
+        "note": "切成 2 块四分之一圆片，用于摇和"
+      },
+      {
+        "name": "圆柠檬片",
+        "amount": 0.5,
+        "unit": "片",
+        "note": "切成 2 块四分之一圆片，用于摇和"
+      }
+    ],
+    "steps": [
+      {
+        "title": "柑橘加冰摇和",
+        "text": "将两种雪莉酒、糖、两块四分之一橙片和两块四分之一柠檬片加入雪克壶，加冰快速有力地摇匀。"
+      },
+      {
+        "title": "滤入碎冰杯",
+        "text": "滤入装满碎冰的朱利普杯。"
+      },
+      {
+        "title": "装饰与吸管",
+        "text": "放上新鲜莓果，另加四分之一片橙片与四分之一片柠檬片，配吸管供应。"
+      }
+    ],
+    "tip": "配方里的半片橙与半片柠檬参与摇和；杯面装饰的柑橘另外准备。",
+    "category": "new-era"
+  },
+  {
+    "id": "sidecar",
+    "name": "Sidecar",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/sidecar/",
+    "photo": "assets/photos/sidecar.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-sidecar-6694912cb8aa9.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "边车",
+    "base": "白兰地",
+    "bases": [
+      "白兰地"
+    ],
+    "tags": [
+      "柑橘",
+      "酸爽"
+    ],
+    "color": "#eee9cd",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "干邑白兰地",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "橙味利口酒（Triple Sec）",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将全部原料放入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "过滤入杯",
+        "text": "滤入预先冰镇的鸡尾酒杯。"
+      }
+    ],
+    "tip": "IBA 此版没有糖口要求，橙味利口酒与柠檬汁等量。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "singapore-sling",
+    "name": "Singapore Sling",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/singapore-sling/",
+    "photo": "assets/photos/singapore-sling.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-singapore-sling-6695cdd136426.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "新加坡司令",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "菠萝",
+      "樱桃"
+    ],
+    "color": "#efdae0",
+    "method": "摇和",
+    "glass": "飓风杯",
+    "garnish": "菠萝与马拉斯奇诺樱桃",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "Sangue Morlacco 樱桃利口酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "君度橙酒（Cointreau）",
+        "amount": 7.5,
+        "unit": "ml"
+      },
+      {
+        "name": "DOM 廊酒（Bénédictine）",
+        "amount": 7.5,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜菠萝汁",
+        "amount": 120,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "石榴糖浆",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "安格仕苦精",
+        "amount": 1,
+        "unit": "dash"
+      }
+    ],
+    "steps": [
+      {
+        "title": "装冰摇和",
+        "text": "将所有原料倒入装有冰块的雪克壶，充分摇匀。"
+      },
+      {
+        "title": "过滤装饰",
+        "text": "滤入飓风杯，以菠萝和马拉斯奇诺樱桃装饰。"
+      }
+    ],
+    "tip": "官方配方指定 Sangue Morlacco 樱桃利口酒，菠萝汁用量为 120 ml。",
+    "category": "contemporary"
+  },
+  {
+    "id": "south-side",
+    "name": "South Side",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/south-side/",
+    "photo": "assets/photos/south-side.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-south-side-6695d3bdcc9fe.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "南区",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "薄荷",
+      "酸爽"
+    ],
+    "color": "#e7ebd9",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "薄荷枝",
+    "ingredients": [
+      {
+        "name": "伦敦干金酒",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "简单糖浆",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "薄荷叶",
+        "amount": null,
+        "unit": "",
+        "note": "5–6 片"
+      },
+      {
+        "name": "蛋清",
+        "amount": null,
+        "unit": "",
+        "note": "几滴，可选"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将全部原料加入雪克壶，加冰摇匀；若使用蛋清，应充分用力摇和。"
+      },
+      {
+        "title": "双重过滤",
+        "text": "双重过滤到预先冰镇的鸡尾酒杯中。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "以薄荷枝装饰。"
+      }
+    ],
+    "tip": "蛋清为可选项，加入后需用力摇和；双重过滤可去除薄荷碎屑。",
+    "category": "new-era"
+  },
+  {
+    "id": "spicy-fifty",
+    "name": "Spicy Fifty",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/spicy-fifty/",
+    "photo": "assets/photos/spicy-fifty.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-spicy-fifty-6695d3bdd14b1.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "辛辣五十",
+    "base": "伏特加",
+    "bases": [
+      "伏特加"
+    ],
+    "tags": [
+      "花香",
+      "微辣"
+    ],
+    "color": "#eee9cd",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "红辣椒",
+    "ingredients": [
+      {
+        "name": "香草伏特加",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "接骨木花科迪尔糖浆（Elderflower Cordial）",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "莫林蜂蜜糖浆",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "红辣椒薄片",
+        "amount": 2,
+        "unit": "片"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将所有原料倒入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "双重过滤",
+        "text": "双重过滤至预先冰镇的鸡尾酒杯，以一根红辣椒装饰。"
+      }
+    ],
+    "tip": "两片薄红辣椒参与摇和；装饰辣椒另备。",
+    "category": "new-era"
+  },
+  {
+    "id": "spritz",
+    "name": "Spritz",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/spritz/",
+    "photo": "assets/photos/spritz.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-spritz-6695d3c0f113f.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "斯普利兹",
+    "base": "葡萄酒",
+    "bases": [
+      "葡萄酒",
+      "利口酒"
+    ],
+    "tags": [
+      "苦甜",
+      "气泡"
+    ],
+    "color": "#f2dfd4",
+    "method": "直调",
+    "glass": "葡萄酒杯",
+    "garnish": "橙片",
+    "ingredients": [
+      {
+        "name": "普罗塞克起泡酒",
+        "amount": 90,
+        "unit": "ml"
+      },
+      {
+        "name": "Aperol 开胃酒",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "苏打水",
+        "amount": null,
+        "unit": "",
+        "note": "少量（a splash）"
+      }
+    ],
+    "steps": [
+      {
+        "title": "直接入杯",
+        "text": "在葡萄酒杯中装入冰块，加入普罗塞克、Aperol 和少量苏打水。"
+      },
+      {
+        "title": "轻搅装饰",
+        "text": "轻轻搅匀，以橙片装饰。"
+      }
+    ],
+    "tip": "苏打水为少量添加，IBA 此页没有规定固定毫升数。",
+    "category": "new-era",
+    "recipeNotes": [
+      {
+        "title": "IBA 列出的变体",
+        "text": "其他版本可用 Campari、Cynar 或 Select 替换 Aperol。"
+      }
+    ]
+  },
+  {
+    "id": "stinger",
+    "name": "Stinger",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/stinger/",
+    "photo": "assets/photos/stinger.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-stinger-6694912ce0b8d.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "毒刺",
+    "base": "白兰地",
+    "bases": [
+      "白兰地"
+    ],
+    "tags": [
+      "薄荷",
+      "清凉"
+    ],
+    "color": "#e2e9df",
+    "method": "搅拌",
+    "glass": "马天尼杯",
+    "garnish": "薄荷叶（可选）",
+    "ingredients": [
+      {
+        "name": "干邑白兰地",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "白薄荷利口酒（White Crème de Menthe）",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰搅拌",
+        "text": "将两种酒倒入装有冰块的调酒杯，充分搅拌。"
+      },
+      {
+        "title": "滤入冷杯",
+        "text": "滤入预先冰镇的马天尼杯，可用薄荷叶装饰。"
+      }
+    ],
+    "tip": "当前 IBA 配方使用搅拌法，并指定白薄荷利口酒。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "suffering-bastard",
+    "name": "Suffering Bastard",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/suffering-bastard/",
+    "photo": "assets/photos/suffering-bastard.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-suffering-bastard-6695d3c1081c4.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "受苦的混蛋",
+    "base": "混合基酒",
+    "bases": [
+      "白兰地",
+      "金酒"
+    ],
+    "tags": [
+      "姜辛",
+      "柑橘"
+    ],
+    "color": "#f0e2c8",
+    "method": "摇和／兑入",
+    "glass": "柯林斯杯或 S. Bastard 专用杯",
+    "garnish": "薄荷枝，可另加橙片",
+    "ingredients": [
+      {
+        "name": "干邑或其他白兰地",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "金酒",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "安格仕苦精",
+        "amount": 2,
+        "unit": "dash"
+      },
+      {
+        "name": "姜汁啤酒（Ginger Beer）",
+        "amount": null,
+        "unit": "",
+        "note": "最后补足"
+      }
+    ],
+    "steps": [
+      {
+        "title": "摇和主体",
+        "text": "将姜汁啤酒以外的原料放入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "连冰倒入",
+        "text": "不经滤冰，连同冰块倒入柯林斯杯或 S. Bastard 专用杯。"
+      },
+      {
+        "title": "补足与装饰",
+        "text": "加入姜汁啤酒补足，以薄荷枝装饰，可另加橙片。"
+      }
+    ],
+    "tip": "摇和后连冰倒入成品杯，姜汁啤酒最后加入。",
+    "category": "new-era"
+  },
+  {
+    "id": "tequila-sunrise",
+    "name": "Tequila Sunrise",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/tequila-sunrise/",
+    "photo": "assets/photos/tequila-sunrise.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-tequila-sunrise-6695cdd3da10a.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "龙舌兰日出",
+    "base": "龙舌兰",
+    "bases": [
+      "龙舌兰"
+    ],
+    "tags": [
+      "橙香",
+      "果甜"
+    ],
+    "color": "#f2dfd4",
+    "method": "直调",
+    "glass": "高球杯",
+    "garnish": "半片橙片或橙皮",
+    "ingredients": [
+      {
+        "name": "龙舌兰酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜橙汁",
+        "amount": 90,
+        "unit": "ml"
+      },
+      {
+        "name": "石榴糖浆",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "先调酒与果汁",
+        "text": "将龙舌兰酒和橙汁直接倒入装有冰块的高球杯。"
+      },
+      {
+        "title": "形成日出渐层",
+        "text": "加入石榴糖浆形成颜色渐层，保持不搅拌。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "以半片橙片或橙皮装饰。"
+      }
+    ],
+    "tip": "加入石榴糖浆后不要搅拌，才能保留日出的渐层效果。",
+    "category": "contemporary"
+  },
+  {
+    "id": "three-dots-and-a-dash",
+    "name": "Three Dots and a Dash",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/three-dots-and-a-dash/",
+    "photo": "assets/photos/three-dots-and-a-dash.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-three-dots-and-a-dash-6695d3c3e2d24.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "三点一划",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "热带果香",
+      "香料"
+    ],
+    "color": "#ead9c7",
+    "method": "搅打",
+    "glass": "带脚 Copo 杯",
+    "garnish": "三颗樱桃与一块长方形菠萝",
+    "ingredients": [
+      {
+        "name": "马提尼克农业朗姆酒（Rhum Agricole）",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "调和陈年朗姆酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "法勒纳姆（Falernum）",
+        "amount": 7.5,
+        "unit": "ml"
+      },
+      {
+        "name": "St. Elizabeth 多香果利口酒",
+        "amount": 7.5,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜橙汁",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "蜂蜜糖浆",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "安格仕苦精",
+        "amount": 2,
+        "unit": "dash"
+      },
+      {
+        "name": "碎冰",
+        "amount": 12,
+        "unit": "oz",
+        "note": "用于短时搅打；成品另加碎冰补满"
+      }
+    ],
+    "steps": [
+      {
+        "title": "短时搅打",
+        "text": "将全部饮品原料与 12 oz 碎冰放入搅拌机，快速短时搅打。"
+      },
+      {
+        "title": "倒入补冰",
+        "text": "倒入带脚 Copo 杯，再加碎冰补满。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "放上三颗樱桃和一块长方形菠萝。"
+      }
+    ],
+    "tip": "以短时搅打混合，倒杯后还需补充碎冰。",
+    "category": "new-era",
+    "sourceNote": "IBA 原料页把「7.5 ml Allspice Saint Elizabeth」与「15 ml Fresh Lime Juice」连在一行；此处拆为两项，保留各自用量。碎冰原文为 12 ounces，未换算为毫升或克。"
+  },
+  {
+    "id": "tipperary",
+    "name": "Tipperary",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/tipperary/",
+    "photo": "assets/photos/tipperary.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-tipperary-6695d3c453fd3.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "蒂珀雷里",
+    "base": "威士忌",
+    "bases": [
+      "威士忌"
+    ],
+    "tags": [
+      "草本",
+      "醇厚"
+    ],
+    "color": "#e3e6d5",
+    "method": "搅拌",
+    "glass": "马天尼杯",
+    "garnish": "橙片",
+    "ingredients": [
+      {
+        "name": "爱尔兰威士忌",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "甜红味美思",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "绿色 Chartreuse 草本利口酒",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "安格仕苦精",
+        "amount": 2,
+        "unit": "dash"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰搅拌",
+        "text": "将所有原料倒入装有冰块的调酒杯，充分搅拌。"
+      },
+      {
+        "title": "过滤装饰",
+        "text": "滤入预先冰镇的马天尼杯，以橙片装饰。"
+      }
+    ],
+    "tip": "指定绿色 Chartreuse；此处装饰为橙片。",
+    "category": "new-era"
+  },
+  {
+    "id": "tommys-margarita",
+    "name": "Tommy's Margarita",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/tommys-margarita/",
+    "photo": "assets/photos/tommys-margarita.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-tommys-margarita-6695d3c7171ef.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "汤米玛格丽特",
+    "base": "龙舌兰",
+    "bases": [
+      "龙舌兰"
+    ],
+    "tags": [
+      "青柠",
+      "酸甜"
+    ],
+    "color": "#e9ebd5",
+    "method": "摇和",
+    "glass": "岩石杯",
+    "garnish": "青柠片",
+    "ingredients": [
+      {
+        "name": "100% 龙舌兰酒",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "龙舌兰蜜（Agave Nectar）",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将全部原料加入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "滤入冰杯",
+        "text": "滤入预先冰镇且装有冰块的岩石杯，以青柠片装饰。"
+      }
+    ],
+    "tip": "按当前 IBA 页面，青柠汁与龙舌兰蜜均为 30 ml。",
+    "category": "new-era",
+    "sourceNote": "IBA 官网为本酒与 Grand Margarita 使用同一张展示图；配方仍按各自酒款页列出。"
+  },
+  {
+    "id": "trinidad-sour",
+    "name": "Trinidad Sour",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/trinidad-sour/",
+    "photo": "assets/photos/trinidad-sour.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-trinidad-sour-6695d3c794a43.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "特立尼达酸",
+    "base": "混合基酒",
+    "bases": [
+      "其他",
+      "威士忌"
+    ],
+    "tags": [
+      "香料",
+      "酸甜"
+    ],
+    "color": "#e6d8d5",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "安格仕苦精",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "杏仁糖浆（Orgeat）",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "黑麦威士忌",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "量取摇和",
+        "text": "量取全部原料放入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "过滤入杯",
+        "text": "滤入预先冰镇的鸡尾酒杯。"
+      }
+    ],
+    "tip": "安格仕苦精在此是主要酒精原料，用量为 45 ml。",
+    "category": "new-era"
+  },
+  {
+    "id": "tuxedo",
+    "name": "Tuxedo",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/tuxedo/",
+    "photo": "assets/photos/tuxedo.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-tuxedo-6694912fd3b8f.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "燕尾服",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "草本",
+      "干爽"
+    ],
+    "color": "#e3e6d5",
+    "method": "搅拌",
+    "glass": "马天尼杯",
+    "garnish": "樱桃与柠檬皮",
+    "ingredients": [
+      {
+        "name": "老汤姆金酒（Old Tom Gin）",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "干味美思",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "Luxardo 马拉斯奇诺樱桃利口酒",
+        "amount": 0.5,
+        "unit": "吧匙"
+      },
+      {
+        "name": "苦艾酒",
+        "amount": 0.25,
+        "unit": "吧匙"
+      },
+      {
+        "name": "橙味苦精",
+        "amount": 3,
+        "unit": "dash"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰搅拌",
+        "text": "将所有原料倒入装有冰块的调酒杯，充分搅拌。"
+      },
+      {
+        "title": "过滤装饰",
+        "text": "滤入预先冰镇的马天尼杯，以樱桃与柠檬皮装饰。"
+      }
+    ],
+    "tip": "樱桃利口酒为半吧匙，苦艾酒为四分之一吧匙。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "ve-n-to",
+    "name": "Ve.N.To",
+    "categoryOriginal": "New Era",
+    "source": "https://iba-world.com/iba-cocktail/ve-n-to/",
+    "photo": "assets/photos/ve-n-to.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-vento-6695d3ca45bc2.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "维恩托",
+    "base": "其他",
+    "bases": [
+      "其他"
+    ],
+    "tags": [
+      "洋甘菊",
+      "蜂蜜"
+    ],
+    "color": "#ede6cf",
+    "method": "摇和",
+    "glass": "小平底杯",
+    "garnish": "柠檬皮与白葡萄",
+    "ingredients": [
+      {
+        "name": "柔和型白格拉帕（White Smooth Grappa）",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 22.5,
+        "unit": "ml"
+      },
+      {
+        "name": "蜂蜜混合液（Honey Mix）",
+        "amount": 15,
+        "unit": "ml",
+        "note": "可用洋甘菊浸泡液代替其中的水"
+      },
+      {
+        "name": "洋甘菊科迪尔糖浆（Chamomile Cordial）",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "蛋清",
+        "amount": null,
+        "unit": "",
+        "note": "几滴，可选"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰用力摇和",
+        "text": "将所有原料倒入雪克壶，加冰用力摇匀。"
+      },
+      {
+        "title": "滤入冰杯",
+        "text": "滤入预先冰镇且装有冰块的小平底杯。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "以柠檬皮与白葡萄装饰。"
+      }
+    ],
+    "tip": "蛋清为可选项；蜂蜜混合液中的水也可改用洋甘菊浸泡液。",
+    "category": "new-era",
+    "recipeNotes": [
+      {
+        "title": "洋甘菊蜂蜜混合液",
+        "text": "IBA 允许用洋甘菊浸泡液替换 Honey Mix 中的水，未给出蜂蜜与液体比例；洋甘菊 Cordial 仍需单独量取 15 ml。"
+      }
+    ]
+  },
+  {
+    "id": "vesper",
+    "name": "Vesper",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/vesper/",
+    "photo": "assets/photos/vesper.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-vesper-6695cdd43284b.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "维斯珀",
+    "base": "混合基酒",
+    "bases": [
+      "金酒",
+      "伏特加"
+    ],
+    "tags": [
+      "干爽",
+      "柑橘"
+    ],
+    "color": "#e3e6d5",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "柠檬皮",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "伏特加",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "丽叶白开胃酒（Lillet Blanc）",
+        "amount": 7.5,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "装冰摇和",
+        "text": "将所有原料倒入装有冰块的雪克壶，摇匀。"
+      },
+      {
+        "title": "过滤装饰",
+        "text": "滤入预先冰镇的鸡尾酒杯，以柠檬皮装饰。"
+      }
+    ],
+    "tip": "这款以金酒和伏特加搭配的酒，IBA 指定采用摇和法。",
+    "category": "contemporary"
+  },
+  {
+    "id": "vieux-carre",
+    "name": "Vieux Carré",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/vieux-carre/",
+    "photo": "assets/photos/vieux-carre.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-vieux-carre-6694913015248.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "老广场",
+    "base": "混合基酒",
+    "bases": [
+      "威士忌",
+      "白兰地"
+    ],
+    "tags": [
+      "草本",
+      "圆润"
+    ],
+    "color": "#ead9c7",
+    "method": "搅拌",
+    "glass": "鸡尾酒杯",
+    "garnish": "橙皮与马拉斯奇诺樱桃",
+    "ingredients": [
+      {
+        "name": "黑麦威士忌",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "干邑白兰地",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "甜味美思",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "廊酒（Bénédictine）",
+        "amount": 1,
+        "unit": "吧匙"
+      },
+      {
+        "name": "Peychaud’s 苦精",
+        "amount": 2,
+        "unit": "dash"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰搅拌",
+        "text": "将所有原料倒入装有冰块的调酒杯，充分搅拌。"
+      },
+      {
+        "title": "过滤装饰",
+        "text": "滤入预先冰镇的鸡尾酒杯，以橙皮与马拉斯奇诺樱桃装饰。"
+      }
+    ],
+    "tip": "威士忌、干邑与甜味美思等量，廊酒用一吧匙。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "white-lady",
+    "name": "White Lady",
+    "categoryOriginal": "The unforgettables",
+    "source": "https://iba-world.com/iba-cocktail/white-lady/",
+    "photo": "assets/photos/white-lady.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-white-lady-6694913318105.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "白色佳人",
+    "base": "金酒",
+    "bases": [
+      "金酒"
+    ],
+    "tags": [
+      "柑橘",
+      "酸爽"
+    ],
+    "color": "#ede6cf",
+    "method": "摇和",
+    "glass": "鸡尾酒杯",
+    "garnish": "无需装饰",
+    "ingredients": [
+      {
+        "name": "金酒",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "橙味利口酒（Triple Sec）",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜柠檬汁",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "加冰摇和",
+        "text": "将全部原料加入雪克壶，加冰充分摇匀。"
+      },
+      {
+        "title": "过滤入杯",
+        "text": "滤入预先冰镇的鸡尾酒杯。"
+      }
+    ],
+    "tip": "IBA 此配方仅列金酒、橙味利口酒与柠檬汁，没有蛋清。",
+    "category": "unforgettables"
+  },
+  {
+    "id": "zombie",
+    "name": "Zombie",
+    "categoryOriginal": "Contemporary Classics",
+    "source": "https://iba-world.com/iba-cocktail/zombie/",
+    "photo": "assets/photos/zombie.webp",
+    "photoSource": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-zombie-6695cdd6cef05.webp",
+    "photoCredit": "IBA · International Bartenders Association",
+    "checkedAt": "2026-11-02",
+    "zh": "僵尸",
+    "base": "朗姆酒",
+    "bases": [
+      "朗姆酒"
+    ],
+    "tags": [
+      "热带果香",
+      "香料"
+    ],
+    "color": "#f0e2c8",
+    "method": "搅打",
+    "glass": "高身平底杯",
+    "garnish": "薄荷叶",
+    "ingredients": [
+      {
+        "name": "牙买加深色朗姆酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "波多黎各金朗姆酒",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "德梅拉拉朗姆酒（Demerara）",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "新鲜青柠汁",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "法勒纳姆（Falernum）",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "Donn’s Mix",
+        "amount": 15,
+        "unit": "ml",
+        "note": "配方见调配说明"
+      },
+      {
+        "name": "石榴糖浆",
+        "amount": 1,
+        "unit": "茶匙"
+      },
+      {
+        "name": "安格仕苦精",
+        "amount": 1,
+        "unit": "dash"
+      },
+      {
+        "name": "潘诺茴香酒（Pernod）",
+        "amount": 6,
+        "unit": "滴"
+      },
+      {
+        "name": "碎裂冰",
+        "amount": 170,
+        "unit": "g",
+        "note": "用于搅打"
+      }
+    ],
+    "steps": [
+      {
+        "title": "入机加冰",
+        "text": "将全部饮品原料与 170 g 碎裂冰放入电动搅拌机。"
+      },
+      {
+        "title": "脉冲搅打",
+        "text": "使用脉冲功能搅打数秒，倒入高身平底杯。"
+      },
+      {
+        "title": "完成装饰",
+        "text": "以薄荷叶装饰。"
+      }
+    ],
+    "tip": "只需脉冲搅打数秒；Pernod 用滴计量，安格仕苦精用 dash。",
+    "category": "contemporary",
+    "recipeNotes": [
+      {
+        "title": "Donn’s Mix 调配",
+        "text": "将 2 份新鲜黄西柚汁与 1 份肉桂糖浆混合，再从混合液中量取 15 ml。"
+      }
+    ],
+    "sourceNote": "IBA 的 Donn’s Mix 备注将黄西柚部分写作 fresh yellow grapefruit，未另写 juice；此处按可调配液体表述为新鲜黄西柚汁。"
+  }
+]
