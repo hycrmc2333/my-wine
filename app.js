@@ -35,14 +35,11 @@
     'moscow-mule': ['Ginger with a little kick.', '一口姜香，一口清爽。']
   };
   let cocktails = [], selectedBase = '全部', selectedCategory = 'all', selectedPreparation = 'all', query = '', portions = 1, activeSlide = 0;
-  let favorites = new Set(), completed = new Set(), origin = '#', lastOpened = '', scrollBeforeDetail = 0, toastTimer, previousListScope = '', detailIsInnovation = false;
-  try { const stored = JSON.parse(localStorage.getItem('my-wine-favorites') || '[]'); if (Array.isArray(stored)) favorites = new Set(stored.filter(x => typeof x === 'string')); } catch {}
+  let favorites = new Set(), completed = new Set(), origin = '#', lastOpened = '', scrollBeforeDetail = 0, toastTimer, detailIsInnovation = false;
   let pantryData = {items:[], requirements:{}}, pantryOwned = new Set(), pantryEnabled = false, pantryQuery = '';
-  try { const saved = JSON.parse(localStorage.getItem('my-wine-pantry') || '{}'); if (Array.isArray(saved.items)) pantryOwned = new Set(saved.items.filter(id=>typeof id==='string')); pantryEnabled = saved.enabled === true; } catch {}
   const pantryGroups = [['spirits','酒类','烈酒 · 葡萄酒 · 起泡酒'],['liqueurs','配制酒与利口酒','味美思 · 开胃酒 · 苦精'],['mixers','其他配料','果汁 · 水果 · 糖浆 · 乳制品']];
   function persistPantry() {
-    try { localStorage.setItem('my-wine-pantry', JSON.stringify({items:[...pantryOwned], enabled:pantryEnabled})); }
-    catch { notify('本次选择已生效；浏览器未允许保存材料清单'); }
+    persistProfile();
   }
   const pantryExpanded = new Set();
   function pantryBulkItems(key) {
@@ -100,6 +97,62 @@
     const toast = document.querySelector('#toast'); toast.textContent = text; toast.classList.add('visible');
     clearTimeout(toastTimer); toastTimer = setTimeout(() => toast.classList.remove('visible'), 2500);
   };
+  let storage;
+  try { storage = window.localStorage; } catch { storage = {getItem() { throw new Error('unavailable'); }, setItem() { throw new Error('unavailable'); }}; }
+  const profiles = WineProfiles.createStore(storage);
+  let activeNickname = '', pendingInnovation = false;
+  const gate = document.getElementById('profile-gate');
+  const nicknameInput = document.getElementById('profile-name');
+  const profileError = document.getElementById('profile-error');
+  function persistProfile() {
+    if (!activeNickname) return false;
+    const persisted = profiles.save({name: activeNickname, favorites: [...favorites], pantry: {items: [...pantryOwned], enabled: pantryEnabled}, preferences: {base: selectedBase, category: pendingInnovation ? 'innovations' : selectedCategory, preparation: selectedPreparation, flavors: [...selectedFlavors], query}});
+    if (!persisted) notify('本次选择已生效；浏览器未允许保存，刷新后可能丢失');
+    return persisted;
+  }
+  function showGate(show) {
+    gate.hidden = !show;
+    document.body.classList.toggle('profile-locked', show);
+    document.querySelectorAll('.site-header, #main, .site-footer, .skip-link').forEach(el => { el.hidden = show; });
+    if (show) {
+      nicknameInput.value = activeNickname || profiles.read().lastNickname || '';
+      profileError.textContent = '';
+      nicknameInput.removeAttribute('aria-invalid');
+      document.getElementById('profile-cancel').hidden = !activeNickname;
+      document.title = '你的昵称 · My Wine';
+      window.scrollTo({top: 0, behavior: 'instant'});
+      nicknameInput.focus();
+    }
+  }
+  document.getElementById('profile-switch').addEventListener('click', () => showGate(true));
+  document.getElementById('profile-cancel').addEventListener('click', () => { showGate(false); renderRoute(true); document.getElementById('profile-switch').focus(); });
+  nicknameInput.addEventListener('input', () => { profileError.textContent = ''; nicknameInput.removeAttribute('aria-invalid'); });
+  document.getElementById('profile-form').addEventListener('submit', event => {
+    event.preventDefault();
+    let result;
+    try { result = profiles.open(nicknameInput.value); }
+    catch (error) { profileError.textContent = error.message; nicknameInput.setAttribute('aria-invalid', 'true'); nicknameInput.focus(); return; }
+    const switching = Boolean(activeNickname);
+    const p = result.profile, prefs = p.preferences;
+    activeNickname = p.name; favorites = new Set(p.favorites);
+    pantryOwned = new Set(p.pantry.items.filter(id => !pantryData.items.length || pantryData.items.some(item => item.id === id)));
+    pantryEnabled = p.pantry.enabled;
+    selectedBase = ['全部', ...baseOrder].includes(prefs.base) ? prefs.base : '全部';
+    selectedCategory = categories.some(c => c.id === prefs.category) ? prefs.category : 'all';
+    selectedPreparation = prefs.preparation; query = prefs.query;
+    selectedFlavors.clear(); prefs.flavors.filter(id => WineFlavors.options.some(f => f.id === id)).forEach(id => selectedFlavors.add(id));
+    pantryExpanded.clear(); pantryQuery = ''; lastOpened = ''; completed.clear();
+    if (!switching && location.hash === '#innovations') selectedCategory = 'innovations';
+    pendingInnovation = selectedCategory === 'innovations' && !cocktails.some(isInnovation);
+    if (switching || !location.hash || location.hash === '#') history.replaceState(null, '', selectedCategory === 'innovations' ? '#innovations' : '#');
+    origin = selectedCategory === 'innovations' ? '#innovations' : '#';
+    document.getElementById('profile-current').textContent = activeNickname;
+    document.getElementById('profile-switch').setAttribute('aria-label', `${activeNickname}，切换昵称`);
+    showGate(false); renderRoute(true); main.focus();
+    if (!result.persisted) notify('当前浏览器未允许保存，刷新后可能丢失');
+    else if (result.migrated) notify('原有收藏和材料已归入这个昵称');
+  });
+  showGate(true);
   function updateNav() {
     document.querySelector('#favorite-count').textContent = favorites.size;
     document.querySelector('#catalog-size').textContent = `${cocktails.filter(c=>!isInnovation(c)).length} 款 IBA 经典 · ${cocktails.filter(isInnovation).length} 款 Innovations`;
@@ -117,9 +170,7 @@
     return `<article class="cocktail-card" style="--tile:${c.color}"><a class="card-link" href="#cocktail/${c.id}" data-open="${c.id}" aria-label="查看 ${esc(c.name)} ${esc(c.zh)} 的配方"><span class="card-top${isInnovation(c) ? ' card-bar' : ''}" title="${esc(c.bar?.name || c.base)}">${isInnovation(c) ? esc(c.bar.name) : `${esc(c.base)} · ${esc(c.tags[0])}`}</span><div class="card-illustration"><img src="${illustration(c)}" width="400" height="400" loading="lazy" alt="${esc(c.zh)}的纸感手绘插画" data-art="${c.id}"></div><div class="card-copy"><h2 lang="en">${esc(c.name)}</h2><div class="card-bottom"><p>${esc(c.zh)} · ${c.milkWashed ? '奶洗澄清' : esc(c.tags[1])}</p>${icon('arrow-up-right')}</div></div></a>${saveButton(c)}</article>`;
   }
   function listPage(savedOnly) {
-    const scopeKey = savedOnly ? 'favorites' : 'collection';
-    if (previousListScope !== scopeKey) { selectedCategory = location.hash === '#innovations' ? 'innovations' : 'all'; selectedPreparation = 'all'; selectedBase = '全部'; query = ''; previousListScope = scopeKey; }
-    if (selectedCategory === 'innovations' && !cocktails.some(isInnovation)) selectedCategory = 'all';
+    if (selectedCategory === 'innovations' && !cocktails.some(isInnovation)) { pendingInnovation = true; selectedCategory = 'all'; }
     const innovative = selectedCategory === 'innovations';
     const list = scopeDrinks();
     const innovations = list.filter(isInnovation);
@@ -133,7 +184,7 @@
     updatePantry(); searchPantry();
     renderGrid();
     document.getElementById('pantry-search').addEventListener('input', event => { pantryQuery = event.target.value; searchPantry(); });
-    document.getElementById('search').addEventListener('input', event => { query = event.target.value; renderGrid(); });
+    document.getElementById('search').addEventListener('input', event => { query = event.target.value; persistProfile(); renderGrid(); });
     document.getElementById('random').addEventListener('click', () => {
       const list = filtered(); if (!list.length) return;
       openDrink(list[Math.floor(Math.random() * list.length)].id);
@@ -206,7 +257,8 @@
     const track = document.getElementById('gallery-track');
     track.scrollTo({left:track.clientWidth * activeSlide, behavior:matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth'});
   }
-  function renderRoute() {
+  function renderRoute(preserveFilters = false) {
+    if (!activeNickname || !cocktails.length) return;
     const hash = location.hash;
     if (hash.startsWith('#cocktail/')) {
       const c = cocktails.find(c => c.id === hash.slice(10));
@@ -214,7 +266,7 @@
       window.scrollTo({top:0,behavior:'instant'});
       const heading = main.querySelector('h1'); if (heading) heading.focus({preventScroll:true});
     } else {
-      if (!lastOpened && hash !== '#favorites') { selectedCategory = hash === '#innovations' ? 'innovations' : 'all'; selectedPreparation = 'all'; }
+      if (!preserveFilters && !lastOpened && hash !== '#favorites') { selectedCategory = hash === '#innovations' ? 'innovations' : 'all'; selectedPreparation = 'all'; pendingInnovation = selectedCategory === 'innovations' && !cocktails.some(isInnovation); persistProfile(); }
       listPage(hash === '#favorites');
       if (lastOpened) {
         const link = main.querySelector(`[data-open="${lastOpened}"]`);
@@ -234,8 +286,7 @@
       const id = save.dataset.save;
       const saveIndex = [...main.querySelectorAll('[data-save]')].indexOf(save);
       if (favorites.has(id)) favorites.delete(id); else favorites.add(id);
-      let persisted = true;
-      try { localStorage.setItem('my-wine-favorites', JSON.stringify([...favorites])); } catch { persisted = false; }
+      const persisted = persistProfile();
       main.querySelectorAll(`[data-save="${id}"]`).forEach(button => { button.setAttribute('aria-pressed',String(favorites.has(id))); button.setAttribute('aria-label', `${favorites.has(id) ? '取消收藏' : '收藏'} ${cocktails.find(c=>c.id===id).name}`); });
       updateNav();
       if (location.hash === '#favorites') {
@@ -250,14 +301,14 @@
     const open = event.target.closest('[data-open]');
     if (open && !event.metaKey && !event.ctrlKey && !event.shiftKey && !event.altKey) { event.preventDefault(); openDrink(open.dataset.open); return; }
     const flavor = event.target.closest('[data-flavor]');
-    if (flavor) { const id = flavor.dataset.flavor; if (id==='all') selectedFlavors.clear(); else if (selectedFlavors.has(id)) selectedFlavors.delete(id); else selectedFlavors.add(id); main.querySelectorAll('[data-flavor]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.flavor==='all' ? !selectedFlavors.size : selectedFlavors.has(b.dataset.flavor)))); renderGrid(); return; }
+    if (flavor) { const id = flavor.dataset.flavor; if (id==='all') selectedFlavors.clear(); else if (selectedFlavors.has(id)) selectedFlavors.delete(id); else selectedFlavors.add(id); main.querySelectorAll('[data-flavor]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.flavor==='all' ? !selectedFlavors.size : selectedFlavors.has(b.dataset.flavor)))); persistProfile(); renderGrid(); return; }
     const base = event.target.closest('[data-base]');
-    if (base) { selectedBase = base.dataset.base; main.querySelectorAll('[data-base]').forEach(b => b.setAttribute('aria-pressed',String(b.dataset.base === selectedBase))); renderGrid(); return; }
+    if (base) { selectedBase = base.dataset.base; main.querySelectorAll('[data-base]').forEach(b => b.setAttribute('aria-pressed',String(b.dataset.base === selectedBase))); persistProfile(); renderGrid(); return; }
     const preparation = event.target.closest('[data-preparation]');
-    if (preparation) { selectedPreparation = preparation.dataset.preparation; main.querySelectorAll('[data-preparation]').forEach(b => b.setAttribute('aria-pressed',String(b.dataset.preparation === selectedPreparation))); renderGrid(); return; }
+    if (preparation) { selectedPreparation = preparation.dataset.preparation; main.querySelectorAll('[data-preparation]').forEach(b => b.setAttribute('aria-pressed',String(b.dataset.preparation === selectedPreparation))); persistProfile(); renderGrid(); return; }
     const category = event.target.closest('[data-category]');
-    if (category) { selectedCategory = category.dataset.category; selectedPreparation = 'all'; if (location.hash !== '#favorites') history.replaceState(null, '', selectedCategory === 'innovations' ? '#innovations' : '#'); listPage(location.hash === '#favorites'); main.querySelector(`[data-category="${selectedCategory}"]`).focus({preventScroll:true}); return; }
-    if (event.target.closest('[data-reset]')) { selectedBase='全部'; selectedCategory='all'; selectedPreparation='all'; query=''; selectedFlavors.clear(); pantryEnabled=false; persistPantry(); listPage(location.hash === '#favorites'); document.getElementById('search').focus(); return; }
+    if (category) { pendingInnovation = false; selectedCategory = category.dataset.category; selectedPreparation = 'all'; if (location.hash !== '#favorites') history.replaceState(null, '', selectedCategory === 'innovations' ? '#innovations' : '#'); persistProfile(); listPage(location.hash === '#favorites'); main.querySelector(`[data-category="${selectedCategory}"]`).focus({preventScroll:true}); return; }
+    if (event.target.closest('[data-reset]')) { pendingInnovation=false; selectedBase='全部'; selectedCategory='all'; selectedPreparation='all'; query=''; selectedFlavors.clear(); pantryEnabled=false; if (location.hash !== '#favorites') history.replaceState(null, '', '#'); persistPantry(); listPage(location.hash === '#favorites'); document.getElementById('search').focus(); return; }
     const gallery = event.target.closest('[data-gallery-index]');
     if (gallery) { slideTo(Number(gallery.dataset.galleryIndex)); return; }
     const arrow = event.target.closest('[data-slide]');
@@ -300,7 +351,7 @@
     message.innerHTML = img.dataset.photo ? `实拍图片暂时无法显示<br><a href="${esc(c?.source)}" target="_blank" rel="noopener noreferrer">查看来源图片</a>` : '插画暂时无法显示';
     img.replaceWith(message);
   },true);
-  window.addEventListener('hashchange',renderRoute);
+  window.addEventListener('hashchange', () => renderRoute(false));
   async function start() {
     try {
       const datasets = await Promise.all(['cocktails.json'].map(async file => {
@@ -313,7 +364,7 @@
       pantryOwned = new Set([...pantryOwned].filter(id=>pantryData.items.some(i=>i.id===id)));
       cocktails = datasets.flat();
       if (!Array.isArray(cocktails) || !cocktails.length) throw new Error('empty recipe data');
-      renderRoute();
+      renderRoute(true);
       // Optional collection must never delay or break the working classic catalogue.
       fetch('innovations.json', {cache:'no-cache'}).then(async response => {
         if (!response.ok) return;
@@ -321,9 +372,10 @@
         if (!Array.isArray(extra) || !extra.every(c=>c && typeof c.id==='string' && c.category==='innovations' && c.bar?.name && Array.isArray(c.tags) && Array.isArray(c.ingredients) && Array.isArray(c.steps))) return;
         const existing = new Set(cocktails.map(c=>c.id));
         cocktails.push(...extra.filter(c=>!existing.has(c.id)));
-        if (location.hash.startsWith('#cocktail/')) { if (!document.querySelector('.recipe')) renderRoute(); else updateNav(); }
+        if (!activeNickname) return;
+        if (pendingInnovation) { selectedCategory='innovations'; pendingInnovation=false; }
+        if (location.hash.startsWith('#cocktail/')) { if (!document.querySelector('.recipe')) renderRoute(true); else updateNav(); }
         else {
-          if (location.hash==='#innovations') selectedCategory='innovations';
           listPage(location.hash==='#favorites'); updateNav();
         }
       }).catch(() => { /* Keep the already rendered catalogue usable. */ });

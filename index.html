@@ -8,20 +8,29 @@
   <title>一杯经典 · My Wine</title>
   <link rel="icon" type="image/svg+xml" href="assets/icons/glass-cocktail.svg">
   <link rel="preload" as="font" type="font/ttf" href="assets/fonts/bricolage-600.ttf" crossorigin>
-  <link rel="stylesheet" href="styles.css?v=20261103-images640">
+  <link rel="stylesheet" href="styles.css?v=20261105-profiles">
   <script src="flavors.js?v=20261103-groups" defer></script>
   <script src="pantry.js?v=20261103-groups" defer></script>
-<script src="app.js?v=20261103-groups" defer></script>
+<script src="profiles.js?v=20261105-profiles" defer></script>
+  <script src="app.js?v=20261105-profiles" defer></script>
 </head>
-<body>
+<body class="profile-locked">
+  <section id="profile-gate" class="profile-gate" aria-labelledby="profile-title">
+    <div class="profile-welcome"><span class="profile-wordmark">MY WINE <span>一杯经典</span></span><div class="profile-art"><img src="assets/illustrations/negroni.webp?v=640-1" width="320" height="320" alt="内格罗尼手绘插画"><span>A little mix.<br>A little you.</span></div></div>
+    <div class="profile-entry"><p class="profile-eyebrow">YOUR OWN LITTLE COLLECTION</p><h1 id="profile-title">这一杯，<br>怎么称呼你？</h1><p class="profile-intro">留下昵称，把喜欢的酒和口味，<br>留给下一次相聚。</p>
+      <form id="profile-form"><label for="profile-name">你的昵称</label><input id="profile-name" name="nickname" autocomplete="nickname" placeholder="例如：小柠檬" required aria-describedby="profile-hint profile-error"><p id="profile-error" role="alert"></p><button class="solid-button" type="submit">进入我的酒单 <span aria-hidden="true">↗</span></button></form>
+      <p id="profile-hint">收藏、材料与筛选自动保存在当前浏览器。<br>输入相同昵称即可继续；不同设备或网址不互通。</p>
+      <button type="button" id="profile-cancel" class="text-link" hidden>返回当前酒单</button>
+    </div>
+  </section>
 <!-- THESIS: An illustrated cocktail collection that opens directly into a usable recipe.
 OWN-WORLD: botanical green ink, chalk-white paper, source-derived pastel specimen squares, Bricolage names, cut-paper cocktail subjects.
 STORY: Browse a glass, open its recipe, compare illustration with photograph, make the drink in order.
 FIRST VIEWPORT: compact masthead, left title and right illustrated Negroni, search and base filters, four square drink tiles.
 FORM: user-pinned illustrated specimen collection, code-led; direction seed c3f3cd50, candidate 7, overridden by the explicit grid and cutout brief.
 FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, and DESIGN.md -->
-  <a class="skip-link" href="#main">跳到酒单</a>
-  <header class="site-header">
+  <a class="skip-link" hidden href="#main">跳到酒单</a>
+  <header class="site-header" hidden>
     <a class="brand" href="#" aria-label="一杯经典，返回酒单">
       <span class="brand-symbol"><img src="assets/icons/glass-cocktail.svg" alt="" width="26" height="26"></span>
       <span class="brand-word">MY WINE<span>一杯经典</span></span>
@@ -30,12 +39,12 @@ FINISH: unreviewed and undocumented is unfinished; this build ends with the fini
       <a class="nav-link active" href="#" id="nav-collection">酒单</a>
       <a class="nav-link" href="#favorites" id="nav-favorites"><img src="assets/icons/heart.svg" class="icon" alt="">我的收藏<span id="favorite-count">0</span></a>
     </nav>
-    <span class="header-note">A little mix. A little joy.</span>
+    <button class="profile-switch" id="profile-switch" type="button"><span id="profile-current"></span><span>切换昵称</span></button>
   </header>
-  <main id="main" tabindex="-1">
+  <main id="main" tabindex="-1" hidden>
     <div class="loading-state" role="status" aria-label="正在打开酒单"><div class="skeleton-title"></div><div class="skeleton-grid"><div></div><div></div><div></div><div></div></div><p>正在翻开酒单…</p></div>
   </main>
-  <footer class="site-footer">
+  <footer class="site-footer" hidden>
     <a class="footer-brand" href="#">MY WINE <span>把一杯酒，调成自己的小日常。</span></a>
     <p>配方参考 <a href="https://iba-world.com/cocktails/" target="_blank" rel="noopener noreferrer">IBA 官方酒单</a> · <span id="catalog-size">完整官方酒单</span></p>
   </footer>
